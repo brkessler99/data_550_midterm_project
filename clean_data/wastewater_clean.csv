@@ -1,3001 +1,3001 @@
-state,year,month,mean_percentile,region
-Alabama,2020,1,,South
-Alabama,2020,2,,South
-Alabama,2020,3,,South
-Alabama,2020,4,,South
-Alabama,2020,5,,South
-Alabama,2020,6,,South
-Alabama,2020,7,,South
-Alabama,2020,8,,South
-Alabama,2020,9,,South
-Alabama,2020,10,,South
-Alabama,2020,11,,South
-Alabama,2020,12,,South
-Alabama,2021,1,,South
-Alabama,2021,2,,South
-Alabama,2021,3,,South
-Alabama,2021,4,,South
-Alabama,2021,5,,South
-Alabama,2021,6,,South
-Alabama,2021,7,,South
-Alabama,2021,8,,South
-Alabama,2021,9,,South
-Alabama,2021,10,,South
-Alabama,2021,11,,South
-Alabama,2021,12,,South
-Alabama,2022,1,,South
-Alabama,2022,2,,South
-Alabama,2022,3,,South
-Alabama,2022,4,,South
-Alabama,2022,5,,South
-Alabama,2022,6,,South
-Alabama,2022,7,,South
-Alabama,2022,8,50.315877238806,South
-Alabama,2022,9,,South
-Alabama,2022,10,,South
-Alabama,2022,11,,South
-Alabama,2022,12,,South
-Alabama,2023,1,,South
-Alabama,2023,2,,South
-Alabama,2023,3,,South
-Alabama,2023,4,,South
-Alabama,2023,5,,South
-Alabama,2023,6,,South
-Alabama,2023,7,,South
-Alabama,2023,8,,South
-Alabama,2023,9,,South
-Alabama,2023,10,,South
-Alabama,2023,11,,South
-Alabama,2023,12,54.1225071428572,South
-Alabama,2024,1,,South
-Alabama,2024,2,,South
-Alabama,2024,3,,South
-Alabama,2024,4,,South
-Alabama,2024,5,,South
-Alabama,2024,6,,South
-Alabama,2024,7,,South
-Alabama,2024,8,,South
-Alabama,2024,9,,South
-Alabama,2024,10,,South
-Alabama,2024,11,,South
-Alabama,2024,12,,South
-Alaska,2020,1,,West
-Alaska,2020,2,,West
-Alaska,2020,3,,West
-Alaska,2020,4,,West
-Alaska,2020,5,,West
-Alaska,2020,6,,West
-Alaska,2020,7,,West
-Alaska,2020,8,,West
-Alaska,2020,9,,West
-Alaska,2020,10,,West
-Alaska,2020,11,,West
-Alaska,2020,12,,West
-Alaska,2021,1,,West
-Alaska,2021,2,,West
-Alaska,2021,3,,West
-Alaska,2021,4,,West
-Alaska,2021,5,,West
-Alaska,2021,6,,West
-Alaska,2021,7,,West
-Alaska,2021,8,,West
-Alaska,2021,9,,West
-Alaska,2021,10,,West
-Alaska,2021,11,,West
-Alaska,2021,12,,West
-Alaska,2022,1,,West
-Alaska,2022,2,,West
-Alaska,2022,3,,West
-Alaska,2022,4,,West
-Alaska,2022,5,,West
-Alaska,2022,6,,West
-Alaska,2022,7,,West
-Alaska,2022,8,,West
-Alaska,2022,9,,West
-Alaska,2022,10,,West
-Alaska,2022,11,,West
-Alaska,2022,12,,West
-Alaska,2023,1,,West
-Alaska,2023,2,,West
-Alaska,2023,3,,West
-Alaska,2023,4,,West
-Alaska,2023,5,49.7087490909091,West
-Alaska,2023,6,,West
-Alaska,2023,7,,West
-Alaska,2023,8,,West
-Alaska,2023,9,,West
-Alaska,2023,10,,West
-Alaska,2023,11,,West
-Alaska,2023,12,47.5591772151899,West
-Alaska,2024,1,999,West
-Alaska,2024,2,,West
-Alaska,2024,3,,West
-Alaska,2024,4,,West
-Alaska,2024,5,,West
-Alaska,2024,6,,West
-Alaska,2024,7,,West
-Alaska,2024,8,,West
-Alaska,2024,9,,West
-Alaska,2024,10,,West
-Alaska,2024,11,,West
-Alaska,2024,12,,West
-Arizona,2020,1,,West
-Arizona,2020,2,,West
-Arizona,2020,3,,West
-Arizona,2020,4,50.0791389913899,West
-Arizona,2020,5,,West
-Arizona,2020,6,,West
-Arizona,2020,7,,West
-Arizona,2020,8,,West
-Arizona,2020,9,,West
-Arizona,2020,10,,West
-Arizona,2020,11,,West
-Arizona,2020,12,,West
-Arizona,2021,1,,West
-Arizona,2021,2,50.7409384445264,West
-Arizona,2021,3,,West
-Arizona,2021,4,,West
-Arizona,2021,5,,West
-Arizona,2021,6,,West
-Arizona,2021,7,,West
-Arizona,2021,8,,West
-Arizona,2021,9,,West
-Arizona,2021,10,,West
-Arizona,2021,11,,West
-Arizona,2021,12,,West
-Arizona,2022,1,,West
-Arizona,2022,2,,West
-Arizona,2022,3,,West
-Arizona,2022,4,,West
-Arizona,2022,5,,West
-Arizona,2022,6,,West
-Arizona,2022,7,,West
-Arizona,2022,8,,West
-Arizona,2022,9,,West
-Arizona,2022,10,,West
-Arizona,2022,11,,West
-Arizona,2022,12,,West
-Arizona,2023,1,,West
-Arizona,2023,2,,West
-Arizona,2023,3,,West
-Arizona,2023,4,,West
-Arizona,2023,5,,West
-Arizona,2023,6,,West
-Arizona,2023,7,48.8644213075061,West
-Arizona,2023,8,49.3904377104377,West
-Arizona,2023,9,,West
-Arizona,2023,10,48.8305147058824,West
-Arizona,2023,11,50.2887294117647,West
-Arizona,2023,12,48.3879394618834,West
-Arizona,2024,1,,West
-Arizona,2024,2,,West
-Arizona,2024,3,,West
-Arizona,2024,4,,West
-Arizona,2024,5,,West
-Arizona,2024,6,,West
-Arizona,2024,7,,West
-Arizona,2024,8,,West
-Arizona,2024,9,,West
-Arizona,2024,10,,West
-Arizona,2024,11,,West
-Arizona,2024,12,,West
-Arkansas,2020,1,,South
-Arkansas,2020,2,,South
-Arkansas,2020,3,,South
-Arkansas,2020,4,,South
-Arkansas,2020,5,,South
-Arkansas,2020,6,,South
-Arkansas,2020,7,,South
-Arkansas,2020,8,,South
-Arkansas,2020,9,,South
-Arkansas,2020,10,,South
-Arkansas,2020,11,,South
-Arkansas,2020,12,,South
-Arkansas,2021,1,,South
-Arkansas,2021,2,,South
-Arkansas,2021,3,,South
-Arkansas,2021,4,,South
-Arkansas,2021,5,,South
-Arkansas,2021,6,,South
-Arkansas,2021,7,,South
-Arkansas,2021,8,,South
-Arkansas,2021,9,,South
-Arkansas,2021,10,,South
-Arkansas,2021,11,,South
-Arkansas,2021,12,,South
-Arkansas,2022,1,,South
-Arkansas,2022,2,,South
-Arkansas,2022,3,,South
-Arkansas,2022,4,,South
-Arkansas,2022,5,,South
-Arkansas,2022,6,,South
-Arkansas,2022,7,,South
-Arkansas,2022,8,,South
-Arkansas,2022,9,,South
-Arkansas,2022,10,,South
-Arkansas,2022,11,,South
-Arkansas,2022,12,,South
-Arkansas,2023,1,,South
-Arkansas,2023,2,,South
-Arkansas,2023,3,,South
-Arkansas,2023,4,49.2462287581699,South
-Arkansas,2023,5,,South
-Arkansas,2023,6,,South
-Arkansas,2023,7,,South
-Arkansas,2023,8,,South
-Arkansas,2023,9,,South
-Arkansas,2023,10,,South
-Arkansas,2023,11,51.7272514285714,South
-Arkansas,2023,12,,South
-Arkansas,2024,1,999,South
-Arkansas,2024,2,,South
-Arkansas,2024,3,,South
-Arkansas,2024,4,,South
-Arkansas,2024,5,,South
-Arkansas,2024,6,,South
-Arkansas,2024,7,,South
-Arkansas,2024,8,,South
-Arkansas,2024,9,,South
-Arkansas,2024,10,,South
-Arkansas,2024,11,,South
-Arkansas,2024,12,,South
-California,2020,1,,West
-California,2020,2,,West
-California,2020,3,,West
-California,2020,4,,West
-California,2020,5,,West
-California,2020,6,,West
-California,2020,7,,West
-California,2020,8,,West
-California,2020,9,,West
-California,2020,10,,West
-California,2020,11,,West
-California,2020,12,,West
-California,2021,1,,West
-California,2021,2,,West
-California,2021,3,,West
-California,2021,4,,West
-California,2021,5,,West
-California,2021,6,,West
-California,2021,7,,West
-California,2021,8,,West
-California,2021,9,,West
-California,2021,10,,West
-California,2021,11,,West
-California,2021,12,,West
-California,2022,1,50.3589943539631,West
-California,2022,2,50.1611641025641,West
-California,2022,3,50.2794873697227,West
-California,2022,4,49.8151868050408,West
-California,2022,5,49.4179831804281,West
-California,2022,6,50.5056888694128,West
-California,2022,7,49.7915637583893,West
-California,2022,8,50.279245105873,West
-California,2022,9,50.3894183381089,West
-California,2022,10,48.9940971922246,West
-California,2022,11,50.7525423728814,West
-California,2022,12,50.9854483257545,West
-California,2023,1,50.2642377892031,West
-California,2023,2,50.3798001357313,West
-California,2023,3,50.2996030075188,West
-California,2023,4,,West
-California,2023,5,,West
-California,2023,6,49.8244374622357,West
-California,2023,7,49.5673693972179,West
-California,2023,8,50.7386515544042,West
-California,2023,9,52.0181676829268,West
-California,2023,10,47.7614306569343,West
-California,2023,11,51.6870744680851,West
-California,2023,12,53.1004921700224,West
-California,2024,1,200.028797546012,West
-California,2024,2,999,West
-California,2024,3,,West
-California,2024,4,,West
-California,2024,5,,West
-California,2024,6,,West
-California,2024,7,,West
-California,2024,8,,West
-California,2024,9,,West
-California,2024,10,,West
-California,2024,11,,West
-California,2024,12,,West
-Colorado,2020,1,,West
-Colorado,2020,2,,West
-Colorado,2020,3,,West
-Colorado,2020,4,,West
-Colorado,2020,5,,West
-Colorado,2020,6,,West
-Colorado,2020,7,,West
-Colorado,2020,8,,West
-Colorado,2020,9,,West
-Colorado,2020,10,,West
-Colorado,2020,11,,West
-Colorado,2020,12,,West
-Colorado,2021,1,,West
-Colorado,2021,2,,West
-Colorado,2021,3,,West
-Colorado,2021,4,,West
-Colorado,2021,5,,West
-Colorado,2021,6,,West
-Colorado,2021,7,,West
-Colorado,2021,8,,West
-Colorado,2021,9,,West
-Colorado,2021,10,,West
-Colorado,2021,11,,West
-Colorado,2021,12,,West
-Colorado,2022,1,,West
-Colorado,2022,2,,West
-Colorado,2022,3,,West
-Colorado,2022,4,,West
-Colorado,2022,5,50.5181087962963,West
-Colorado,2022,6,,West
-Colorado,2022,7,,West
-Colorado,2022,8,,West
-Colorado,2022,9,,West
-Colorado,2022,10,,West
-Colorado,2022,11,,West
-Colorado,2022,12,,West
-Colorado,2023,1,,West
-Colorado,2023,2,,West
-Colorado,2023,3,,West
-Colorado,2023,4,,West
-Colorado,2023,5,,West
-Colorado,2023,6,,West
-Colorado,2023,7,50.1331378142271,West
-Colorado,2023,8,50.931052631579,West
-Colorado,2023,9,,West
-Colorado,2023,10,,West
-Colorado,2023,11,,West
-Colorado,2023,12,,West
-Colorado,2024,1,,West
-Colorado,2024,2,,West
-Colorado,2024,3,,West
-Colorado,2024,4,,West
-Colorado,2024,5,,West
-Colorado,2024,6,,West
-Colorado,2024,7,,West
-Colorado,2024,8,,West
-Colorado,2024,9,,West
-Colorado,2024,10,,West
-Colorado,2024,11,,West
-Colorado,2024,12,,West
-Connecticut,2020,1,,Northeast
-Connecticut,2020,2,,Northeast
-Connecticut,2020,3,,Northeast
-Connecticut,2020,4,,Northeast
-Connecticut,2020,5,,Northeast
-Connecticut,2020,6,,Northeast
-Connecticut,2020,7,,Northeast
-Connecticut,2020,8,,Northeast
-Connecticut,2020,9,,Northeast
-Connecticut,2020,10,,Northeast
-Connecticut,2020,11,,Northeast
-Connecticut,2020,12,,Northeast
-Connecticut,2021,1,,Northeast
-Connecticut,2021,2,,Northeast
-Connecticut,2021,3,,Northeast
-Connecticut,2021,4,,Northeast
-Connecticut,2021,5,,Northeast
-Connecticut,2021,6,,Northeast
-Connecticut,2021,7,,Northeast
-Connecticut,2021,8,,Northeast
-Connecticut,2021,9,,Northeast
-Connecticut,2021,10,,Northeast
-Connecticut,2021,11,,Northeast
-Connecticut,2021,12,,Northeast
-Connecticut,2022,1,,Northeast
-Connecticut,2022,2,,Northeast
-Connecticut,2022,3,,Northeast
-Connecticut,2022,4,,Northeast
-Connecticut,2022,5,,Northeast
-Connecticut,2022,6,,Northeast
-Connecticut,2022,7,,Northeast
-Connecticut,2022,8,,Northeast
-Connecticut,2022,9,,Northeast
-Connecticut,2022,10,,Northeast
-Connecticut,2022,11,,Northeast
-Connecticut,2022,12,,Northeast
-Connecticut,2023,1,,Northeast
-Connecticut,2023,2,,Northeast
-Connecticut,2023,3,,Northeast
-Connecticut,2023,4,,Northeast
-Connecticut,2023,5,,Northeast
-Connecticut,2023,6,52.3573909465021,Northeast
-Connecticut,2023,7,52.0362858517806,Northeast
-Connecticut,2023,8,,Northeast
-Connecticut,2023,9,,Northeast
-Connecticut,2023,10,50.440462184874,Northeast
-Connecticut,2023,11,52.7555833333333,Northeast
-Connecticut,2023,12,,Northeast
-Connecticut,2024,1,,Northeast
-Connecticut,2024,2,999,Northeast
-Connecticut,2024,3,,Northeast
-Connecticut,2024,4,,Northeast
-Connecticut,2024,5,,Northeast
-Connecticut,2024,6,,Northeast
-Connecticut,2024,7,,Northeast
-Connecticut,2024,8,,Northeast
-Connecticut,2024,9,,Northeast
-Connecticut,2024,10,,Northeast
-Connecticut,2024,11,,Northeast
-Connecticut,2024,12,,Northeast
-Delaware,2020,1,,South
-Delaware,2020,2,,South
-Delaware,2020,3,,South
-Delaware,2020,4,,South
-Delaware,2020,5,,South
-Delaware,2020,6,,South
-Delaware,2020,7,,South
-Delaware,2020,8,,South
-Delaware,2020,9,,South
-Delaware,2020,10,,South
-Delaware,2020,11,,South
-Delaware,2020,12,,South
-Delaware,2021,1,,South
-Delaware,2021,2,,South
-Delaware,2021,3,,South
-Delaware,2021,4,,South
-Delaware,2021,5,,South
-Delaware,2021,6,,South
-Delaware,2021,7,,South
-Delaware,2021,8,,South
-Delaware,2021,9,,South
-Delaware,2021,10,,South
-Delaware,2021,11,,South
-Delaware,2021,12,,South
-Delaware,2022,1,,South
-Delaware,2022,2,,South
-Delaware,2022,3,,South
-Delaware,2022,4,,South
-Delaware,2022,5,,South
-Delaware,2022,6,,South
-Delaware,2022,7,,South
-Delaware,2022,8,,South
-Delaware,2022,9,,South
-Delaware,2022,10,,South
-Delaware,2022,11,,South
-Delaware,2022,12,,South
-Delaware,2023,1,,South
-Delaware,2023,2,50.3926342105263,South
-Delaware,2023,3,,South
-Delaware,2023,4,,South
-Delaware,2023,5,,South
-Delaware,2023,6,48.9311559241706,South
-Delaware,2023,7,,South
-Delaware,2023,8,,South
-Delaware,2023,9,,South
-Delaware,2023,10,,South
-Delaware,2023,11,,South
-Delaware,2023,12,,South
-Delaware,2024,1,,South
-Delaware,2024,2,,South
-Delaware,2024,3,,South
-Delaware,2024,4,,South
-Delaware,2024,5,,South
-Delaware,2024,6,,South
-Delaware,2024,7,,South
-Delaware,2024,8,,South
-Delaware,2024,9,,South
-Delaware,2024,10,,South
-Delaware,2024,11,,South
-Delaware,2024,12,,South
-Florida,2020,1,,South
-Florida,2020,2,,South
-Florida,2020,3,,South
-Florida,2020,4,,South
-Florida,2020,5,,South
-Florida,2020,6,,South
-Florida,2020,7,,South
-Florida,2020,8,,South
-Florida,2020,9,,South
-Florida,2020,10,,South
-Florida,2020,11,,South
-Florida,2020,12,,South
-Florida,2021,1,,South
-Florida,2021,2,,South
-Florida,2021,3,,South
-Florida,2021,4,,South
-Florida,2021,5,,South
-Florida,2021,6,,South
-Florida,2021,7,,South
-Florida,2021,8,,South
-Florida,2021,9,,South
-Florida,2021,10,,South
-Florida,2021,11,,South
-Florida,2021,12,,South
-Florida,2022,1,,South
-Florida,2022,2,,South
-Florida,2022,3,,South
-Florida,2022,4,48.7932030873131,South
-Florida,2022,5,,South
-Florida,2022,6,,South
-Florida,2022,7,,South
-Florida,2022,8,,South
-Florida,2022,9,49.7421385199241,South
-Florida,2022,10,51.0419327817994,South
-Florida,2022,11,,South
-Florida,2022,12,,South
-Florida,2023,1,50.9689038800706,South
-Florida,2023,2,,South
-Florida,2023,3,,South
-Florida,2023,4,,South
-Florida,2023,5,49.8073292978208,South
-Florida,2023,6,49.517181372549,South
-Florida,2023,7,50.0025814977974,South
-Florida,2023,8,50.4743625,South
-Florida,2023,9,47.1925680272109,South
-Florida,2023,10,50.3155449438202,South
-Florida,2023,11,46.8081477272727,South
-Florida,2023,12,,South
-Florida,2024,1,440.168579617834,South
-Florida,2024,2,,South
-Florida,2024,3,,South
-Florida,2024,4,,South
-Florida,2024,5,,South
-Florida,2024,6,,South
-Florida,2024,7,,South
-Florida,2024,8,,South
-Florida,2024,9,,South
-Florida,2024,10,,South
-Florida,2024,11,,South
-Florida,2024,12,,South
-Georgia,2020,1,,South
-Georgia,2020,2,,South
-Georgia,2020,3,,South
-Georgia,2020,4,,South
-Georgia,2020,5,,South
-Georgia,2020,6,,South
-Georgia,2020,7,,South
-Georgia,2020,8,,South
-Georgia,2020,9,,South
-Georgia,2020,10,,South
-Georgia,2020,11,,South
-Georgia,2020,12,,South
-Georgia,2021,1,,South
-Georgia,2021,2,,South
-Georgia,2021,3,,South
-Georgia,2021,4,,South
-Georgia,2021,5,,South
-Georgia,2021,6,,South
-Georgia,2021,7,,South
-Georgia,2021,8,,South
-Georgia,2021,9,,South
-Georgia,2021,10,,South
-Georgia,2021,11,,South
-Georgia,2021,12,,South
-Georgia,2022,1,,South
-Georgia,2022,2,,South
-Georgia,2022,3,,South
-Georgia,2022,4,,South
-Georgia,2022,5,,South
-Georgia,2022,6,50.3047148743305,South
-Georgia,2022,7,,South
-Georgia,2022,8,49.746626641651,South
-Georgia,2022,9,,South
-Georgia,2022,10,50.6615994455995,South
-Georgia,2022,11,,South
-Georgia,2022,12,,South
-Georgia,2023,1,,South
-Georgia,2023,2,,South
-Georgia,2023,3,,South
-Georgia,2023,4,,South
-Georgia,2023,5,,South
-Georgia,2023,6,,South
-Georgia,2023,7,,South
-Georgia,2023,8,,South
-Georgia,2023,9,,South
-Georgia,2023,10,,South
-Georgia,2023,11,,South
-Georgia,2023,12,,South
-Georgia,2024,1,,South
-Georgia,2024,2,,South
-Georgia,2024,3,,South
-Georgia,2024,4,,South
-Georgia,2024,5,,South
-Georgia,2024,6,,South
-Georgia,2024,7,,South
-Georgia,2024,8,,South
-Georgia,2024,9,,South
-Georgia,2024,10,,South
-Georgia,2024,11,,South
-Georgia,2024,12,,South
-Hawaii,2020,1,,West
-Hawaii,2020,2,,West
-Hawaii,2020,3,,West
-Hawaii,2020,4,,West
-Hawaii,2020,5,,West
-Hawaii,2020,6,,West
-Hawaii,2020,7,,West
-Hawaii,2020,8,,West
-Hawaii,2020,9,,West
-Hawaii,2020,10,,West
-Hawaii,2020,11,,West
-Hawaii,2020,12,,West
-Hawaii,2021,1,,West
-Hawaii,2021,2,,West
-Hawaii,2021,3,,West
-Hawaii,2021,4,,West
-Hawaii,2021,5,,West
-Hawaii,2021,6,,West
-Hawaii,2021,7,,West
-Hawaii,2021,8,,West
-Hawaii,2021,9,,West
-Hawaii,2021,10,,West
-Hawaii,2021,11,,West
-Hawaii,2021,12,,West
-Hawaii,2022,1,,West
-Hawaii,2022,2,,West
-Hawaii,2022,3,,West
-Hawaii,2022,4,,West
-Hawaii,2022,5,,West
-Hawaii,2022,6,,West
-Hawaii,2022,7,,West
-Hawaii,2022,8,,West
-Hawaii,2022,9,,West
-Hawaii,2022,10,,West
-Hawaii,2022,11,,West
-Hawaii,2022,12,,West
-Hawaii,2023,1,,West
-Hawaii,2023,2,,West
-Hawaii,2023,3,,West
-Hawaii,2023,4,,West
-Hawaii,2023,5,49.5748552036199,West
-Hawaii,2023,6,50.0720173553719,West
-Hawaii,2023,7,,West
-Hawaii,2023,8,,West
-Hawaii,2023,9,,West
-Hawaii,2023,10,,West
-Hawaii,2023,11,47.2989473684211,West
-Hawaii,2023,12,,West
-Hawaii,2024,1,,West
-Hawaii,2024,2,999,West
-Hawaii,2024,3,,West
-Hawaii,2024,4,,West
-Hawaii,2024,5,,West
-Hawaii,2024,6,,West
-Hawaii,2024,7,,West
-Hawaii,2024,8,,West
-Hawaii,2024,9,,West
-Hawaii,2024,10,,West
-Hawaii,2024,11,,West
-Hawaii,2024,12,,West
-Idaho,2020,1,,West
-Idaho,2020,2,,West
-Idaho,2020,3,,West
-Idaho,2020,4,,West
-Idaho,2020,5,,West
-Idaho,2020,6,,West
-Idaho,2020,7,,West
-Idaho,2020,8,,West
-Idaho,2020,9,,West
-Idaho,2020,10,,West
-Idaho,2020,11,,West
-Idaho,2020,12,,West
-Idaho,2021,1,,West
-Idaho,2021,2,,West
-Idaho,2021,3,,West
-Idaho,2021,4,,West
-Idaho,2021,5,,West
-Idaho,2021,6,50.2297358247423,West
-Idaho,2021,7,,West
-Idaho,2021,8,,West
-Idaho,2021,9,,West
-Idaho,2021,10,51.5725370121131,West
-Idaho,2021,11,,West
-Idaho,2021,12,,West
-Idaho,2022,1,49.7057424836601,West
-Idaho,2022,2,,West
-Idaho,2022,3,,West
-Idaho,2022,4,50.1815972461274,West
-Idaho,2022,5,50.3718605645851,West
-Idaho,2022,6,,West
-Idaho,2022,7,,West
-Idaho,2022,8,,West
-Idaho,2022,9,48.3507823529412,West
-Idaho,2022,10,49.1057654584222,West
-Idaho,2022,11,,West
-Idaho,2022,12,48.6272351351351,West
-Idaho,2023,1,50.4490806451613,West
-Idaho,2023,2,,West
-Idaho,2023,3,,West
-Idaho,2023,4,,West
-Idaho,2023,5,,West
-Idaho,2023,6,,West
-Idaho,2023,7,,West
-Idaho,2023,8,,West
-Idaho,2023,9,,West
-Idaho,2023,10,,West
-Idaho,2023,11,,West
-Idaho,2023,12,,West
-Idaho,2024,1,,West
-Idaho,2024,2,,West
-Idaho,2024,3,,West
-Idaho,2024,4,,West
-Idaho,2024,5,,West
-Idaho,2024,6,,West
-Idaho,2024,7,,West
-Idaho,2024,8,,West
-Idaho,2024,9,,West
-Idaho,2024,10,,West
-Idaho,2024,11,,West
-Idaho,2024,12,,West
-Illinois,2020,1,,Midwest
-Illinois,2020,2,,Midwest
-Illinois,2020,3,,Midwest
-Illinois,2020,4,,Midwest
-Illinois,2020,5,,Midwest
-Illinois,2020,6,,Midwest
-Illinois,2020,7,,Midwest
-Illinois,2020,8,,Midwest
-Illinois,2020,9,,Midwest
-Illinois,2020,10,,Midwest
-Illinois,2020,11,,Midwest
-Illinois,2020,12,,Midwest
-Illinois,2021,1,,Midwest
-Illinois,2021,2,,Midwest
-Illinois,2021,3,,Midwest
-Illinois,2021,4,,Midwest
-Illinois,2021,5,,Midwest
-Illinois,2021,6,,Midwest
-Illinois,2021,7,,Midwest
-Illinois,2021,8,,Midwest
-Illinois,2021,9,,Midwest
-Illinois,2021,10,,Midwest
-Illinois,2021,11,,Midwest
-Illinois,2021,12,,Midwest
-Illinois,2022,1,,Midwest
-Illinois,2022,2,49.9264234300404,Midwest
-Illinois,2022,3,50.1609210261569,Midwest
-Illinois,2022,4,49.4432306569343,Midwest
-Illinois,2022,5,50.8723549848943,Midwest
-Illinois,2022,6,50.6710867443752,Midwest
-Illinois,2022,7,50.6321252115059,Midwest
-Illinois,2022,8,51.0261795774648,Midwest
-Illinois,2022,9,49.6041726618705,Midwest
-Illinois,2022,10,49.006342605156,Midwest
-Illinois,2022,11,,Midwest
-Illinois,2022,12,52.5630756097561,Midwest
-Illinois,2023,1,49.3901975903615,Midwest
-Illinois,2023,2,50.3589157754011,Midwest
-Illinois,2023,3,,Midwest
-Illinois,2023,4,,Midwest
-Illinois,2023,5,49.7692755102041,Midwest
-Illinois,2023,6,50.4708083333333,Midwest
-Illinois,2023,7,,Midwest
-Illinois,2023,8,,Midwest
-Illinois,2023,9,,Midwest
-Illinois,2023,10,,Midwest
-Illinois,2023,11,,Midwest
-Illinois,2023,12,,Midwest
-Illinois,2024,1,,Midwest
-Illinois,2024,2,,Midwest
-Illinois,2024,3,,Midwest
-Illinois,2024,4,,Midwest
-Illinois,2024,5,,Midwest
-Illinois,2024,6,,Midwest
-Illinois,2024,7,,Midwest
-Illinois,2024,8,,Midwest
-Illinois,2024,9,,Midwest
-Illinois,2024,10,,Midwest
-Illinois,2024,11,,Midwest
-Illinois,2024,12,,Midwest
-Indiana,2020,1,,Midwest
-Indiana,2020,2,,Midwest
-Indiana,2020,3,,Midwest
-Indiana,2020,4,,Midwest
-Indiana,2020,5,,Midwest
-Indiana,2020,6,,Midwest
-Indiana,2020,7,,Midwest
-Indiana,2020,8,,Midwest
-Indiana,2020,9,,Midwest
-Indiana,2020,10,,Midwest
-Indiana,2020,11,,Midwest
-Indiana,2020,12,,Midwest
-Indiana,2021,1,,Midwest
-Indiana,2021,2,,Midwest
-Indiana,2021,3,,Midwest
-Indiana,2021,4,,Midwest
-Indiana,2021,5,,Midwest
-Indiana,2021,6,,Midwest
-Indiana,2021,7,,Midwest
-Indiana,2021,8,,Midwest
-Indiana,2021,9,,Midwest
-Indiana,2021,10,,Midwest
-Indiana,2021,11,,Midwest
-Indiana,2021,12,,Midwest
-Indiana,2022,1,,Midwest
-Indiana,2022,2,,Midwest
-Indiana,2022,3,,Midwest
-Indiana,2022,4,,Midwest
-Indiana,2022,5,,Midwest
-Indiana,2022,6,51.6486572379368,Midwest
-Indiana,2022,7,49.9518419478855,Midwest
-Indiana,2022,8,50.220170556553,Midwest
-Indiana,2022,9,50.8098793774319,Midwest
-Indiana,2022,10,49.8785494845361,Midwest
-Indiana,2022,11,,Midwest
-Indiana,2022,12,,Midwest
-Indiana,2023,1,,Midwest
-Indiana,2023,2,,Midwest
-Indiana,2023,3,,Midwest
-Indiana,2023,4,,Midwest
-Indiana,2023,5,49.6884161073826,Midwest
-Indiana,2023,6,,Midwest
-Indiana,2023,7,50.4397523640662,Midwest
-Indiana,2023,8,50.2300261096606,Midwest
-Indiana,2023,9,52.1743567251462,Midwest
-Indiana,2023,10,,Midwest
-Indiana,2023,11,49.6398725490196,Midwest
-Indiana,2023,12,,Midwest
-Indiana,2024,1,,Midwest
-Indiana,2024,2,,Midwest
-Indiana,2024,3,,Midwest
-Indiana,2024,4,,Midwest
-Indiana,2024,5,,Midwest
-Indiana,2024,6,,Midwest
-Indiana,2024,7,,Midwest
-Indiana,2024,8,,Midwest
-Indiana,2024,9,,Midwest
-Indiana,2024,10,,Midwest
-Indiana,2024,11,,Midwest
-Indiana,2024,12,,Midwest
-Iowa,2020,1,,Midwest
-Iowa,2020,2,,Midwest
-Iowa,2020,3,,Midwest
-Iowa,2020,4,,Midwest
-Iowa,2020,5,,Midwest
-Iowa,2020,6,,Midwest
-Iowa,2020,7,,Midwest
-Iowa,2020,8,,Midwest
-Iowa,2020,9,,Midwest
-Iowa,2020,10,,Midwest
-Iowa,2020,11,,Midwest
-Iowa,2020,12,,Midwest
-Iowa,2021,1,,Midwest
-Iowa,2021,2,,Midwest
-Iowa,2021,3,,Midwest
-Iowa,2021,4,,Midwest
-Iowa,2021,5,,Midwest
-Iowa,2021,6,,Midwest
-Iowa,2021,7,,Midwest
-Iowa,2021,8,,Midwest
-Iowa,2021,9,,Midwest
-Iowa,2021,10,,Midwest
-Iowa,2021,11,,Midwest
-Iowa,2021,12,,Midwest
-Iowa,2022,1,,Midwest
-Iowa,2022,2,,Midwest
-Iowa,2022,3,,Midwest
-Iowa,2022,4,,Midwest
-Iowa,2022,5,,Midwest
-Iowa,2022,6,,Midwest
-Iowa,2022,7,,Midwest
-Iowa,2022,8,,Midwest
-Iowa,2022,9,,Midwest
-Iowa,2022,10,,Midwest
-Iowa,2022,11,,Midwest
-Iowa,2022,12,50.2587660550459,Midwest
-Iowa,2023,1,50.700487458194,Midwest
-Iowa,2023,2,,Midwest
-Iowa,2023,3,,Midwest
-Iowa,2023,4,,Midwest
-Iowa,2023,5,,Midwest
-Iowa,2023,6,,Midwest
-Iowa,2023,7,,Midwest
-Iowa,2023,8,,Midwest
-Iowa,2023,9,,Midwest
-Iowa,2023,10,,Midwest
-Iowa,2023,11,54.1276595744681,Midwest
-Iowa,2023,12,55.2015675675676,Midwest
-Iowa,2024,1,,Midwest
-Iowa,2024,2,,Midwest
-Iowa,2024,3,,Midwest
-Iowa,2024,4,,Midwest
-Iowa,2024,5,,Midwest
-Iowa,2024,6,,Midwest
-Iowa,2024,7,,Midwest
-Iowa,2024,8,,Midwest
-Iowa,2024,9,,Midwest
-Iowa,2024,10,,Midwest
-Iowa,2024,11,,Midwest
-Iowa,2024,12,,Midwest
-Kansas,2020,1,,Midwest
-Kansas,2020,2,,Midwest
-Kansas,2020,3,,Midwest
-Kansas,2020,4,,Midwest
-Kansas,2020,5,,Midwest
-Kansas,2020,6,,Midwest
-Kansas,2020,7,,Midwest
-Kansas,2020,8,,Midwest
-Kansas,2020,9,,Midwest
-Kansas,2020,10,,Midwest
-Kansas,2020,11,,Midwest
-Kansas,2020,12,,Midwest
-Kansas,2021,1,,Midwest
-Kansas,2021,2,,Midwest
-Kansas,2021,3,,Midwest
-Kansas,2021,4,,Midwest
-Kansas,2021,5,,Midwest
-Kansas,2021,6,,Midwest
-Kansas,2021,7,,Midwest
-Kansas,2021,8,,Midwest
-Kansas,2021,9,,Midwest
-Kansas,2021,10,,Midwest
-Kansas,2021,11,,Midwest
-Kansas,2021,12,,Midwest
-Kansas,2022,1,,Midwest
-Kansas,2022,2,,Midwest
-Kansas,2022,3,,Midwest
-Kansas,2022,4,,Midwest
-Kansas,2022,5,,Midwest
-Kansas,2022,6,,Midwest
-Kansas,2022,7,,Midwest
-Kansas,2022,8,50.3550740088106,Midwest
-Kansas,2022,9,,Midwest
-Kansas,2022,10,,Midwest
-Kansas,2022,11,,Midwest
-Kansas,2022,12,,Midwest
-Kansas,2023,1,51.5760276872964,Midwest
-Kansas,2023,2,50.6855065274151,Midwest
-Kansas,2023,3,,Midwest
-Kansas,2023,4,,Midwest
-Kansas,2023,5,,Midwest
-Kansas,2023,6,,Midwest
-Kansas,2023,7,,Midwest
-Kansas,2023,8,,Midwest
-Kansas,2023,9,51.0673119496855,Midwest
-Kansas,2023,10,,Midwest
-Kansas,2023,11,53.3501862745098,Midwest
-Kansas,2023,12,,Midwest
-Kansas,2024,1,,Midwest
-Kansas,2024,2,,Midwest
-Kansas,2024,3,,Midwest
-Kansas,2024,4,,Midwest
-Kansas,2024,5,,Midwest
-Kansas,2024,6,,Midwest
-Kansas,2024,7,,Midwest
-Kansas,2024,8,,Midwest
-Kansas,2024,9,,Midwest
-Kansas,2024,10,,Midwest
-Kansas,2024,11,,Midwest
-Kansas,2024,12,,Midwest
-Kentucky,2020,1,,South
-Kentucky,2020,2,,South
-Kentucky,2020,3,,South
-Kentucky,2020,4,,South
-Kentucky,2020,5,,South
-Kentucky,2020,6,,South
-Kentucky,2020,7,,South
-Kentucky,2020,8,,South
-Kentucky,2020,9,,South
-Kentucky,2020,10,,South
-Kentucky,2020,11,,South
-Kentucky,2020,12,,South
-Kentucky,2021,1,,South
-Kentucky,2021,2,,South
-Kentucky,2021,3,,South
-Kentucky,2021,4,,South
-Kentucky,2021,5,,South
-Kentucky,2021,6,,South
-Kentucky,2021,7,,South
-Kentucky,2021,8,,South
-Kentucky,2021,9,,South
-Kentucky,2021,10,,South
-Kentucky,2021,11,,South
-Kentucky,2021,12,,South
-Kentucky,2022,1,,South
-Kentucky,2022,2,48.9116049382716,South
-Kentucky,2022,3,,South
-Kentucky,2022,4,,South
-Kentucky,2022,5,,South
-Kentucky,2022,6,,South
-Kentucky,2022,7,,South
-Kentucky,2022,8,,South
-Kentucky,2022,9,,South
-Kentucky,2022,10,,South
-Kentucky,2022,11,,South
-Kentucky,2022,12,,South
-Kentucky,2023,1,,South
-Kentucky,2023,2,,South
-Kentucky,2023,3,,South
-Kentucky,2023,4,,South
-Kentucky,2023,5,,South
-Kentucky,2023,6,,South
-Kentucky,2023,7,,South
-Kentucky,2023,8,,South
-Kentucky,2023,9,,South
-Kentucky,2023,10,,South
-Kentucky,2023,11,,South
-Kentucky,2023,12,,South
-Kentucky,2024,1,,South
-Kentucky,2024,2,999,South
-Kentucky,2024,3,,South
-Kentucky,2024,4,,South
-Kentucky,2024,5,,South
-Kentucky,2024,6,,South
-Kentucky,2024,7,,South
-Kentucky,2024,8,,South
-Kentucky,2024,9,,South
-Kentucky,2024,10,,South
-Kentucky,2024,11,,South
-Kentucky,2024,12,,South
-Louisiana,2020,1,,South
-Louisiana,2020,2,,South
-Louisiana,2020,3,,South
-Louisiana,2020,4,,South
-Louisiana,2020,5,,South
-Louisiana,2020,6,,South
-Louisiana,2020,7,,South
-Louisiana,2020,8,,South
-Louisiana,2020,9,,South
-Louisiana,2020,10,,South
-Louisiana,2020,11,,South
-Louisiana,2020,12,,South
-Louisiana,2021,1,,South
-Louisiana,2021,2,,South
-Louisiana,2021,3,,South
-Louisiana,2021,4,,South
-Louisiana,2021,5,,South
-Louisiana,2021,6,,South
-Louisiana,2021,7,,South
-Louisiana,2021,8,,South
-Louisiana,2021,9,,South
-Louisiana,2021,10,,South
-Louisiana,2021,11,,South
-Louisiana,2021,12,,South
-Louisiana,2022,1,,South
-Louisiana,2022,2,,South
-Louisiana,2022,3,,South
-Louisiana,2022,4,,South
-Louisiana,2022,5,,South
-Louisiana,2022,6,,South
-Louisiana,2022,7,,South
-Louisiana,2022,8,,South
-Louisiana,2022,9,,South
-Louisiana,2022,10,,South
-Louisiana,2022,11,,South
-Louisiana,2022,12,,South
-Louisiana,2023,1,,South
-Louisiana,2023,2,,South
-Louisiana,2023,3,,South
-Louisiana,2023,4,,South
-Louisiana,2023,5,,South
-Louisiana,2023,6,,South
-Louisiana,2023,7,,South
-Louisiana,2023,8,,South
-Louisiana,2023,9,,South
-Louisiana,2023,10,,South
-Louisiana,2023,11,46.9699147727273,South
-Louisiana,2023,12,,South
-Louisiana,2024,1,,South
-Louisiana,2024,2,999,South
-Louisiana,2024,3,,South
-Louisiana,2024,4,,South
-Louisiana,2024,5,,South
-Louisiana,2024,6,,South
-Louisiana,2024,7,,South
-Louisiana,2024,8,,South
-Louisiana,2024,9,,South
-Louisiana,2024,10,,South
-Louisiana,2024,11,,South
-Louisiana,2024,12,,South
-Maine,2020,1,,Northeast
-Maine,2020,2,,Northeast
-Maine,2020,3,,Northeast
-Maine,2020,4,,Northeast
-Maine,2020,5,,Northeast
-Maine,2020,6,,Northeast
-Maine,2020,7,,Northeast
-Maine,2020,8,,Northeast
-Maine,2020,9,,Northeast
-Maine,2020,10,,Northeast
-Maine,2020,11,,Northeast
-Maine,2020,12,,Northeast
-Maine,2021,1,,Northeast
-Maine,2021,2,,Northeast
-Maine,2021,3,,Northeast
-Maine,2021,4,,Northeast
-Maine,2021,5,,Northeast
-Maine,2021,6,,Northeast
-Maine,2021,7,,Northeast
-Maine,2021,8,,Northeast
-Maine,2021,9,,Northeast
-Maine,2021,10,,Northeast
-Maine,2021,11,,Northeast
-Maine,2021,12,,Northeast
-Maine,2022,1,,Northeast
-Maine,2022,2,,Northeast
-Maine,2022,3,,Northeast
-Maine,2022,4,,Northeast
-Maine,2022,5,,Northeast
-Maine,2022,6,,Northeast
-Maine,2022,7,,Northeast
-Maine,2022,8,,Northeast
-Maine,2022,9,49.477279245283,Northeast
-Maine,2022,10,,Northeast
-Maine,2022,11,50.3432416851441,Northeast
-Maine,2022,12,,Northeast
-Maine,2023,1,50.1169476309227,Northeast
-Maine,2023,2,,Northeast
-Maine,2023,3,,Northeast
-Maine,2023,4,,Northeast
-Maine,2023,5,47.9958540145985,Northeast
-Maine,2023,6,50.0456219660194,Northeast
-Maine,2023,7,50.2722735042735,Northeast
-Maine,2023,8,,Northeast
-Maine,2023,9,49.0699718026183,Northeast
-Maine,2023,10,,Northeast
-Maine,2023,11,51.8148739612188,Northeast
-Maine,2023,12,49.2026258503401,Northeast
-Maine,2024,1,,Northeast
-Maine,2024,2,999,Northeast
-Maine,2024,3,,Northeast
-Maine,2024,4,,Northeast
-Maine,2024,5,,Northeast
-Maine,2024,6,,Northeast
-Maine,2024,7,,Northeast
-Maine,2024,8,,Northeast
-Maine,2024,9,,Northeast
-Maine,2024,10,,Northeast
-Maine,2024,11,,Northeast
-Maine,2024,12,,Northeast
-Maryland,2020,1,,South
-Maryland,2020,2,,South
-Maryland,2020,3,,South
-Maryland,2020,4,,South
-Maryland,2020,5,,South
-Maryland,2020,6,,South
-Maryland,2020,7,,South
-Maryland,2020,8,,South
-Maryland,2020,9,,South
-Maryland,2020,10,,South
-Maryland,2020,11,,South
-Maryland,2020,12,,South
-Maryland,2021,1,,South
-Maryland,2021,2,,South
-Maryland,2021,3,,South
-Maryland,2021,4,,South
-Maryland,2021,5,,South
-Maryland,2021,6,,South
-Maryland,2021,7,,South
-Maryland,2021,8,,South
-Maryland,2021,9,,South
-Maryland,2021,10,,South
-Maryland,2021,11,,South
-Maryland,2021,12,,South
-Maryland,2022,1,,South
-Maryland,2022,2,,South
-Maryland,2022,3,,South
-Maryland,2022,4,,South
-Maryland,2022,5,,South
-Maryland,2022,6,,South
-Maryland,2022,7,,South
-Maryland,2022,8,,South
-Maryland,2022,9,,South
-Maryland,2022,10,,South
-Maryland,2022,11,,South
-Maryland,2022,12,51.1633211009174,South
-Maryland,2023,1,51.2078096385542,South
-Maryland,2023,2,,South
-Maryland,2023,3,,South
-Maryland,2023,4,,South
-Maryland,2023,5,,South
-Maryland,2023,6,,South
-Maryland,2023,7,,South
-Maryland,2023,8,,South
-Maryland,2023,9,,South
-Maryland,2023,10,,South
-Maryland,2023,11,52.4751931818182,South
-Maryland,2023,12,55.4708860759494,South
-Maryland,2024,1,,South
-Maryland,2024,2,999,South
-Maryland,2024,3,,South
-Maryland,2024,4,,South
-Maryland,2024,5,,South
-Maryland,2024,6,,South
-Maryland,2024,7,,South
-Maryland,2024,8,,South
-Maryland,2024,9,,South
-Maryland,2024,10,,South
-Maryland,2024,11,,South
-Maryland,2024,12,,South
-Massachusetts,2020,1,,Northeast
-Massachusetts,2020,2,,Northeast
-Massachusetts,2020,3,,Northeast
-Massachusetts,2020,4,,Northeast
-Massachusetts,2020,5,,Northeast
-Massachusetts,2020,6,,Northeast
-Massachusetts,2020,7,,Northeast
-Massachusetts,2020,8,,Northeast
-Massachusetts,2020,9,,Northeast
-Massachusetts,2020,10,,Northeast
-Massachusetts,2020,11,,Northeast
-Massachusetts,2020,12,,Northeast
-Massachusetts,2021,1,,Northeast
-Massachusetts,2021,2,,Northeast
-Massachusetts,2021,3,,Northeast
-Massachusetts,2021,4,,Northeast
-Massachusetts,2021,5,,Northeast
-Massachusetts,2021,6,,Northeast
-Massachusetts,2021,7,,Northeast
-Massachusetts,2021,8,,Northeast
-Massachusetts,2021,9,,Northeast
-Massachusetts,2021,10,,Northeast
-Massachusetts,2021,11,,Northeast
-Massachusetts,2021,12,,Northeast
-Massachusetts,2022,1,,Northeast
-Massachusetts,2022,2,,Northeast
-Massachusetts,2022,3,,Northeast
-Massachusetts,2022,4,,Northeast
-Massachusetts,2022,5,,Northeast
-Massachusetts,2022,6,,Northeast
-Massachusetts,2022,7,,Northeast
-Massachusetts,2022,8,,Northeast
-Massachusetts,2022,9,,Northeast
-Massachusetts,2022,10,,Northeast
-Massachusetts,2022,11,,Northeast
-Massachusetts,2022,12,49.754897260274,Northeast
-Massachusetts,2023,1,,Northeast
-Massachusetts,2023,2,51.2782742382272,Northeast
-Massachusetts,2023,3,,Northeast
-Massachusetts,2023,4,,Northeast
-Massachusetts,2023,5,,Northeast
-Massachusetts,2023,6,49.930579218107,Northeast
-Massachusetts,2023,7,,Northeast
-Massachusetts,2023,8,,Northeast
-Massachusetts,2023,9,,Northeast
-Massachusetts,2023,10,,Northeast
-Massachusetts,2023,11,,Northeast
-Massachusetts,2023,12,51.5865639097744,Northeast
-Massachusetts,2024,1,,Northeast
-Massachusetts,2024,2,,Northeast
-Massachusetts,2024,3,,Northeast
-Massachusetts,2024,4,,Northeast
-Massachusetts,2024,5,,Northeast
-Massachusetts,2024,6,,Northeast
-Massachusetts,2024,7,,Northeast
-Massachusetts,2024,8,,Northeast
-Massachusetts,2024,9,,Northeast
-Massachusetts,2024,10,,Northeast
-Massachusetts,2024,11,,Northeast
-Massachusetts,2024,12,,Northeast
-Michigan,2020,1,,Midwest
-Michigan,2020,2,,Midwest
-Michigan,2020,3,,Midwest
-Michigan,2020,4,,Midwest
-Michigan,2020,5,,Midwest
-Michigan,2020,6,,Midwest
-Michigan,2020,7,,Midwest
-Michigan,2020,8,,Midwest
-Michigan,2020,9,,Midwest
-Michigan,2020,10,,Midwest
-Michigan,2020,11,,Midwest
-Michigan,2020,12,,Midwest
-Michigan,2021,1,,Midwest
-Michigan,2021,2,,Midwest
-Michigan,2021,3,,Midwest
-Michigan,2021,4,,Midwest
-Michigan,2021,5,46.376374456184,Midwest
-Michigan,2021,6,51.1281091370558,Midwest
-Michigan,2021,7,49.9945256859913,Midwest
-Michigan,2021,8,49.3589265864786,Midwest
-Michigan,2021,9,50.6707103960396,Midwest
-Michigan,2021,10,50.1136570453135,Midwest
-Michigan,2021,11,,Midwest
-Michigan,2021,12,,Midwest
-Michigan,2022,1,50.5504041450777,Midwest
-Michigan,2022,2,,Midwest
-Michigan,2022,3,50.02773491457,Midwest
-Michigan,2022,4,50.0035466666667,Midwest
-Michigan,2022,5,49.4110585557987,Midwest
-Michigan,2022,6,49.974600660066,Midwest
-Michigan,2022,7,,Midwest
-Michigan,2022,8,44.5537965777193,Midwest
-Michigan,2022,9,51.3002937743191,Midwest
-Michigan,2022,10,51.4867031578947,Midwest
-Michigan,2022,11,,Midwest
-Michigan,2022,12,50.9382213759214,Midwest
-Michigan,2023,1,49.697567357513,Midwest
-Michigan,2023,2,50.5632126436782,Midwest
-Michigan,2023,3,,Midwest
-Michigan,2023,4,50.9538922056385,Midwest
-Michigan,2023,5,,Midwest
-Michigan,2023,6,,Midwest
-Michigan,2023,7,54.5161914893617,Midwest
-Michigan,2023,8,,Midwest
-Michigan,2023,9,,Midwest
-Michigan,2023,10,,Midwest
-Michigan,2023,11,,Midwest
-Michigan,2023,12,,Midwest
-Michigan,2024,1,,Midwest
-Michigan,2024,2,,Midwest
-Michigan,2024,3,,Midwest
-Michigan,2024,4,,Midwest
-Michigan,2024,5,,Midwest
-Michigan,2024,6,,Midwest
-Michigan,2024,7,,Midwest
-Michigan,2024,8,,Midwest
-Michigan,2024,9,,Midwest
-Michigan,2024,10,,Midwest
-Michigan,2024,11,,Midwest
-Michigan,2024,12,,Midwest
-Minnesota,2020,1,,Midwest
-Minnesota,2020,2,,Midwest
-Minnesota,2020,3,,Midwest
-Minnesota,2020,4,,Midwest
-Minnesota,2020,5,,Midwest
-Minnesota,2020,6,,Midwest
-Minnesota,2020,7,,Midwest
-Minnesota,2020,8,,Midwest
-Minnesota,2020,9,,Midwest
-Minnesota,2020,10,,Midwest
-Minnesota,2020,11,,Midwest
-Minnesota,2020,12,,Midwest
-Minnesota,2021,1,,Midwest
-Minnesota,2021,2,,Midwest
-Minnesota,2021,3,,Midwest
-Minnesota,2021,4,,Midwest
-Minnesota,2021,5,,Midwest
-Minnesota,2021,6,,Midwest
-Minnesota,2021,7,,Midwest
-Minnesota,2021,8,,Midwest
-Minnesota,2021,9,,Midwest
-Minnesota,2021,10,,Midwest
-Minnesota,2021,11,,Midwest
-Minnesota,2021,12,,Midwest
-Minnesota,2022,1,,Midwest
-Minnesota,2022,2,,Midwest
-Minnesota,2022,3,,Midwest
-Minnesota,2022,4,47.7549023749179,Midwest
-Minnesota,2022,5,,Midwest
-Minnesota,2022,6,,Midwest
-Minnesota,2022,7,,Midwest
-Minnesota,2022,8,50.5740607734807,Midwest
-Minnesota,2022,9,,Midwest
-Minnesota,2022,10,,Midwest
-Minnesota,2022,11,50.1200945378151,Midwest
-Minnesota,2022,12,,Midwest
-Minnesota,2023,1,,Midwest
-Minnesota,2023,2,,Midwest
-Minnesota,2023,3,,Midwest
-Minnesota,2023,4,50.1216134969325,Midwest
-Minnesota,2023,5,49.6445257731959,Midwest
-Minnesota,2023,6,,Midwest
-Minnesota,2023,7,,Midwest
-Minnesota,2023,8,,Midwest
-Minnesota,2023,9,,Midwest
-Minnesota,2023,10,,Midwest
-Minnesota,2023,11,,Midwest
-Minnesota,2023,12,,Midwest
-Minnesota,2024,1,,Midwest
-Minnesota,2024,2,,Midwest
-Minnesota,2024,3,,Midwest
-Minnesota,2024,4,,Midwest
-Minnesota,2024,5,,Midwest
-Minnesota,2024,6,,Midwest
-Minnesota,2024,7,,Midwest
-Minnesota,2024,8,,Midwest
-Minnesota,2024,9,,Midwest
-Minnesota,2024,10,,Midwest
-Minnesota,2024,11,,Midwest
-Minnesota,2024,12,,Midwest
-Mississippi,2020,1,,South
-Mississippi,2020,2,,South
-Mississippi,2020,3,,South
-Mississippi,2020,4,,South
-Mississippi,2020,5,,South
-Mississippi,2020,6,,South
-Mississippi,2020,7,,South
-Mississippi,2020,8,,South
-Mississippi,2020,9,,South
-Mississippi,2020,10,,South
-Mississippi,2020,11,,South
-Mississippi,2020,12,,South
-Mississippi,2021,1,,South
-Mississippi,2021,2,,South
-Mississippi,2021,3,,South
-Mississippi,2021,4,,South
-Mississippi,2021,5,,South
-Mississippi,2021,6,,South
-Mississippi,2021,7,,South
-Mississippi,2021,8,,South
-Mississippi,2021,9,,South
-Mississippi,2021,10,,South
-Mississippi,2021,11,,South
-Mississippi,2021,12,,South
-Mississippi,2022,1,,South
-Mississippi,2022,2,,South
-Mississippi,2022,3,,South
-Mississippi,2022,4,,South
-Mississippi,2022,5,,South
-Mississippi,2022,6,,South
-Mississippi,2022,7,,South
-Mississippi,2022,8,,South
-Mississippi,2022,9,,South
-Mississippi,2022,10,,South
-Mississippi,2022,11,,South
-Mississippi,2022,12,,South
-Mississippi,2023,1,,South
-Mississippi,2023,2,,South
-Mississippi,2023,3,,South
-Mississippi,2023,4,,South
-Mississippi,2023,5,,South
-Mississippi,2023,6,,South
-Mississippi,2023,7,,South
-Mississippi,2023,8,,South
-Mississippi,2023,9,,South
-Mississippi,2023,10,,South
-Mississippi,2023,11,48.4550097560976,South
-Mississippi,2023,12,,South
-Mississippi,2024,1,,South
-Mississippi,2024,2,,South
-Mississippi,2024,3,,South
-Mississippi,2024,4,,South
-Mississippi,2024,5,,South
-Mississippi,2024,6,,South
-Mississippi,2024,7,,South
-Mississippi,2024,8,,South
-Mississippi,2024,9,,South
-Mississippi,2024,10,,South
-Mississippi,2024,11,,South
-Mississippi,2024,12,,South
-Missouri,2020,1,,Midwest
-Missouri,2020,2,,Midwest
-Missouri,2020,3,,Midwest
-Missouri,2020,4,,Midwest
-Missouri,2020,5,,Midwest
-Missouri,2020,6,,Midwest
-Missouri,2020,7,50.1924366349842,Midwest
-Missouri,2020,8,50.4597159726538,Midwest
-Missouri,2020,9,,Midwest
-Missouri,2020,10,,Midwest
-Missouri,2020,11,,Midwest
-Missouri,2020,12,,Midwest
-Missouri,2021,1,,Midwest
-Missouri,2021,2,,Midwest
-Missouri,2021,3,50.5694539160537,Midwest
-Missouri,2021,4,50.5054127127852,Midwest
-Missouri,2021,5,51.2117164179105,Midwest
-Missouri,2021,6,50.9280608221477,Midwest
-Missouri,2021,7,,Midwest
-Missouri,2021,8,50.3428226210351,Midwest
-Missouri,2021,9,,Midwest
-Missouri,2021,10,,Midwest
-Missouri,2021,11,,Midwest
-Missouri,2021,12,,Midwest
-Missouri,2022,1,43.777243902439,Midwest
-Missouri,2022,2,50.8035142469471,Midwest
-Missouri,2022,3,,Midwest
-Missouri,2022,4,,Midwest
-Missouri,2022,5,,Midwest
-Missouri,2022,6,,Midwest
-Missouri,2022,7,,Midwest
-Missouri,2022,8,,Midwest
-Missouri,2022,9,,Midwest
-Missouri,2022,10,,Midwest
-Missouri,2022,11,,Midwest
-Missouri,2022,12,,Midwest
-Missouri,2023,1,,Midwest
-Missouri,2023,2,,Midwest
-Missouri,2023,3,,Midwest
-Missouri,2023,4,,Midwest
-Missouri,2023,5,,Midwest
-Missouri,2023,6,,Midwest
-Missouri,2023,7,,Midwest
-Missouri,2023,8,,Midwest
-Missouri,2023,9,,Midwest
-Missouri,2023,10,,Midwest
-Missouri,2023,11,999,Midwest
-Missouri,2023,12,,Midwest
-Missouri,2024,1,,Midwest
-Missouri,2024,2,,Midwest
-Missouri,2024,3,,Midwest
-Missouri,2024,4,,Midwest
-Missouri,2024,5,,Midwest
-Missouri,2024,6,,Midwest
-Missouri,2024,7,,Midwest
-Missouri,2024,8,,Midwest
-Missouri,2024,9,,Midwest
-Missouri,2024,10,,Midwest
-Missouri,2024,11,,Midwest
-Missouri,2024,12,,Midwest
-Montana,2020,1,,West
-Montana,2020,2,,West
-Montana,2020,3,,West
-Montana,2020,4,,West
-Montana,2020,5,,West
-Montana,2020,6,,West
-Montana,2020,7,,West
-Montana,2020,8,50.5148729863693,West
-Montana,2020,9,,West
-Montana,2020,10,,West
-Montana,2020,11,,West
-Montana,2020,12,,West
-Montana,2021,1,,West
-Montana,2021,2,,West
-Montana,2021,3,,West
-Montana,2021,4,,West
-Montana,2021,5,,West
-Montana,2021,6,,West
-Montana,2021,7,,West
-Montana,2021,8,,West
-Montana,2021,9,,West
-Montana,2021,10,,West
-Montana,2021,11,,West
-Montana,2021,12,,West
-Montana,2022,1,,West
-Montana,2022,2,,West
-Montana,2022,3,,West
-Montana,2022,4,,West
-Montana,2022,5,,West
-Montana,2022,6,,West
-Montana,2022,7,,West
-Montana,2022,8,,West
-Montana,2022,9,55.6589867549669,West
-Montana,2022,10,,West
-Montana,2022,11,,West
-Montana,2022,12,,West
-Montana,2023,1,,West
-Montana,2023,2,,West
-Montana,2023,3,,West
-Montana,2023,4,,West
-Montana,2023,5,,West
-Montana,2023,6,,West
-Montana,2023,7,,West
-Montana,2023,8,,West
-Montana,2023,9,,West
-Montana,2023,10,,West
-Montana,2023,11,,West
-Montana,2023,12,,West
-Montana,2024,1,999,West
-Montana,2024,2,,West
-Montana,2024,3,,West
-Montana,2024,4,,West
-Montana,2024,5,,West
-Montana,2024,6,,West
-Montana,2024,7,,West
-Montana,2024,8,,West
-Montana,2024,9,,West
-Montana,2024,10,,West
-Montana,2024,11,,West
-Montana,2024,12,,West
-Nebraska,2020,1,,Midwest
-Nebraska,2020,2,,Midwest
-Nebraska,2020,3,,Midwest
-Nebraska,2020,4,,Midwest
-Nebraska,2020,5,,Midwest
-Nebraska,2020,6,,Midwest
-Nebraska,2020,7,,Midwest
-Nebraska,2020,8,,Midwest
-Nebraska,2020,9,,Midwest
-Nebraska,2020,10,,Midwest
-Nebraska,2020,11,,Midwest
-Nebraska,2020,12,,Midwest
-Nebraska,2021,1,,Midwest
-Nebraska,2021,2,,Midwest
-Nebraska,2021,3,,Midwest
-Nebraska,2021,4,,Midwest
-Nebraska,2021,5,,Midwest
-Nebraska,2021,6,,Midwest
-Nebraska,2021,7,,Midwest
-Nebraska,2021,8,,Midwest
-Nebraska,2021,9,,Midwest
-Nebraska,2021,10,,Midwest
-Nebraska,2021,11,,Midwest
-Nebraska,2021,12,,Midwest
-Nebraska,2022,1,,Midwest
-Nebraska,2022,2,,Midwest
-Nebraska,2022,3,,Midwest
-Nebraska,2022,4,,Midwest
-Nebraska,2022,5,,Midwest
-Nebraska,2022,6,,Midwest
-Nebraska,2022,7,,Midwest
-Nebraska,2022,8,,Midwest
-Nebraska,2022,9,,Midwest
-Nebraska,2022,10,,Midwest
-Nebraska,2022,11,,Midwest
-Nebraska,2022,12,,Midwest
-Nebraska,2023,1,,Midwest
-Nebraska,2023,2,,Midwest
-Nebraska,2023,3,,Midwest
-Nebraska,2023,4,,Midwest
-Nebraska,2023,5,49.7876073338426,Midwest
-Nebraska,2023,6,49.4910164609054,Midwest
-Nebraska,2023,7,,Midwest
-Nebraska,2023,8,49.0567245901639,Midwest
-Nebraska,2023,9,,Midwest
-Nebraska,2023,10,,Midwest
-Nebraska,2023,11,,Midwest
-Nebraska,2023,12,,Midwest
-Nebraska,2024,1,,Midwest
-Nebraska,2024,2,,Midwest
-Nebraska,2024,3,,Midwest
-Nebraska,2024,4,,Midwest
-Nebraska,2024,5,,Midwest
-Nebraska,2024,6,,Midwest
-Nebraska,2024,7,,Midwest
-Nebraska,2024,8,,Midwest
-Nebraska,2024,9,,Midwest
-Nebraska,2024,10,,Midwest
-Nebraska,2024,11,,Midwest
-Nebraska,2024,12,,Midwest
-Nevada,2020,1,,West
-Nevada,2020,2,,West
-Nevada,2020,3,,West
-Nevada,2020,4,,West
-Nevada,2020,5,,West
-Nevada,2020,6,,West
-Nevada,2020,7,,West
-Nevada,2020,8,,West
-Nevada,2020,9,,West
-Nevada,2020,10,,West
-Nevada,2020,11,,West
-Nevada,2020,12,,West
-Nevada,2021,1,,West
-Nevada,2021,2,,West
-Nevada,2021,3,,West
-Nevada,2021,4,,West
-Nevada,2021,5,,West
-Nevada,2021,6,,West
-Nevada,2021,7,,West
-Nevada,2021,8,,West
-Nevada,2021,9,,West
-Nevada,2021,10,,West
-Nevada,2021,11,,West
-Nevada,2021,12,,West
-Nevada,2022,1,,West
-Nevada,2022,2,,West
-Nevada,2022,3,,West
-Nevada,2022,4,,West
-Nevada,2022,5,,West
-Nevada,2022,6,,West
-Nevada,2022,7,,West
-Nevada,2022,8,,West
-Nevada,2022,9,,West
-Nevada,2022,10,,West
-Nevada,2022,11,,West
-Nevada,2022,12,,West
-Nevada,2023,1,,West
-Nevada,2023,2,,West
-Nevada,2023,3,49.8336876876877,West
-Nevada,2023,4,,West
-Nevada,2023,5,,West
-Nevada,2023,6,,West
-Nevada,2023,7,,West
-Nevada,2023,8,,West
-Nevada,2023,9,,West
-Nevada,2023,10,,West
-Nevada,2023,11,53.5575681818182,West
-Nevada,2023,12,,West
-Nevada,2024,1,,West
-Nevada,2024,2,,West
-Nevada,2024,3,,West
-Nevada,2024,4,,West
-Nevada,2024,5,,West
-Nevada,2024,6,,West
-Nevada,2024,7,,West
-Nevada,2024,8,,West
-Nevada,2024,9,,West
-Nevada,2024,10,,West
-Nevada,2024,11,,West
-Nevada,2024,12,,West
-New Hampshire,2020,1,,Northeast
-New Hampshire,2020,2,,Northeast
-New Hampshire,2020,3,,Northeast
-New Hampshire,2020,4,,Northeast
-New Hampshire,2020,5,,Northeast
-New Hampshire,2020,6,,Northeast
-New Hampshire,2020,7,,Northeast
-New Hampshire,2020,8,,Northeast
-New Hampshire,2020,9,,Northeast
-New Hampshire,2020,10,,Northeast
-New Hampshire,2020,11,,Northeast
-New Hampshire,2020,12,,Northeast
-New Hampshire,2021,1,,Northeast
-New Hampshire,2021,2,,Northeast
-New Hampshire,2021,3,,Northeast
-New Hampshire,2021,4,,Northeast
-New Hampshire,2021,5,,Northeast
-New Hampshire,2021,6,,Northeast
-New Hampshire,2021,7,,Northeast
-New Hampshire,2021,8,,Northeast
-New Hampshire,2021,9,,Northeast
-New Hampshire,2021,10,,Northeast
-New Hampshire,2021,11,,Northeast
-New Hampshire,2021,12,,Northeast
-New Hampshire,2022,1,,Northeast
-New Hampshire,2022,2,,Northeast
-New Hampshire,2022,3,,Northeast
-New Hampshire,2022,4,,Northeast
-New Hampshire,2022,5,,Northeast
-New Hampshire,2022,6,,Northeast
-New Hampshire,2022,7,,Northeast
-New Hampshire,2022,8,,Northeast
-New Hampshire,2022,9,,Northeast
-New Hampshire,2022,10,50.2773486973948,Northeast
-New Hampshire,2022,11,51.1205110619469,Northeast
-New Hampshire,2022,12,50.2709235261402,Northeast
-New Hampshire,2023,1,50.2494764705882,Northeast
-New Hampshire,2023,2,999,Northeast
-New Hampshire,2023,3,,Northeast
-New Hampshire,2023,4,,Northeast
-New Hampshire,2023,5,,Northeast
-New Hampshire,2023,6,,Northeast
-New Hampshire,2023,7,,Northeast
-New Hampshire,2023,8,,Northeast
-New Hampshire,2023,9,,Northeast
-New Hampshire,2023,10,,Northeast
-New Hampshire,2023,11,54.6937272727273,Northeast
-New Hampshire,2023,12,52.3520625,Northeast
-New Hampshire,2024,1,,Northeast
-New Hampshire,2024,2,,Northeast
-New Hampshire,2024,3,,Northeast
-New Hampshire,2024,4,,Northeast
-New Hampshire,2024,5,,Northeast
-New Hampshire,2024,6,,Northeast
-New Hampshire,2024,7,,Northeast
-New Hampshire,2024,8,,Northeast
-New Hampshire,2024,9,,Northeast
-New Hampshire,2024,10,,Northeast
-New Hampshire,2024,11,,Northeast
-New Hampshire,2024,12,,Northeast
-New Jersey,2020,1,,Northeast
-New Jersey,2020,2,,Northeast
-New Jersey,2020,3,,Northeast
-New Jersey,2020,4,,Northeast
-New Jersey,2020,5,,Northeast
-New Jersey,2020,6,,Northeast
-New Jersey,2020,7,,Northeast
-New Jersey,2020,8,,Northeast
-New Jersey,2020,9,,Northeast
-New Jersey,2020,10,,Northeast
-New Jersey,2020,11,,Northeast
-New Jersey,2020,12,,Northeast
-New Jersey,2021,1,,Northeast
-New Jersey,2021,2,,Northeast
-New Jersey,2021,3,,Northeast
-New Jersey,2021,4,,Northeast
-New Jersey,2021,5,,Northeast
-New Jersey,2021,6,,Northeast
-New Jersey,2021,7,,Northeast
-New Jersey,2021,8,,Northeast
-New Jersey,2021,9,,Northeast
-New Jersey,2021,10,,Northeast
-New Jersey,2021,11,,Northeast
-New Jersey,2021,12,,Northeast
-New Jersey,2022,1,,Northeast
-New Jersey,2022,2,,Northeast
-New Jersey,2022,3,,Northeast
-New Jersey,2022,4,,Northeast
-New Jersey,2022,5,,Northeast
-New Jersey,2022,6,,Northeast
-New Jersey,2022,7,,Northeast
-New Jersey,2022,8,50.4592398589065,Northeast
-New Jersey,2022,9,,Northeast
-New Jersey,2022,10,,Northeast
-New Jersey,2022,11,,Northeast
-New Jersey,2022,12,50.1350719101124,Northeast
-New Jersey,2023,1,50.9302672737011,Northeast
-New Jersey,2023,2,50.9919212880143,Northeast
-New Jersey,2023,3,51.1526389684814,Northeast
-New Jersey,2023,4,49.2519353796446,Northeast
-New Jersey,2023,5,49.3441509872242,Northeast
-New Jersey,2023,6,49.0890068965517,Northeast
-New Jersey,2023,7,48.6873172866521,Northeast
-New Jersey,2023,8,49.4367626459144,Northeast
-New Jersey,2023,9,,Northeast
-New Jersey,2023,10,51.1972836879433,Northeast
-New Jersey,2023,11,,Northeast
-New Jersey,2023,12,,Northeast
-New Jersey,2024,1,,Northeast
-New Jersey,2024,2,,Northeast
-New Jersey,2024,3,,Northeast
-New Jersey,2024,4,,Northeast
-New Jersey,2024,5,,Northeast
-New Jersey,2024,6,,Northeast
-New Jersey,2024,7,,Northeast
-New Jersey,2024,8,,Northeast
-New Jersey,2024,9,,Northeast
-New Jersey,2024,10,,Northeast
-New Jersey,2024,11,,Northeast
-New Jersey,2024,12,,Northeast
-New Mexico,2020,1,,West
-New Mexico,2020,2,,West
-New Mexico,2020,3,,West
-New Mexico,2020,4,,West
-New Mexico,2020,5,,West
-New Mexico,2020,6,,West
-New Mexico,2020,7,,West
-New Mexico,2020,8,,West
-New Mexico,2020,9,,West
-New Mexico,2020,10,,West
-New Mexico,2020,11,,West
-New Mexico,2020,12,,West
-New Mexico,2021,1,,West
-New Mexico,2021,2,,West
-New Mexico,2021,3,,West
-New Mexico,2021,4,,West
-New Mexico,2021,5,,West
-New Mexico,2021,6,,West
-New Mexico,2021,7,,West
-New Mexico,2021,8,,West
-New Mexico,2021,9,,West
-New Mexico,2021,10,,West
-New Mexico,2021,11,,West
-New Mexico,2021,12,,West
-New Mexico,2022,1,,West
-New Mexico,2022,2,,West
-New Mexico,2022,3,,West
-New Mexico,2022,4,,West
-New Mexico,2022,5,,West
-New Mexico,2022,6,,West
-New Mexico,2022,7,,West
-New Mexico,2022,8,,West
-New Mexico,2022,9,,West
-New Mexico,2022,10,,West
-New Mexico,2022,11,,West
-New Mexico,2022,12,49.8782406542056,West
-New Mexico,2023,1,,West
-New Mexico,2023,2,50.4900724832215,West
-New Mexico,2023,3,49.5526416184971,West
-New Mexico,2023,4,,West
-New Mexico,2023,5,,West
-New Mexico,2023,6,,West
-New Mexico,2023,7,,West
-New Mexico,2023,8,,West
-New Mexico,2023,9,,West
-New Mexico,2023,10,,West
-New Mexico,2023,11,53.0868863636364,West
-New Mexico,2023,12,,West
-New Mexico,2024,1,999,West
-New Mexico,2024,2,,West
-New Mexico,2024,3,,West
-New Mexico,2024,4,,West
-New Mexico,2024,5,,West
-New Mexico,2024,6,,West
-New Mexico,2024,7,,West
-New Mexico,2024,8,,West
-New Mexico,2024,9,,West
-New Mexico,2024,10,,West
-New Mexico,2024,11,,West
-New Mexico,2024,12,,West
-New York,2020,1,,Northeast
-New York,2020,2,,Northeast
-New York,2020,3,,Northeast
-New York,2020,4,,Northeast
-New York,2020,5,,Northeast
-New York,2020,6,,Northeast
-New York,2020,7,,Northeast
-New York,2020,8,,Northeast
-New York,2020,9,,Northeast
-New York,2020,10,,Northeast
-New York,2020,11,,Northeast
-New York,2020,12,,Northeast
-New York,2021,1,,Northeast
-New York,2021,2,,Northeast
-New York,2021,3,,Northeast
-New York,2021,4,,Northeast
-New York,2021,5,,Northeast
-New York,2021,6,,Northeast
-New York,2021,7,,Northeast
-New York,2021,8,,Northeast
-New York,2021,9,,Northeast
-New York,2021,10,49.8875863883378,Northeast
-New York,2021,11,,Northeast
-New York,2021,12,48.5207413793104,Northeast
-New York,2022,1,49.7185947629158,Northeast
-New York,2022,2,47.3592195300431,Northeast
-New York,2022,3,48.9562439807384,Northeast
-New York,2022,4,49.9262139005393,Northeast
-New York,2022,5,49.4889444638491,Northeast
-New York,2022,6,49.8670732484077,Northeast
-New York,2022,7,50.4783836909871,Northeast
-New York,2022,8,50.2844513213591,Northeast
-New York,2022,9,51.5882546201232,Northeast
-New York,2022,10,,Northeast
-New York,2022,11,,Northeast
-New York,2022,12,50.8619962593516,Northeast
-New York,2023,1,49.8787926652142,Northeast
-New York,2023,2,49.9959614412137,Northeast
-New York,2023,3,47.2058175403226,Northeast
-New York,2023,4,48.6748823082764,Northeast
-New York,2023,5,44.3345130679534,Northeast
-New York,2023,6,49.8428697318008,Northeast
-New York,2023,7,538.360318501171,Northeast
-New York,2023,8,52.9582905027933,Northeast
-New York,2023,9,,Northeast
-New York,2023,10,,Northeast
-New York,2023,11,,Northeast
-New York,2023,12,,Northeast
-New York,2024,1,,Northeast
-New York,2024,2,,Northeast
-New York,2024,3,,Northeast
-New York,2024,4,,Northeast
-New York,2024,5,,Northeast
-New York,2024,6,,Northeast
-New York,2024,7,,Northeast
-New York,2024,8,,Northeast
-New York,2024,9,,Northeast
-New York,2024,10,,Northeast
-New York,2024,11,,Northeast
-New York,2024,12,,Northeast
-North Carolina,2020,1,,South
-North Carolina,2020,2,,South
-North Carolina,2020,3,,South
-North Carolina,2020,4,,South
-North Carolina,2020,5,,South
-North Carolina,2020,6,,South
-North Carolina,2020,7,,South
-North Carolina,2020,8,,South
-North Carolina,2020,9,,South
-North Carolina,2020,10,,South
-North Carolina,2020,11,,South
-North Carolina,2020,12,,South
-North Carolina,2021,1,,South
-North Carolina,2021,2,,South
-North Carolina,2021,3,,South
-North Carolina,2021,4,,South
-North Carolina,2021,5,,South
-North Carolina,2021,6,,South
-North Carolina,2021,7,,South
-North Carolina,2021,8,,South
-North Carolina,2021,9,,South
-North Carolina,2021,10,,South
-North Carolina,2021,11,,South
-North Carolina,2021,12,,South
-North Carolina,2022,1,,South
-North Carolina,2022,2,,South
-North Carolina,2022,3,,South
-North Carolina,2022,4,,South
-North Carolina,2022,5,,South
-North Carolina,2022,6,,South
-North Carolina,2022,7,,South
-North Carolina,2022,8,50.9156527272727,South
-North Carolina,2022,9,50.4009358490566,South
-North Carolina,2022,10,50.0628430470348,South
-North Carolina,2022,11,50.6915404255319,South
-North Carolina,2022,12,50.1041830357143,South
-North Carolina,2023,1,50.8072613219094,South
-North Carolina,2023,2,,South
-North Carolina,2023,3,50.7688760869565,South
-North Carolina,2023,4,50.6551722822632,South
-North Carolina,2023,5,,South
-North Carolina,2023,6,49.0882997668998,South
-North Carolina,2023,7,49.5086805157593,South
-North Carolina,2023,8,,South
-North Carolina,2023,9,49.5428101265823,South
-North Carolina,2023,10,,South
-North Carolina,2023,11,,South
-North Carolina,2023,12,43.4265625,South
-North Carolina,2024,1,46.6781268656717,South
-North Carolina,2024,2,,South
-North Carolina,2024,3,,South
-North Carolina,2024,4,,South
-North Carolina,2024,5,,South
-North Carolina,2024,6,,South
-North Carolina,2024,7,,South
-North Carolina,2024,8,,South
-North Carolina,2024,9,,South
-North Carolina,2024,10,,South
-North Carolina,2024,11,,South
-North Carolina,2024,12,,South
-North Dakota,2020,1,,Midwest
-North Dakota,2020,2,,Midwest
-North Dakota,2020,3,,Midwest
-North Dakota,2020,4,,Midwest
-North Dakota,2020,5,,Midwest
-North Dakota,2020,6,,Midwest
-North Dakota,2020,7,,Midwest
-North Dakota,2020,8,,Midwest
-North Dakota,2020,9,,Midwest
-North Dakota,2020,10,,Midwest
-North Dakota,2020,11,,Midwest
-North Dakota,2020,12,,Midwest
-North Dakota,2021,1,,Midwest
-North Dakota,2021,2,,Midwest
-North Dakota,2021,3,,Midwest
-North Dakota,2021,4,,Midwest
-North Dakota,2021,5,,Midwest
-North Dakota,2021,6,,Midwest
-North Dakota,2021,7,,Midwest
-North Dakota,2021,8,,Midwest
-North Dakota,2021,9,,Midwest
-North Dakota,2021,10,,Midwest
-North Dakota,2021,11,,Midwest
-North Dakota,2021,12,,Midwest
-North Dakota,2022,1,,Midwest
-North Dakota,2022,2,,Midwest
-North Dakota,2022,3,,Midwest
-North Dakota,2022,4,,Midwest
-North Dakota,2022,5,,Midwest
-North Dakota,2022,6,,Midwest
-North Dakota,2022,7,,Midwest
-North Dakota,2022,8,,Midwest
-North Dakota,2022,9,,Midwest
-North Dakota,2022,10,,Midwest
-North Dakota,2022,11,,Midwest
-North Dakota,2022,12,,Midwest
-North Dakota,2023,1,,Midwest
-North Dakota,2023,2,,Midwest
-North Dakota,2023,3,,Midwest
-North Dakota,2023,4,,Midwest
-North Dakota,2023,5,,Midwest
-North Dakota,2023,6,,Midwest
-North Dakota,2023,7,,Midwest
-North Dakota,2023,8,,Midwest
-North Dakota,2023,9,,Midwest
-North Dakota,2023,10,,Midwest
-North Dakota,2023,11,,Midwest
-North Dakota,2023,12,,Midwest
-North Dakota,2024,1,,Midwest
-North Dakota,2024,2,,Midwest
-North Dakota,2024,3,,Midwest
-North Dakota,2024,4,,Midwest
-North Dakota,2024,5,,Midwest
-North Dakota,2024,6,,Midwest
-North Dakota,2024,7,,Midwest
-North Dakota,2024,8,,Midwest
-North Dakota,2024,9,,Midwest
-North Dakota,2024,10,,Midwest
-North Dakota,2024,11,,Midwest
-North Dakota,2024,12,,Midwest
-Ohio,2020,1,,Midwest
-Ohio,2020,2,,Midwest
-Ohio,2020,3,,Midwest
-Ohio,2020,4,,Midwest
-Ohio,2020,5,,Midwest
-Ohio,2020,6,,Midwest
-Ohio,2020,7,,Midwest
-Ohio,2020,8,,Midwest
-Ohio,2020,9,,Midwest
-Ohio,2020,10,,Midwest
-Ohio,2020,11,,Midwest
-Ohio,2020,12,,Midwest
-Ohio,2021,1,,Midwest
-Ohio,2021,2,,Midwest
-Ohio,2021,3,,Midwest
-Ohio,2021,4,,Midwest
-Ohio,2021,5,,Midwest
-Ohio,2021,6,,Midwest
-Ohio,2021,7,,Midwest
-Ohio,2021,8,,Midwest
-Ohio,2021,9,,Midwest
-Ohio,2021,10,,Midwest
-Ohio,2021,11,,Midwest
-Ohio,2021,12,,Midwest
-Ohio,2022,1,,Midwest
-Ohio,2022,2,,Midwest
-Ohio,2022,3,,Midwest
-Ohio,2022,4,,Midwest
-Ohio,2022,5,,Midwest
-Ohio,2022,6,,Midwest
-Ohio,2022,7,,Midwest
-Ohio,2022,8,,Midwest
-Ohio,2022,9,,Midwest
-Ohio,2022,10,,Midwest
-Ohio,2022,11,,Midwest
-Ohio,2022,12,50.7343853211009,Midwest
-Ohio,2023,1,49.9380338983051,Midwest
-Ohio,2023,2,,Midwest
-Ohio,2023,3,,Midwest
-Ohio,2023,4,,Midwest
-Ohio,2023,5,,Midwest
-Ohio,2023,6,,Midwest
-Ohio,2023,7,,Midwest
-Ohio,2023,8,,Midwest
-Ohio,2023,9,50.4205432332522,Midwest
-Ohio,2023,10,50.4142061068702,Midwest
-Ohio,2023,11,49.5230454545455,Midwest
-Ohio,2023,12,,Midwest
-Ohio,2024,1,,Midwest
-Ohio,2024,2,,Midwest
-Ohio,2024,3,,Midwest
-Ohio,2024,4,,Midwest
-Ohio,2024,5,,Midwest
-Ohio,2024,6,,Midwest
-Ohio,2024,7,,Midwest
-Ohio,2024,8,,Midwest
-Ohio,2024,9,,Midwest
-Ohio,2024,10,,Midwest
-Ohio,2024,11,,Midwest
-Ohio,2024,12,,Midwest
-Oklahoma,2020,1,,South
-Oklahoma,2020,2,,South
-Oklahoma,2020,3,,South
-Oklahoma,2020,4,,South
-Oklahoma,2020,5,,South
-Oklahoma,2020,6,,South
-Oklahoma,2020,7,,South
-Oklahoma,2020,8,,South
-Oklahoma,2020,9,,South
-Oklahoma,2020,10,,South
-Oklahoma,2020,11,,South
-Oklahoma,2020,12,,South
-Oklahoma,2021,1,,South
-Oklahoma,2021,2,,South
-Oklahoma,2021,3,,South
-Oklahoma,2021,4,,South
-Oklahoma,2021,5,,South
-Oklahoma,2021,6,,South
-Oklahoma,2021,7,,South
-Oklahoma,2021,8,,South
-Oklahoma,2021,9,,South
-Oklahoma,2021,10,,South
-Oklahoma,2021,11,,South
-Oklahoma,2021,12,,South
-Oklahoma,2022,1,,South
-Oklahoma,2022,2,,South
-Oklahoma,2022,3,,South
-Oklahoma,2022,4,,South
-Oklahoma,2022,5,,South
-Oklahoma,2022,6,,South
-Oklahoma,2022,7,,South
-Oklahoma,2022,8,,South
-Oklahoma,2022,9,,South
-Oklahoma,2022,10,,South
-Oklahoma,2022,11,,South
-Oklahoma,2022,12,,South
-Oklahoma,2023,1,50.7605333657272,South
-Oklahoma,2023,2,48.2509162011173,South
-Oklahoma,2023,3,,South
-Oklahoma,2023,4,,South
-Oklahoma,2023,5,,South
-Oklahoma,2023,6,,South
-Oklahoma,2023,7,,South
-Oklahoma,2023,8,,South
-Oklahoma,2023,9,,South
-Oklahoma,2023,10,,South
-Oklahoma,2023,11,,South
-Oklahoma,2023,12,54.464175,South
-Oklahoma,2024,1,,South
-Oklahoma,2024,2,,South
-Oklahoma,2024,3,,South
-Oklahoma,2024,4,,South
-Oklahoma,2024,5,,South
-Oklahoma,2024,6,,South
-Oklahoma,2024,7,,South
-Oklahoma,2024,8,,South
-Oklahoma,2024,9,,South
-Oklahoma,2024,10,,South
-Oklahoma,2024,11,,South
-Oklahoma,2024,12,,South
-Oregon,2020,1,,West
-Oregon,2020,2,,West
-Oregon,2020,3,,West
-Oregon,2020,4,,West
-Oregon,2020,5,,West
-Oregon,2020,6,,West
-Oregon,2020,7,,West
-Oregon,2020,8,,West
-Oregon,2020,9,48.1954136968085,West
-Oregon,2020,10,49.3589767388826,West
-Oregon,2020,11,48.1920322164948,West
-Oregon,2020,12,47.5606056415929,West
-Oregon,2021,1,,West
-Oregon,2021,2,,West
-Oregon,2021,3,,West
-Oregon,2021,4,,West
-Oregon,2021,5,52.3622045929019,West
-Oregon,2021,6,47.8443874813711,West
-Oregon,2021,7,,West
-Oregon,2021,8,,West
-Oregon,2021,9,,West
-Oregon,2021,10,,West
-Oregon,2021,11,,West
-Oregon,2021,12,,West
-Oregon,2022,1,,West
-Oregon,2022,2,,West
-Oregon,2022,3,,West
-Oregon,2022,4,,West
-Oregon,2022,5,,West
-Oregon,2022,6,,West
-Oregon,2022,7,,West
-Oregon,2022,8,,West
-Oregon,2022,9,,West
-Oregon,2022,10,,West
-Oregon,2022,11,,West
-Oregon,2022,12,,West
-Oregon,2023,1,,West
-Oregon,2023,2,,West
-Oregon,2023,3,,West
-Oregon,2023,4,,West
-Oregon,2023,5,45.0750347222222,West
-Oregon,2023,6,,West
-Oregon,2023,7,,West
-Oregon,2023,8,,West
-Oregon,2023,9,,West
-Oregon,2023,10,,West
-Oregon,2023,11,,West
-Oregon,2023,12,,West
-Oregon,2024,1,,West
-Oregon,2024,2,,West
-Oregon,2024,3,,West
-Oregon,2024,4,,West
-Oregon,2024,5,,West
-Oregon,2024,6,,West
-Oregon,2024,7,,West
-Oregon,2024,8,,West
-Oregon,2024,9,,West
-Oregon,2024,10,,West
-Oregon,2024,11,,West
-Oregon,2024,12,,West
-Pennsylvania,2020,1,,Northeast
-Pennsylvania,2020,2,,Northeast
-Pennsylvania,2020,3,,Northeast
-Pennsylvania,2020,4,,Northeast
-Pennsylvania,2020,5,,Northeast
-Pennsylvania,2020,6,,Northeast
-Pennsylvania,2020,7,,Northeast
-Pennsylvania,2020,8,,Northeast
-Pennsylvania,2020,9,,Northeast
-Pennsylvania,2020,10,,Northeast
-Pennsylvania,2020,11,,Northeast
-Pennsylvania,2020,12,,Northeast
-Pennsylvania,2021,1,,Northeast
-Pennsylvania,2021,2,,Northeast
-Pennsylvania,2021,3,,Northeast
-Pennsylvania,2021,4,,Northeast
-Pennsylvania,2021,5,,Northeast
-Pennsylvania,2021,6,,Northeast
-Pennsylvania,2021,7,,Northeast
-Pennsylvania,2021,8,,Northeast
-Pennsylvania,2021,9,,Northeast
-Pennsylvania,2021,10,,Northeast
-Pennsylvania,2021,11,,Northeast
-Pennsylvania,2021,12,,Northeast
-Pennsylvania,2022,1,,Northeast
-Pennsylvania,2022,2,,Northeast
-Pennsylvania,2022,3,,Northeast
-Pennsylvania,2022,4,,Northeast
-Pennsylvania,2022,5,,Northeast
-Pennsylvania,2022,6,,Northeast
-Pennsylvania,2022,7,50.7861511587686,Northeast
-Pennsylvania,2022,8,50.3403947368421,Northeast
-Pennsylvania,2022,9,,Northeast
-Pennsylvania,2022,10,50.2511356045424,Northeast
-Pennsylvania,2022,11,,Northeast
-Pennsylvania,2022,12,,Northeast
-Pennsylvania,2023,1,,Northeast
-Pennsylvania,2023,2,,Northeast
-Pennsylvania,2023,3,,Northeast
-Pennsylvania,2023,4,,Northeast
-Pennsylvania,2023,5,,Northeast
-Pennsylvania,2023,6,49.0256261488289,Northeast
-Pennsylvania,2023,7,50.4983690987125,Northeast
-Pennsylvania,2023,8,49.4433408071749,Northeast
-Pennsylvania,2023,9,48.6860151515152,Northeast
-Pennsylvania,2023,10,,Northeast
-Pennsylvania,2023,11,53.2950681818182,Northeast
-Pennsylvania,2023,12,50.2018625,Northeast
-Pennsylvania,2024,1,999,Northeast
-Pennsylvania,2024,2,,Northeast
-Pennsylvania,2024,3,,Northeast
-Pennsylvania,2024,4,,Northeast
-Pennsylvania,2024,5,,Northeast
-Pennsylvania,2024,6,,Northeast
-Pennsylvania,2024,7,,Northeast
-Pennsylvania,2024,8,,Northeast
-Pennsylvania,2024,9,,Northeast
-Pennsylvania,2024,10,,Northeast
-Pennsylvania,2024,11,,Northeast
-Pennsylvania,2024,12,,Northeast
-Rhode Island,2020,1,,Northeast
-Rhode Island,2020,2,,Northeast
-Rhode Island,2020,3,,Northeast
-Rhode Island,2020,4,,Northeast
-Rhode Island,2020,5,,Northeast
-Rhode Island,2020,6,,Northeast
-Rhode Island,2020,7,,Northeast
-Rhode Island,2020,8,,Northeast
-Rhode Island,2020,9,,Northeast
-Rhode Island,2020,10,,Northeast
-Rhode Island,2020,11,,Northeast
-Rhode Island,2020,12,,Northeast
-Rhode Island,2021,1,,Northeast
-Rhode Island,2021,2,,Northeast
-Rhode Island,2021,3,,Northeast
-Rhode Island,2021,4,,Northeast
-Rhode Island,2021,5,,Northeast
-Rhode Island,2021,6,,Northeast
-Rhode Island,2021,7,,Northeast
-Rhode Island,2021,8,,Northeast
-Rhode Island,2021,9,,Northeast
-Rhode Island,2021,10,,Northeast
-Rhode Island,2021,11,,Northeast
-Rhode Island,2021,12,,Northeast
-Rhode Island,2022,1,,Northeast
-Rhode Island,2022,2,,Northeast
-Rhode Island,2022,3,,Northeast
-Rhode Island,2022,4,,Northeast
-Rhode Island,2022,5,,Northeast
-Rhode Island,2022,6,,Northeast
-Rhode Island,2022,7,,Northeast
-Rhode Island,2022,8,,Northeast
-Rhode Island,2022,9,,Northeast
-Rhode Island,2022,10,,Northeast
-Rhode Island,2022,11,,Northeast
-Rhode Island,2022,12,,Northeast
-Rhode Island,2023,1,,Northeast
-Rhode Island,2023,2,,Northeast
-Rhode Island,2023,3,,Northeast
-Rhode Island,2023,4,,Northeast
-Rhode Island,2023,5,,Northeast
-Rhode Island,2023,6,,Northeast
-Rhode Island,2023,7,,Northeast
-Rhode Island,2023,8,,Northeast
-Rhode Island,2023,9,47.6112012934519,Northeast
-Rhode Island,2023,10,999,Northeast
-Rhode Island,2023,11,,Northeast
-Rhode Island,2023,12,,Northeast
-Rhode Island,2024,1,,Northeast
-Rhode Island,2024,2,,Northeast
-Rhode Island,2024,3,,Northeast
-Rhode Island,2024,4,,Northeast
-Rhode Island,2024,5,,Northeast
-Rhode Island,2024,6,,Northeast
-Rhode Island,2024,7,,Northeast
-Rhode Island,2024,8,,Northeast
-Rhode Island,2024,9,,Northeast
-Rhode Island,2024,10,,Northeast
-Rhode Island,2024,11,,Northeast
-Rhode Island,2024,12,,Northeast
-South Carolina,2020,1,,South
-South Carolina,2020,2,,South
-South Carolina,2020,3,,South
-South Carolina,2020,4,,South
-South Carolina,2020,5,,South
-South Carolina,2020,6,,South
-South Carolina,2020,7,,South
-South Carolina,2020,8,,South
-South Carolina,2020,9,,South
-South Carolina,2020,10,,South
-South Carolina,2020,11,,South
-South Carolina,2020,12,,South
-South Carolina,2021,1,,South
-South Carolina,2021,2,,South
-South Carolina,2021,3,,South
-South Carolina,2021,4,,South
-South Carolina,2021,5,,South
-South Carolina,2021,6,,South
-South Carolina,2021,7,,South
-South Carolina,2021,8,,South
-South Carolina,2021,9,,South
-South Carolina,2021,10,,South
-South Carolina,2021,11,,South
-South Carolina,2021,12,,South
-South Carolina,2022,1,,South
-South Carolina,2022,2,,South
-South Carolina,2022,3,,South
-South Carolina,2022,4,,South
-South Carolina,2022,5,,South
-South Carolina,2022,6,50.3855939616253,South
-South Carolina,2022,7,,South
-South Carolina,2022,8,,South
-South Carolina,2022,9,,South
-South Carolina,2022,10,,South
-South Carolina,2022,11,,South
-South Carolina,2022,12,,South
-South Carolina,2023,1,46.60746875,South
-South Carolina,2023,2,,South
-South Carolina,2023,3,,South
-South Carolina,2023,4,,South
-South Carolina,2023,5,,South
-South Carolina,2023,6,,South
-South Carolina,2023,7,,South
-South Carolina,2023,8,,South
-South Carolina,2023,9,,South
-South Carolina,2023,10,,South
-South Carolina,2023,11,,South
-South Carolina,2023,12,,South
-South Carolina,2024,1,309.552955223881,South
-South Carolina,2024,2,,South
-South Carolina,2024,3,,South
-South Carolina,2024,4,,South
-South Carolina,2024,5,,South
-South Carolina,2024,6,,South
-South Carolina,2024,7,,South
-South Carolina,2024,8,,South
-South Carolina,2024,9,,South
-South Carolina,2024,10,,South
-South Carolina,2024,11,,South
-South Carolina,2024,12,,South
-South Dakota,2020,1,,Midwest
-South Dakota,2020,2,,Midwest
-South Dakota,2020,3,,Midwest
-South Dakota,2020,4,,Midwest
-South Dakota,2020,5,,Midwest
-South Dakota,2020,6,,Midwest
-South Dakota,2020,7,,Midwest
-South Dakota,2020,8,,Midwest
-South Dakota,2020,9,,Midwest
-South Dakota,2020,10,,Midwest
-South Dakota,2020,11,,Midwest
-South Dakota,2020,12,,Midwest
-South Dakota,2021,1,,Midwest
-South Dakota,2021,2,,Midwest
-South Dakota,2021,3,,Midwest
-South Dakota,2021,4,,Midwest
-South Dakota,2021,5,,Midwest
-South Dakota,2021,6,,Midwest
-South Dakota,2021,7,,Midwest
-South Dakota,2021,8,,Midwest
-South Dakota,2021,9,,Midwest
-South Dakota,2021,10,,Midwest
-South Dakota,2021,11,,Midwest
-South Dakota,2021,12,,Midwest
-South Dakota,2022,1,,Midwest
-South Dakota,2022,2,,Midwest
-South Dakota,2022,3,,Midwest
-South Dakota,2022,4,,Midwest
-South Dakota,2022,5,,Midwest
-South Dakota,2022,6,,Midwest
-South Dakota,2022,7,,Midwest
-South Dakota,2022,8,,Midwest
-South Dakota,2022,9,,Midwest
-South Dakota,2022,10,,Midwest
-South Dakota,2022,11,,Midwest
-South Dakota,2022,12,,Midwest
-South Dakota,2023,1,,Midwest
-South Dakota,2023,2,,Midwest
-South Dakota,2023,3,,Midwest
-South Dakota,2023,4,49.7437861842105,Midwest
-South Dakota,2023,5,,Midwest
-South Dakota,2023,6,,Midwest
-South Dakota,2023,7,,Midwest
-South Dakota,2023,8,,Midwest
-South Dakota,2023,9,,Midwest
-South Dakota,2023,10,,Midwest
-South Dakota,2023,11,,Midwest
-South Dakota,2023,12,,Midwest
-South Dakota,2024,1,61.6553181818182,Midwest
-South Dakota,2024,2,,Midwest
-South Dakota,2024,3,,Midwest
-South Dakota,2024,4,,Midwest
-South Dakota,2024,5,,Midwest
-South Dakota,2024,6,,Midwest
-South Dakota,2024,7,,Midwest
-South Dakota,2024,8,,Midwest
-South Dakota,2024,9,,Midwest
-South Dakota,2024,10,,Midwest
-South Dakota,2024,11,,Midwest
-South Dakota,2024,12,,Midwest
-Tennessee,2020,1,,South
-Tennessee,2020,2,,South
-Tennessee,2020,3,,South
-Tennessee,2020,4,,South
-Tennessee,2020,5,,South
-Tennessee,2020,6,,South
-Tennessee,2020,7,,South
-Tennessee,2020,8,,South
-Tennessee,2020,9,,South
-Tennessee,2020,10,,South
-Tennessee,2020,11,,South
-Tennessee,2020,12,,South
-Tennessee,2021,1,,South
-Tennessee,2021,2,,South
-Tennessee,2021,3,,South
-Tennessee,2021,4,,South
-Tennessee,2021,5,,South
-Tennessee,2021,6,,South
-Tennessee,2021,7,,South
-Tennessee,2021,8,,South
-Tennessee,2021,9,,South
-Tennessee,2021,10,,South
-Tennessee,2021,11,,South
-Tennessee,2021,12,,South
-Tennessee,2022,1,,South
-Tennessee,2022,2,,South
-Tennessee,2022,3,,South
-Tennessee,2022,4,,South
-Tennessee,2022,5,,South
-Tennessee,2022,6,,South
-Tennessee,2022,7,,South
-Tennessee,2022,8,,South
-Tennessee,2022,9,,South
-Tennessee,2022,10,,South
-Tennessee,2022,11,,South
-Tennessee,2022,12,,South
-Tennessee,2023,1,,South
-Tennessee,2023,2,,South
-Tennessee,2023,3,,South
-Tennessee,2023,4,,South
-Tennessee,2023,5,,South
-Tennessee,2023,6,50.6677280513919,South
-Tennessee,2023,7,48.6979471153846,South
-Tennessee,2023,8,,South
-Tennessee,2023,9,,South
-Tennessee,2023,10,,South
-Tennessee,2023,11,,South
-Tennessee,2023,12,48.4358024691358,South
-Tennessee,2024,1,,South
-Tennessee,2024,2,,South
-Tennessee,2024,3,,South
-Tennessee,2024,4,,South
-Tennessee,2024,5,,South
-Tennessee,2024,6,,South
-Tennessee,2024,7,,South
-Tennessee,2024,8,,South
-Tennessee,2024,9,,South
-Tennessee,2024,10,,South
-Tennessee,2024,11,,South
-Tennessee,2024,12,,South
-Texas,2020,1,,South
-Texas,2020,2,,South
-Texas,2020,3,,South
-Texas,2020,4,,South
-Texas,2020,5,,South
-Texas,2020,6,,South
-Texas,2020,7,,South
-Texas,2020,8,,South
-Texas,2020,9,,South
-Texas,2020,10,,South
-Texas,2020,11,,South
-Texas,2020,12,,South
-Texas,2021,1,,South
-Texas,2021,2,,South
-Texas,2021,3,,South
-Texas,2021,4,,South
-Texas,2021,5,,South
-Texas,2021,6,49.7102069234368,South
-Texas,2021,7,,South
-Texas,2021,8,,South
-Texas,2021,9,,South
-Texas,2021,10,,South
-Texas,2021,11,,South
-Texas,2021,12,,South
-Texas,2022,1,,South
-Texas,2022,2,49.9194918566775,South
-Texas,2022,3,50.3167019498607,South
-Texas,2022,4,,South
-Texas,2022,5,,South
-Texas,2022,6,,South
-Texas,2022,7,,South
-Texas,2022,8,,South
-Texas,2022,9,,South
-Texas,2022,10,,South
-Texas,2022,11,,South
-Texas,2022,12,51.2267145564822,South
-Texas,2023,1,,South
-Texas,2023,2,50.1544972826087,South
-Texas,2023,3,,South
-Texas,2023,4,,South
-Texas,2023,5,,South
-Texas,2023,6,48.4377464183381,South
-Texas,2023,7,,South
-Texas,2023,8,,South
-Texas,2023,9,,South
-Texas,2023,10,,South
-Texas,2023,11,,South
-Texas,2023,12,48.6848163265306,South
-Texas,2024,1,999,South
-Texas,2024,2,999,South
-Texas,2024,3,,South
-Texas,2024,4,,South
-Texas,2024,5,,South
-Texas,2024,6,,South
-Texas,2024,7,,South
-Texas,2024,8,,South
-Texas,2024,9,,South
-Texas,2024,10,,South
-Texas,2024,11,,South
-Texas,2024,12,,South
-Utah,2020,1,,West
-Utah,2020,2,,West
-Utah,2020,3,,West
-Utah,2020,4,,West
-Utah,2020,5,,West
-Utah,2020,6,,West
-Utah,2020,7,,West
-Utah,2020,8,,West
-Utah,2020,9,,West
-Utah,2020,10,,West
-Utah,2020,11,,West
-Utah,2020,12,,West
-Utah,2021,1,,West
-Utah,2021,2,,West
-Utah,2021,3,,West
-Utah,2021,4,,West
-Utah,2021,5,,West
-Utah,2021,6,,West
-Utah,2021,7,,West
-Utah,2021,8,51.4561975274178,West
-Utah,2021,9,,West
-Utah,2021,10,,West
-Utah,2021,11,,West
-Utah,2021,12,,West
-Utah,2022,1,,West
-Utah,2022,2,,West
-Utah,2022,3,,West
-Utah,2022,4,,West
-Utah,2022,5,50.9054441087613,West
-Utah,2022,6,,West
-Utah,2022,7,,West
-Utah,2022,8,,West
-Utah,2022,9,49.8301704980843,West
-Utah,2022,10,50.6148645833333,West
-Utah,2022,11,,West
-Utah,2022,12,,West
-Utah,2023,1,,West
-Utah,2023,2,,West
-Utah,2023,3,,West
-Utah,2023,4,,West
-Utah,2023,5,,West
-Utah,2023,6,51.7784822134387,West
-Utah,2023,7,,West
-Utah,2023,8,,West
-Utah,2023,9,,West
-Utah,2023,10,,West
-Utah,2023,11,,West
-Utah,2023,12,,West
-Utah,2024,1,,West
-Utah,2024,2,,West
-Utah,2024,3,,West
-Utah,2024,4,,West
-Utah,2024,5,,West
-Utah,2024,6,,West
-Utah,2024,7,,West
-Utah,2024,8,,West
-Utah,2024,9,,West
-Utah,2024,10,,West
-Utah,2024,11,,West
-Utah,2024,12,,West
-Vermont,2020,1,,Northeast
-Vermont,2020,2,,Northeast
-Vermont,2020,3,,Northeast
-Vermont,2020,4,,Northeast
-Vermont,2020,5,,Northeast
-Vermont,2020,6,,Northeast
-Vermont,2020,7,,Northeast
-Vermont,2020,8,,Northeast
-Vermont,2020,9,,Northeast
-Vermont,2020,10,,Northeast
-Vermont,2020,11,,Northeast
-Vermont,2020,12,,Northeast
-Vermont,2021,1,,Northeast
-Vermont,2021,2,,Northeast
-Vermont,2021,3,,Northeast
-Vermont,2021,4,,Northeast
-Vermont,2021,5,,Northeast
-Vermont,2021,6,,Northeast
-Vermont,2021,7,,Northeast
-Vermont,2021,8,,Northeast
-Vermont,2021,9,,Northeast
-Vermont,2021,10,,Northeast
-Vermont,2021,11,,Northeast
-Vermont,2021,12,,Northeast
-Vermont,2022,1,,Northeast
-Vermont,2022,2,,Northeast
-Vermont,2022,3,,Northeast
-Vermont,2022,4,,Northeast
-Vermont,2022,5,,Northeast
-Vermont,2022,6,,Northeast
-Vermont,2022,7,,Northeast
-Vermont,2022,8,,Northeast
-Vermont,2022,9,,Northeast
-Vermont,2022,10,,Northeast
-Vermont,2022,11,,Northeast
-Vermont,2022,12,,Northeast
-Vermont,2023,1,,Northeast
-Vermont,2023,2,,Northeast
-Vermont,2023,3,49.6466790476191,Northeast
-Vermont,2023,4,,Northeast
-Vermont,2023,5,,Northeast
-Vermont,2023,6,,Northeast
-Vermont,2023,7,,Northeast
-Vermont,2023,8,,Northeast
-Vermont,2023,9,,Northeast
-Vermont,2023,10,,Northeast
-Vermont,2023,11,,Northeast
-Vermont,2023,12,,Northeast
-Vermont,2024,1,,Northeast
-Vermont,2024,2,999,Northeast
-Vermont,2024,3,,Northeast
-Vermont,2024,4,,Northeast
-Vermont,2024,5,,Northeast
-Vermont,2024,6,,Northeast
-Vermont,2024,7,,Northeast
-Vermont,2024,8,,Northeast
-Vermont,2024,9,,Northeast
-Vermont,2024,10,,Northeast
-Vermont,2024,11,,Northeast
-Vermont,2024,12,,Northeast
-Virginia,2020,1,,South
-Virginia,2020,2,,South
-Virginia,2020,3,,South
-Virginia,2020,4,,South
-Virginia,2020,5,,South
-Virginia,2020,6,,South
-Virginia,2020,7,,South
-Virginia,2020,8,,South
-Virginia,2020,9,,South
-Virginia,2020,10,,South
-Virginia,2020,11,,South
-Virginia,2020,12,,South
-Virginia,2021,1,,South
-Virginia,2021,2,,South
-Virginia,2021,3,,South
-Virginia,2021,4,,South
-Virginia,2021,5,,South
-Virginia,2021,6,,South
-Virginia,2021,7,,South
-Virginia,2021,8,,South
-Virginia,2021,9,,South
-Virginia,2021,10,,South
-Virginia,2021,11,,South
-Virginia,2021,12,,South
-Virginia,2022,1,,South
-Virginia,2022,2,,South
-Virginia,2022,3,,South
-Virginia,2022,4,,South
-Virginia,2022,5,,South
-Virginia,2022,6,,South
-Virginia,2022,7,,South
-Virginia,2022,8,,South
-Virginia,2022,9,,South
-Virginia,2022,10,,South
-Virginia,2022,11,,South
-Virginia,2022,12,50.4996095890411,South
-Virginia,2023,1,,South
-Virginia,2023,2,,South
-Virginia,2023,3,50.6136935933148,South
-Virginia,2023,4,48.9916839214889,South
-Virginia,2023,5,,South
-Virginia,2023,6,,South
-Virginia,2023,7,,South
-Virginia,2023,8,,South
-Virginia,2023,9,,South
-Virginia,2023,10,39.8598292682927,South
-Virginia,2023,11,372.677112244898,South
-Virginia,2023,12,999,South
-Virginia,2024,1,999,South
-Virginia,2024,2,999,South
-Virginia,2024,3,,South
-Virginia,2024,4,,South
-Virginia,2024,5,,South
-Virginia,2024,6,,South
-Virginia,2024,7,,South
-Virginia,2024,8,,South
-Virginia,2024,9,,South
-Virginia,2024,10,,South
-Virginia,2024,11,,South
-Virginia,2024,12,,South
-Washington,2020,1,,West
-Washington,2020,2,,West
-Washington,2020,3,,West
-Washington,2020,4,,West
-Washington,2020,5,,West
-Washington,2020,6,,West
-Washington,2020,7,,West
-Washington,2020,8,,West
-Washington,2020,9,,West
-Washington,2020,10,,West
-Washington,2020,11,,West
-Washington,2020,12,,West
-Washington,2021,1,,West
-Washington,2021,2,,West
-Washington,2021,3,,West
-Washington,2021,4,,West
-Washington,2021,5,,West
-Washington,2021,6,,West
-Washington,2021,7,,West
-Washington,2021,8,,West
-Washington,2021,9,,West
-Washington,2021,10,48.2048669554456,West
-Washington,2021,11,48.0364088669951,West
-Washington,2021,12,,West
-Washington,2022,1,,West
-Washington,2022,2,,West
-Washington,2022,3,49.5634903314917,West
-Washington,2022,4,49.6076221889055,West
-Washington,2022,5,50.9387145085804,West
-Washington,2022,6,,West
-Washington,2022,7,49.287388951522,West
-Washington,2022,8,,West
-Washington,2022,9,51.0461509433962,West
-Washington,2022,10,48.9581424116424,West
-Washington,2022,11,,West
-Washington,2022,12,49.906798206278,West
-Washington,2023,1,,West
-Washington,2023,2,,West
-Washington,2023,3,,West
-Washington,2023,4,50.5315538140021,West
-Washington,2023,5,,West
-Washington,2023,6,,West
-Washington,2023,7,,West
-Washington,2023,8,,West
-Washington,2023,9,51.1477611940299,West
-Washington,2023,10,48.9133236363636,West
-Washington,2023,11,,West
-Washington,2023,12,,West
-Washington,2024,1,,West
-Washington,2024,2,,West
-Washington,2024,3,,West
-Washington,2024,4,,West
-Washington,2024,5,,West
-Washington,2024,6,,West
-Washington,2024,7,,West
-Washington,2024,8,,West
-Washington,2024,9,,West
-Washington,2024,10,,West
-Washington,2024,11,,West
-Washington,2024,12,,West
-West Virginia,2020,1,,South
-West Virginia,2020,2,,South
-West Virginia,2020,3,,South
-West Virginia,2020,4,,South
-West Virginia,2020,5,,South
-West Virginia,2020,6,,South
-West Virginia,2020,7,,South
-West Virginia,2020,8,,South
-West Virginia,2020,9,,South
-West Virginia,2020,10,,South
-West Virginia,2020,11,49.5803078817734,South
-West Virginia,2020,12,,South
-West Virginia,2021,1,,South
-West Virginia,2021,2,,South
-West Virginia,2021,3,,South
-West Virginia,2021,4,,South
-West Virginia,2021,5,,South
-West Virginia,2021,6,,South
-West Virginia,2021,7,,South
-West Virginia,2021,8,,South
-West Virginia,2021,9,50.3715243445693,South
-West Virginia,2021,10,,South
-West Virginia,2021,11,51.1580103626943,South
-West Virginia,2021,12,51.0070800894855,South
-West Virginia,2022,1,50.8936919282511,South
-West Virginia,2022,2,51.6074195068891,South
-West Virginia,2022,3,50.2692103232031,South
-West Virginia,2022,4,,South
-West Virginia,2022,5,48.8201435185185,South
-West Virginia,2022,6,51.6211012658228,South
-West Virginia,2022,7,52.6352562620424,South
-West Virginia,2022,8,,South
-West Virginia,2022,9,,South
-West Virginia,2022,10,49.8395443877551,South
-West Virginia,2022,11,,South
-West Virginia,2022,12,,South
-West Virginia,2023,1,,South
-West Virginia,2023,2,,South
-West Virginia,2023,3,51.1888787878788,South
-West Virginia,2023,4,49.2256771159875,South
-West Virginia,2023,5,,South
-West Virginia,2023,6,,South
-West Virginia,2023,7,,South
-West Virginia,2023,8,56.8402450980392,South
-West Virginia,2023,9,,South
-West Virginia,2023,10,,South
-West Virginia,2023,11,,South
-West Virginia,2023,12,,South
-West Virginia,2024,1,,South
-West Virginia,2024,2,,South
-West Virginia,2024,3,,South
-West Virginia,2024,4,,South
-West Virginia,2024,5,,South
-West Virginia,2024,6,,South
-West Virginia,2024,7,,South
-West Virginia,2024,8,,South
-West Virginia,2024,9,,South
-West Virginia,2024,10,,South
-West Virginia,2024,11,,South
-West Virginia,2024,12,,South
-Wisconsin,2020,1,,Midwest
-Wisconsin,2020,2,,Midwest
-Wisconsin,2020,3,,Midwest
-Wisconsin,2020,4,,Midwest
-Wisconsin,2020,5,,Midwest
-Wisconsin,2020,6,,Midwest
-Wisconsin,2020,7,,Midwest
-Wisconsin,2020,8,,Midwest
-Wisconsin,2020,9,,Midwest
-Wisconsin,2020,10,,Midwest
-Wisconsin,2020,11,,Midwest
-Wisconsin,2020,12,,Midwest
-Wisconsin,2021,1,,Midwest
-Wisconsin,2021,2,,Midwest
-Wisconsin,2021,3,,Midwest
-Wisconsin,2021,4,,Midwest
-Wisconsin,2021,5,,Midwest
-Wisconsin,2021,6,,Midwest
-Wisconsin,2021,7,,Midwest
-Wisconsin,2021,8,,Midwest
-Wisconsin,2021,9,,Midwest
-Wisconsin,2021,10,,Midwest
-Wisconsin,2021,11,,Midwest
-Wisconsin,2021,12,,Midwest
-Wisconsin,2022,1,50.0799562922768,Midwest
-Wisconsin,2022,2,50.0620499432463,Midwest
-Wisconsin,2022,3,,Midwest
-Wisconsin,2022,4,,Midwest
-Wisconsin,2022,5,,Midwest
-Wisconsin,2022,6,,Midwest
-Wisconsin,2022,7,,Midwest
-Wisconsin,2022,8,,Midwest
-Wisconsin,2022,9,49.8816676616915,Midwest
-Wisconsin,2022,10,49.755887063655,Midwest
-Wisconsin,2022,11,50.7056663157895,Midwest
-Wisconsin,2022,12,,Midwest
-Wisconsin,2023,1,,Midwest
-Wisconsin,2023,2,,Midwest
-Wisconsin,2023,3,,Midwest
-Wisconsin,2023,4,,Midwest
-Wisconsin,2023,5,,Midwest
-Wisconsin,2023,6,46.8311035856574,Midwest
-Wisconsin,2023,7,,Midwest
-Wisconsin,2023,8,,Midwest
-Wisconsin,2023,9,,Midwest
-Wisconsin,2023,10,48.6067482517483,Midwest
-Wisconsin,2023,11,,Midwest
-Wisconsin,2023,12,,Midwest
-Wisconsin,2024,1,54.6407555555556,Midwest
-Wisconsin,2024,2,,Midwest
-Wisconsin,2024,3,,Midwest
-Wisconsin,2024,4,,Midwest
-Wisconsin,2024,5,,Midwest
-Wisconsin,2024,6,,Midwest
-Wisconsin,2024,7,,Midwest
-Wisconsin,2024,8,,Midwest
-Wisconsin,2024,9,,Midwest
-Wisconsin,2024,10,,Midwest
-Wisconsin,2024,11,,Midwest
-Wisconsin,2024,12,,Midwest
-Wyoming,2020,1,,West
-Wyoming,2020,2,,West
-Wyoming,2020,3,,West
-Wyoming,2020,4,,West
-Wyoming,2020,5,,West
-Wyoming,2020,6,,West
-Wyoming,2020,7,,West
-Wyoming,2020,8,,West
-Wyoming,2020,9,,West
-Wyoming,2020,10,,West
-Wyoming,2020,11,,West
-Wyoming,2020,12,,West
-Wyoming,2021,1,,West
-Wyoming,2021,2,,West
-Wyoming,2021,3,,West
-Wyoming,2021,4,,West
-Wyoming,2021,5,,West
-Wyoming,2021,6,,West
-Wyoming,2021,7,,West
-Wyoming,2021,8,,West
-Wyoming,2021,9,,West
-Wyoming,2021,10,,West
-Wyoming,2021,11,,West
-Wyoming,2021,12,,West
-Wyoming,2022,1,,West
-Wyoming,2022,2,,West
-Wyoming,2022,3,,West
-Wyoming,2022,4,,West
-Wyoming,2022,5,,West
-Wyoming,2022,6,,West
-Wyoming,2022,7,,West
-Wyoming,2022,8,,West
-Wyoming,2022,9,,West
-Wyoming,2022,10,,West
-Wyoming,2022,11,,West
-Wyoming,2022,12,,West
-Wyoming,2023,1,54.4882371794872,West
-Wyoming,2023,2,,West
-Wyoming,2023,3,,West
-Wyoming,2023,4,,West
-Wyoming,2023,5,,West
-Wyoming,2023,6,,West
-Wyoming,2023,7,,West
-Wyoming,2023,8,51.288040201005,West
-Wyoming,2023,9,,West
-Wyoming,2023,10,53.957676,West
-Wyoming,2023,11,565.125936507937,West
-Wyoming,2023,12,,West
-Wyoming,2024,1,,West
-Wyoming,2024,2,,West
-Wyoming,2024,3,,West
-Wyoming,2024,4,,West
-Wyoming,2024,5,,West
-Wyoming,2024,6,,West
-Wyoming,2024,7,,West
-Wyoming,2024,8,,West
-Wyoming,2024,9,,West
-Wyoming,2024,10,,West
-Wyoming,2024,11,,West
-Wyoming,2024,12,,West
+state,year,month,mean_percentile
+Alabama,2020,1,
+Alabama,2020,2,
+Alabama,2020,3,
+Alabama,2020,4,
+Alabama,2020,5,
+Alabama,2020,6,
+Alabama,2020,7,
+Alabama,2020,8,
+Alabama,2020,9,
+Alabama,2020,10,
+Alabama,2020,11,
+Alabama,2020,12,
+Alabama,2021,1,
+Alabama,2021,2,
+Alabama,2021,3,
+Alabama,2021,4,
+Alabama,2021,5,
+Alabama,2021,6,
+Alabama,2021,7,
+Alabama,2021,8,
+Alabama,2021,9,
+Alabama,2021,10,
+Alabama,2021,11,
+Alabama,2021,12,
+Alabama,2022,1,
+Alabama,2022,2,
+Alabama,2022,3,
+Alabama,2022,4,
+Alabama,2022,5,
+Alabama,2022,6,
+Alabama,2022,7,
+Alabama,2022,8,50.315877238806
+Alabama,2022,9,
+Alabama,2022,10,
+Alabama,2022,11,
+Alabama,2022,12,
+Alabama,2023,1,
+Alabama,2023,2,
+Alabama,2023,3,
+Alabama,2023,4,
+Alabama,2023,5,
+Alabama,2023,6,
+Alabama,2023,7,
+Alabama,2023,8,
+Alabama,2023,9,
+Alabama,2023,10,
+Alabama,2023,11,
+Alabama,2023,12,54.1225071428572
+Alabama,2024,1,
+Alabama,2024,2,
+Alabama,2024,3,
+Alabama,2024,4,
+Alabama,2024,5,
+Alabama,2024,6,
+Alabama,2024,7,
+Alabama,2024,8,
+Alabama,2024,9,
+Alabama,2024,10,
+Alabama,2024,11,
+Alabama,2024,12,
+Alaska,2020,1,
+Alaska,2020,2,
+Alaska,2020,3,
+Alaska,2020,4,
+Alaska,2020,5,
+Alaska,2020,6,
+Alaska,2020,7,
+Alaska,2020,8,
+Alaska,2020,9,
+Alaska,2020,10,
+Alaska,2020,11,
+Alaska,2020,12,
+Alaska,2021,1,
+Alaska,2021,2,
+Alaska,2021,3,
+Alaska,2021,4,
+Alaska,2021,5,
+Alaska,2021,6,
+Alaska,2021,7,
+Alaska,2021,8,
+Alaska,2021,9,
+Alaska,2021,10,
+Alaska,2021,11,
+Alaska,2021,12,
+Alaska,2022,1,
+Alaska,2022,2,
+Alaska,2022,3,
+Alaska,2022,4,
+Alaska,2022,5,
+Alaska,2022,6,
+Alaska,2022,7,
+Alaska,2022,8,
+Alaska,2022,9,
+Alaska,2022,10,
+Alaska,2022,11,
+Alaska,2022,12,
+Alaska,2023,1,
+Alaska,2023,2,
+Alaska,2023,3,
+Alaska,2023,4,
+Alaska,2023,5,49.7087490909091
+Alaska,2023,6,
+Alaska,2023,7,
+Alaska,2023,8,
+Alaska,2023,9,
+Alaska,2023,10,
+Alaska,2023,11,
+Alaska,2023,12,47.5591772151899
+Alaska,2024,1,
+Alaska,2024,2,
+Alaska,2024,3,
+Alaska,2024,4,
+Alaska,2024,5,
+Alaska,2024,6,
+Alaska,2024,7,
+Alaska,2024,8,
+Alaska,2024,9,
+Alaska,2024,10,
+Alaska,2024,11,
+Alaska,2024,12,
+Arizona,2020,1,
+Arizona,2020,2,
+Arizona,2020,3,
+Arizona,2020,4,50.0791389913899
+Arizona,2020,5,
+Arizona,2020,6,
+Arizona,2020,7,
+Arizona,2020,8,
+Arizona,2020,9,
+Arizona,2020,10,
+Arizona,2020,11,
+Arizona,2020,12,
+Arizona,2021,1,
+Arizona,2021,2,50.7409384445264
+Arizona,2021,3,
+Arizona,2021,4,
+Arizona,2021,5,
+Arizona,2021,6,
+Arizona,2021,7,
+Arizona,2021,8,
+Arizona,2021,9,
+Arizona,2021,10,
+Arizona,2021,11,
+Arizona,2021,12,
+Arizona,2022,1,
+Arizona,2022,2,
+Arizona,2022,3,
+Arizona,2022,4,
+Arizona,2022,5,
+Arizona,2022,6,
+Arizona,2022,7,
+Arizona,2022,8,
+Arizona,2022,9,
+Arizona,2022,10,
+Arizona,2022,11,
+Arizona,2022,12,
+Arizona,2023,1,
+Arizona,2023,2,
+Arizona,2023,3,
+Arizona,2023,4,
+Arizona,2023,5,
+Arizona,2023,6,
+Arizona,2023,7,48.8644213075061
+Arizona,2023,8,49.3904377104377
+Arizona,2023,9,
+Arizona,2023,10,48.8305147058824
+Arizona,2023,11,50.2887294117647
+Arizona,2023,12,48.3879394618834
+Arizona,2024,1,
+Arizona,2024,2,
+Arizona,2024,3,
+Arizona,2024,4,
+Arizona,2024,5,
+Arizona,2024,6,
+Arizona,2024,7,
+Arizona,2024,8,
+Arizona,2024,9,
+Arizona,2024,10,
+Arizona,2024,11,
+Arizona,2024,12,
+Arkansas,2020,1,
+Arkansas,2020,2,
+Arkansas,2020,3,
+Arkansas,2020,4,
+Arkansas,2020,5,
+Arkansas,2020,6,
+Arkansas,2020,7,
+Arkansas,2020,8,
+Arkansas,2020,9,
+Arkansas,2020,10,
+Arkansas,2020,11,
+Arkansas,2020,12,
+Arkansas,2021,1,
+Arkansas,2021,2,
+Arkansas,2021,3,
+Arkansas,2021,4,
+Arkansas,2021,5,
+Arkansas,2021,6,
+Arkansas,2021,7,
+Arkansas,2021,8,
+Arkansas,2021,9,
+Arkansas,2021,10,
+Arkansas,2021,11,
+Arkansas,2021,12,
+Arkansas,2022,1,
+Arkansas,2022,2,
+Arkansas,2022,3,
+Arkansas,2022,4,
+Arkansas,2022,5,
+Arkansas,2022,6,
+Arkansas,2022,7,
+Arkansas,2022,8,
+Arkansas,2022,9,
+Arkansas,2022,10,
+Arkansas,2022,11,
+Arkansas,2022,12,
+Arkansas,2023,1,
+Arkansas,2023,2,
+Arkansas,2023,3,
+Arkansas,2023,4,49.2462287581699
+Arkansas,2023,5,
+Arkansas,2023,6,
+Arkansas,2023,7,
+Arkansas,2023,8,
+Arkansas,2023,9,
+Arkansas,2023,10,
+Arkansas,2023,11,51.7272514285714
+Arkansas,2023,12,
+Arkansas,2024,1,
+Arkansas,2024,2,
+Arkansas,2024,3,
+Arkansas,2024,4,
+Arkansas,2024,5,
+Arkansas,2024,6,
+Arkansas,2024,7,
+Arkansas,2024,8,
+Arkansas,2024,9,
+Arkansas,2024,10,
+Arkansas,2024,11,
+Arkansas,2024,12,
+California,2020,1,
+California,2020,2,
+California,2020,3,
+California,2020,4,
+California,2020,5,
+California,2020,6,
+California,2020,7,
+California,2020,8,
+California,2020,9,
+California,2020,10,
+California,2020,11,
+California,2020,12,
+California,2021,1,
+California,2021,2,
+California,2021,3,
+California,2021,4,
+California,2021,5,
+California,2021,6,
+California,2021,7,
+California,2021,8,
+California,2021,9,
+California,2021,10,
+California,2021,11,
+California,2021,12,
+California,2022,1,50.3589943539631
+California,2022,2,50.1611641025641
+California,2022,3,50.2794873697227
+California,2022,4,49.8151868050408
+California,2022,5,49.4179831804281
+California,2022,6,50.5056888694128
+California,2022,7,49.7915637583893
+California,2022,8,50.279245105873
+California,2022,9,50.3894183381089
+California,2022,10,48.9940971922246
+California,2022,11,50.7525423728814
+California,2022,12,50.9854483257545
+California,2023,1,50.2642377892031
+California,2023,2,50.3798001357313
+California,2023,3,50.2996030075188
+California,2023,4,
+California,2023,5,
+California,2023,6,49.8244374622357
+California,2023,7,49.5673693972179
+California,2023,8,50.7386515544042
+California,2023,9,52.0181676829268
+California,2023,10,47.7614306569343
+California,2023,11,51.6870744680851
+California,2023,12,53.1004921700224
+California,2024,1,100
+California,2024,2,
+California,2024,3,
+California,2024,4,
+California,2024,5,
+California,2024,6,
+California,2024,7,
+California,2024,8,
+California,2024,9,
+California,2024,10,
+California,2024,11,
+California,2024,12,
+Colorado,2020,1,
+Colorado,2020,2,
+Colorado,2020,3,
+Colorado,2020,4,
+Colorado,2020,5,
+Colorado,2020,6,
+Colorado,2020,7,
+Colorado,2020,8,
+Colorado,2020,9,
+Colorado,2020,10,
+Colorado,2020,11,
+Colorado,2020,12,
+Colorado,2021,1,
+Colorado,2021,2,
+Colorado,2021,3,
+Colorado,2021,4,
+Colorado,2021,5,
+Colorado,2021,6,
+Colorado,2021,7,
+Colorado,2021,8,
+Colorado,2021,9,
+Colorado,2021,10,
+Colorado,2021,11,
+Colorado,2021,12,
+Colorado,2022,1,
+Colorado,2022,2,
+Colorado,2022,3,
+Colorado,2022,4,
+Colorado,2022,5,50.5181087962963
+Colorado,2022,6,
+Colorado,2022,7,
+Colorado,2022,8,
+Colorado,2022,9,
+Colorado,2022,10,
+Colorado,2022,11,
+Colorado,2022,12,
+Colorado,2023,1,
+Colorado,2023,2,
+Colorado,2023,3,
+Colorado,2023,4,
+Colorado,2023,5,
+Colorado,2023,6,
+Colorado,2023,7,50.1331378142271
+Colorado,2023,8,50.931052631579
+Colorado,2023,9,
+Colorado,2023,10,
+Colorado,2023,11,
+Colorado,2023,12,
+Colorado,2024,1,
+Colorado,2024,2,
+Colorado,2024,3,
+Colorado,2024,4,
+Colorado,2024,5,
+Colorado,2024,6,
+Colorado,2024,7,
+Colorado,2024,8,
+Colorado,2024,9,
+Colorado,2024,10,
+Colorado,2024,11,
+Colorado,2024,12,
+Connecticut,2020,1,
+Connecticut,2020,2,
+Connecticut,2020,3,
+Connecticut,2020,4,
+Connecticut,2020,5,
+Connecticut,2020,6,
+Connecticut,2020,7,
+Connecticut,2020,8,
+Connecticut,2020,9,
+Connecticut,2020,10,
+Connecticut,2020,11,
+Connecticut,2020,12,
+Connecticut,2021,1,
+Connecticut,2021,2,
+Connecticut,2021,3,
+Connecticut,2021,4,
+Connecticut,2021,5,
+Connecticut,2021,6,
+Connecticut,2021,7,
+Connecticut,2021,8,
+Connecticut,2021,9,
+Connecticut,2021,10,
+Connecticut,2021,11,
+Connecticut,2021,12,
+Connecticut,2022,1,
+Connecticut,2022,2,
+Connecticut,2022,3,
+Connecticut,2022,4,
+Connecticut,2022,5,
+Connecticut,2022,6,
+Connecticut,2022,7,
+Connecticut,2022,8,
+Connecticut,2022,9,
+Connecticut,2022,10,
+Connecticut,2022,11,
+Connecticut,2022,12,
+Connecticut,2023,1,
+Connecticut,2023,2,
+Connecticut,2023,3,
+Connecticut,2023,4,
+Connecticut,2023,5,
+Connecticut,2023,6,52.3573909465021
+Connecticut,2023,7,52.0362858517806
+Connecticut,2023,8,
+Connecticut,2023,9,
+Connecticut,2023,10,50.440462184874
+Connecticut,2023,11,52.7555833333333
+Connecticut,2023,12,
+Connecticut,2024,1,
+Connecticut,2024,2,
+Connecticut,2024,3,
+Connecticut,2024,4,
+Connecticut,2024,5,
+Connecticut,2024,6,
+Connecticut,2024,7,
+Connecticut,2024,8,
+Connecticut,2024,9,
+Connecticut,2024,10,
+Connecticut,2024,11,
+Connecticut,2024,12,
+Delaware,2020,1,
+Delaware,2020,2,
+Delaware,2020,3,
+Delaware,2020,4,
+Delaware,2020,5,
+Delaware,2020,6,
+Delaware,2020,7,
+Delaware,2020,8,
+Delaware,2020,9,
+Delaware,2020,10,
+Delaware,2020,11,
+Delaware,2020,12,
+Delaware,2021,1,
+Delaware,2021,2,
+Delaware,2021,3,
+Delaware,2021,4,
+Delaware,2021,5,
+Delaware,2021,6,
+Delaware,2021,7,
+Delaware,2021,8,
+Delaware,2021,9,
+Delaware,2021,10,
+Delaware,2021,11,
+Delaware,2021,12,
+Delaware,2022,1,
+Delaware,2022,2,
+Delaware,2022,3,
+Delaware,2022,4,
+Delaware,2022,5,
+Delaware,2022,6,
+Delaware,2022,7,
+Delaware,2022,8,
+Delaware,2022,9,
+Delaware,2022,10,
+Delaware,2022,11,
+Delaware,2022,12,
+Delaware,2023,1,
+Delaware,2023,2,50.3926342105263
+Delaware,2023,3,
+Delaware,2023,4,
+Delaware,2023,5,
+Delaware,2023,6,48.9311559241706
+Delaware,2023,7,
+Delaware,2023,8,
+Delaware,2023,9,
+Delaware,2023,10,
+Delaware,2023,11,
+Delaware,2023,12,
+Delaware,2024,1,
+Delaware,2024,2,
+Delaware,2024,3,
+Delaware,2024,4,
+Delaware,2024,5,
+Delaware,2024,6,
+Delaware,2024,7,
+Delaware,2024,8,
+Delaware,2024,9,
+Delaware,2024,10,
+Delaware,2024,11,
+Delaware,2024,12,
+Florida,2020,1,
+Florida,2020,2,
+Florida,2020,3,
+Florida,2020,4,
+Florida,2020,5,
+Florida,2020,6,
+Florida,2020,7,
+Florida,2020,8,
+Florida,2020,9,
+Florida,2020,10,
+Florida,2020,11,
+Florida,2020,12,
+Florida,2021,1,
+Florida,2021,2,
+Florida,2021,3,
+Florida,2021,4,
+Florida,2021,5,
+Florida,2021,6,
+Florida,2021,7,
+Florida,2021,8,
+Florida,2021,9,
+Florida,2021,10,
+Florida,2021,11,
+Florida,2021,12,
+Florida,2022,1,
+Florida,2022,2,
+Florida,2022,3,
+Florida,2022,4,48.7932030873131
+Florida,2022,5,
+Florida,2022,6,
+Florida,2022,7,
+Florida,2022,8,
+Florida,2022,9,49.7421385199241
+Florida,2022,10,51.0419327817994
+Florida,2022,11,
+Florida,2022,12,
+Florida,2023,1,50.9689038800706
+Florida,2023,2,
+Florida,2023,3,
+Florida,2023,4,
+Florida,2023,5,49.8073292978208
+Florida,2023,6,49.517181372549
+Florida,2023,7,50.0025814977974
+Florida,2023,8,50.4743625
+Florida,2023,9,47.1925680272109
+Florida,2023,10,50.3155449438202
+Florida,2023,11,46.8081477272727
+Florida,2023,12,
+Florida,2024,1,100
+Florida,2024,2,
+Florida,2024,3,
+Florida,2024,4,
+Florida,2024,5,
+Florida,2024,6,
+Florida,2024,7,
+Florida,2024,8,
+Florida,2024,9,
+Florida,2024,10,
+Florida,2024,11,
+Florida,2024,12,
+Georgia,2020,1,
+Georgia,2020,2,
+Georgia,2020,3,
+Georgia,2020,4,
+Georgia,2020,5,
+Georgia,2020,6,
+Georgia,2020,7,
+Georgia,2020,8,
+Georgia,2020,9,
+Georgia,2020,10,
+Georgia,2020,11,
+Georgia,2020,12,
+Georgia,2021,1,
+Georgia,2021,2,
+Georgia,2021,3,
+Georgia,2021,4,
+Georgia,2021,5,
+Georgia,2021,6,
+Georgia,2021,7,
+Georgia,2021,8,
+Georgia,2021,9,
+Georgia,2021,10,
+Georgia,2021,11,
+Georgia,2021,12,
+Georgia,2022,1,
+Georgia,2022,2,
+Georgia,2022,3,
+Georgia,2022,4,
+Georgia,2022,5,
+Georgia,2022,6,50.3047148743305
+Georgia,2022,7,
+Georgia,2022,8,49.746626641651
+Georgia,2022,9,
+Georgia,2022,10,50.6615994455995
+Georgia,2022,11,
+Georgia,2022,12,
+Georgia,2023,1,
+Georgia,2023,2,
+Georgia,2023,3,
+Georgia,2023,4,
+Georgia,2023,5,
+Georgia,2023,6,
+Georgia,2023,7,
+Georgia,2023,8,
+Georgia,2023,9,
+Georgia,2023,10,
+Georgia,2023,11,
+Georgia,2023,12,
+Georgia,2024,1,
+Georgia,2024,2,
+Georgia,2024,3,
+Georgia,2024,4,
+Georgia,2024,5,
+Georgia,2024,6,
+Georgia,2024,7,
+Georgia,2024,8,
+Georgia,2024,9,
+Georgia,2024,10,
+Georgia,2024,11,
+Georgia,2024,12,
+Hawaii,2020,1,
+Hawaii,2020,2,
+Hawaii,2020,3,
+Hawaii,2020,4,
+Hawaii,2020,5,
+Hawaii,2020,6,
+Hawaii,2020,7,
+Hawaii,2020,8,
+Hawaii,2020,9,
+Hawaii,2020,10,
+Hawaii,2020,11,
+Hawaii,2020,12,
+Hawaii,2021,1,
+Hawaii,2021,2,
+Hawaii,2021,3,
+Hawaii,2021,4,
+Hawaii,2021,5,
+Hawaii,2021,6,
+Hawaii,2021,7,
+Hawaii,2021,8,
+Hawaii,2021,9,
+Hawaii,2021,10,
+Hawaii,2021,11,
+Hawaii,2021,12,
+Hawaii,2022,1,
+Hawaii,2022,2,
+Hawaii,2022,3,
+Hawaii,2022,4,
+Hawaii,2022,5,
+Hawaii,2022,6,
+Hawaii,2022,7,
+Hawaii,2022,8,
+Hawaii,2022,9,
+Hawaii,2022,10,
+Hawaii,2022,11,
+Hawaii,2022,12,
+Hawaii,2023,1,
+Hawaii,2023,2,
+Hawaii,2023,3,
+Hawaii,2023,4,
+Hawaii,2023,5,49.5748552036199
+Hawaii,2023,6,50.0720173553719
+Hawaii,2023,7,
+Hawaii,2023,8,
+Hawaii,2023,9,
+Hawaii,2023,10,
+Hawaii,2023,11,47.2989473684211
+Hawaii,2023,12,
+Hawaii,2024,1,
+Hawaii,2024,2,
+Hawaii,2024,3,
+Hawaii,2024,4,
+Hawaii,2024,5,
+Hawaii,2024,6,
+Hawaii,2024,7,
+Hawaii,2024,8,
+Hawaii,2024,9,
+Hawaii,2024,10,
+Hawaii,2024,11,
+Hawaii,2024,12,
+Idaho,2020,1,
+Idaho,2020,2,
+Idaho,2020,3,
+Idaho,2020,4,
+Idaho,2020,5,
+Idaho,2020,6,
+Idaho,2020,7,
+Idaho,2020,8,
+Idaho,2020,9,
+Idaho,2020,10,
+Idaho,2020,11,
+Idaho,2020,12,
+Idaho,2021,1,
+Idaho,2021,2,
+Idaho,2021,3,
+Idaho,2021,4,
+Idaho,2021,5,
+Idaho,2021,6,50.2297358247423
+Idaho,2021,7,
+Idaho,2021,8,
+Idaho,2021,9,
+Idaho,2021,10,51.5725370121131
+Idaho,2021,11,
+Idaho,2021,12,
+Idaho,2022,1,49.7057424836601
+Idaho,2022,2,
+Idaho,2022,3,
+Idaho,2022,4,50.1815972461274
+Idaho,2022,5,50.3718605645851
+Idaho,2022,6,
+Idaho,2022,7,
+Idaho,2022,8,
+Idaho,2022,9,48.3507823529412
+Idaho,2022,10,49.1057654584222
+Idaho,2022,11,
+Idaho,2022,12,48.6272351351351
+Idaho,2023,1,50.4490806451613
+Idaho,2023,2,
+Idaho,2023,3,
+Idaho,2023,4,
+Idaho,2023,5,
+Idaho,2023,6,
+Idaho,2023,7,
+Idaho,2023,8,
+Idaho,2023,9,
+Idaho,2023,10,
+Idaho,2023,11,
+Idaho,2023,12,
+Idaho,2024,1,
+Idaho,2024,2,
+Idaho,2024,3,
+Idaho,2024,4,
+Idaho,2024,5,
+Idaho,2024,6,
+Idaho,2024,7,
+Idaho,2024,8,
+Idaho,2024,9,
+Idaho,2024,10,
+Idaho,2024,11,
+Idaho,2024,12,
+Illinois,2020,1,
+Illinois,2020,2,
+Illinois,2020,3,
+Illinois,2020,4,
+Illinois,2020,5,
+Illinois,2020,6,
+Illinois,2020,7,
+Illinois,2020,8,
+Illinois,2020,9,
+Illinois,2020,10,
+Illinois,2020,11,
+Illinois,2020,12,
+Illinois,2021,1,
+Illinois,2021,2,
+Illinois,2021,3,
+Illinois,2021,4,
+Illinois,2021,5,
+Illinois,2021,6,
+Illinois,2021,7,
+Illinois,2021,8,
+Illinois,2021,9,
+Illinois,2021,10,
+Illinois,2021,11,
+Illinois,2021,12,
+Illinois,2022,1,
+Illinois,2022,2,49.9264234300404
+Illinois,2022,3,50.1609210261569
+Illinois,2022,4,49.4432306569343
+Illinois,2022,5,50.8723549848943
+Illinois,2022,6,50.6710867443752
+Illinois,2022,7,50.6321252115059
+Illinois,2022,8,51.0261795774648
+Illinois,2022,9,49.6041726618705
+Illinois,2022,10,49.006342605156
+Illinois,2022,11,
+Illinois,2022,12,52.5630756097561
+Illinois,2023,1,49.3901975903615
+Illinois,2023,2,50.3589157754011
+Illinois,2023,3,
+Illinois,2023,4,
+Illinois,2023,5,49.7692755102041
+Illinois,2023,6,50.4708083333333
+Illinois,2023,7,
+Illinois,2023,8,
+Illinois,2023,9,
+Illinois,2023,10,
+Illinois,2023,11,
+Illinois,2023,12,
+Illinois,2024,1,
+Illinois,2024,2,
+Illinois,2024,3,
+Illinois,2024,4,
+Illinois,2024,5,
+Illinois,2024,6,
+Illinois,2024,7,
+Illinois,2024,8,
+Illinois,2024,9,
+Illinois,2024,10,
+Illinois,2024,11,
+Illinois,2024,12,
+Indiana,2020,1,
+Indiana,2020,2,
+Indiana,2020,3,
+Indiana,2020,4,
+Indiana,2020,5,
+Indiana,2020,6,
+Indiana,2020,7,
+Indiana,2020,8,
+Indiana,2020,9,
+Indiana,2020,10,
+Indiana,2020,11,
+Indiana,2020,12,
+Indiana,2021,1,
+Indiana,2021,2,
+Indiana,2021,3,
+Indiana,2021,4,
+Indiana,2021,5,
+Indiana,2021,6,
+Indiana,2021,7,
+Indiana,2021,8,
+Indiana,2021,9,
+Indiana,2021,10,
+Indiana,2021,11,
+Indiana,2021,12,
+Indiana,2022,1,
+Indiana,2022,2,
+Indiana,2022,3,
+Indiana,2022,4,
+Indiana,2022,5,
+Indiana,2022,6,51.6486572379368
+Indiana,2022,7,49.9518419478855
+Indiana,2022,8,50.220170556553
+Indiana,2022,9,50.8098793774319
+Indiana,2022,10,49.8785494845361
+Indiana,2022,11,
+Indiana,2022,12,
+Indiana,2023,1,
+Indiana,2023,2,
+Indiana,2023,3,
+Indiana,2023,4,
+Indiana,2023,5,49.6884161073826
+Indiana,2023,6,
+Indiana,2023,7,50.4397523640662
+Indiana,2023,8,50.2300261096606
+Indiana,2023,9,52.1743567251462
+Indiana,2023,10,
+Indiana,2023,11,49.6398725490196
+Indiana,2023,12,
+Indiana,2024,1,
+Indiana,2024,2,
+Indiana,2024,3,
+Indiana,2024,4,
+Indiana,2024,5,
+Indiana,2024,6,
+Indiana,2024,7,
+Indiana,2024,8,
+Indiana,2024,9,
+Indiana,2024,10,
+Indiana,2024,11,
+Indiana,2024,12,
+Iowa,2020,1,
+Iowa,2020,2,
+Iowa,2020,3,
+Iowa,2020,4,
+Iowa,2020,5,
+Iowa,2020,6,
+Iowa,2020,7,
+Iowa,2020,8,
+Iowa,2020,9,
+Iowa,2020,10,
+Iowa,2020,11,
+Iowa,2020,12,
+Iowa,2021,1,
+Iowa,2021,2,
+Iowa,2021,3,
+Iowa,2021,4,
+Iowa,2021,5,
+Iowa,2021,6,
+Iowa,2021,7,
+Iowa,2021,8,
+Iowa,2021,9,
+Iowa,2021,10,
+Iowa,2021,11,
+Iowa,2021,12,
+Iowa,2022,1,
+Iowa,2022,2,
+Iowa,2022,3,
+Iowa,2022,4,
+Iowa,2022,5,
+Iowa,2022,6,
+Iowa,2022,7,
+Iowa,2022,8,
+Iowa,2022,9,
+Iowa,2022,10,
+Iowa,2022,11,
+Iowa,2022,12,50.2587660550459
+Iowa,2023,1,50.700487458194
+Iowa,2023,2,
+Iowa,2023,3,
+Iowa,2023,4,
+Iowa,2023,5,
+Iowa,2023,6,
+Iowa,2023,7,
+Iowa,2023,8,
+Iowa,2023,9,
+Iowa,2023,10,
+Iowa,2023,11,54.1276595744681
+Iowa,2023,12,55.2015675675676
+Iowa,2024,1,
+Iowa,2024,2,
+Iowa,2024,3,
+Iowa,2024,4,
+Iowa,2024,5,
+Iowa,2024,6,
+Iowa,2024,7,
+Iowa,2024,8,
+Iowa,2024,9,
+Iowa,2024,10,
+Iowa,2024,11,
+Iowa,2024,12,
+Kansas,2020,1,
+Kansas,2020,2,
+Kansas,2020,3,
+Kansas,2020,4,
+Kansas,2020,5,
+Kansas,2020,6,
+Kansas,2020,7,
+Kansas,2020,8,
+Kansas,2020,9,
+Kansas,2020,10,
+Kansas,2020,11,
+Kansas,2020,12,
+Kansas,2021,1,
+Kansas,2021,2,
+Kansas,2021,3,
+Kansas,2021,4,
+Kansas,2021,5,
+Kansas,2021,6,
+Kansas,2021,7,
+Kansas,2021,8,
+Kansas,2021,9,
+Kansas,2021,10,
+Kansas,2021,11,
+Kansas,2021,12,
+Kansas,2022,1,
+Kansas,2022,2,
+Kansas,2022,3,
+Kansas,2022,4,
+Kansas,2022,5,
+Kansas,2022,6,
+Kansas,2022,7,
+Kansas,2022,8,50.3550740088106
+Kansas,2022,9,
+Kansas,2022,10,
+Kansas,2022,11,
+Kansas,2022,12,
+Kansas,2023,1,51.5760276872964
+Kansas,2023,2,50.6855065274151
+Kansas,2023,3,
+Kansas,2023,4,
+Kansas,2023,5,
+Kansas,2023,6,
+Kansas,2023,7,
+Kansas,2023,8,
+Kansas,2023,9,51.0673119496855
+Kansas,2023,10,
+Kansas,2023,11,53.3501862745098
+Kansas,2023,12,
+Kansas,2024,1,
+Kansas,2024,2,
+Kansas,2024,3,
+Kansas,2024,4,
+Kansas,2024,5,
+Kansas,2024,6,
+Kansas,2024,7,
+Kansas,2024,8,
+Kansas,2024,9,
+Kansas,2024,10,
+Kansas,2024,11,
+Kansas,2024,12,
+Kentucky,2020,1,
+Kentucky,2020,2,
+Kentucky,2020,3,
+Kentucky,2020,4,
+Kentucky,2020,5,
+Kentucky,2020,6,
+Kentucky,2020,7,
+Kentucky,2020,8,
+Kentucky,2020,9,
+Kentucky,2020,10,
+Kentucky,2020,11,
+Kentucky,2020,12,
+Kentucky,2021,1,
+Kentucky,2021,2,
+Kentucky,2021,3,
+Kentucky,2021,4,
+Kentucky,2021,5,
+Kentucky,2021,6,
+Kentucky,2021,7,
+Kentucky,2021,8,
+Kentucky,2021,9,
+Kentucky,2021,10,
+Kentucky,2021,11,
+Kentucky,2021,12,
+Kentucky,2022,1,
+Kentucky,2022,2,48.9116049382716
+Kentucky,2022,3,
+Kentucky,2022,4,
+Kentucky,2022,5,
+Kentucky,2022,6,
+Kentucky,2022,7,
+Kentucky,2022,8,
+Kentucky,2022,9,
+Kentucky,2022,10,
+Kentucky,2022,11,
+Kentucky,2022,12,
+Kentucky,2023,1,
+Kentucky,2023,2,
+Kentucky,2023,3,
+Kentucky,2023,4,
+Kentucky,2023,5,
+Kentucky,2023,6,
+Kentucky,2023,7,
+Kentucky,2023,8,
+Kentucky,2023,9,
+Kentucky,2023,10,
+Kentucky,2023,11,
+Kentucky,2023,12,
+Kentucky,2024,1,
+Kentucky,2024,2,
+Kentucky,2024,3,
+Kentucky,2024,4,
+Kentucky,2024,5,
+Kentucky,2024,6,
+Kentucky,2024,7,
+Kentucky,2024,8,
+Kentucky,2024,9,
+Kentucky,2024,10,
+Kentucky,2024,11,
+Kentucky,2024,12,
+Louisiana,2020,1,
+Louisiana,2020,2,
+Louisiana,2020,3,
+Louisiana,2020,4,
+Louisiana,2020,5,
+Louisiana,2020,6,
+Louisiana,2020,7,
+Louisiana,2020,8,
+Louisiana,2020,9,
+Louisiana,2020,10,
+Louisiana,2020,11,
+Louisiana,2020,12,
+Louisiana,2021,1,
+Louisiana,2021,2,
+Louisiana,2021,3,
+Louisiana,2021,4,
+Louisiana,2021,5,
+Louisiana,2021,6,
+Louisiana,2021,7,
+Louisiana,2021,8,
+Louisiana,2021,9,
+Louisiana,2021,10,
+Louisiana,2021,11,
+Louisiana,2021,12,
+Louisiana,2022,1,
+Louisiana,2022,2,
+Louisiana,2022,3,
+Louisiana,2022,4,
+Louisiana,2022,5,
+Louisiana,2022,6,
+Louisiana,2022,7,
+Louisiana,2022,8,
+Louisiana,2022,9,
+Louisiana,2022,10,
+Louisiana,2022,11,
+Louisiana,2022,12,
+Louisiana,2023,1,
+Louisiana,2023,2,
+Louisiana,2023,3,
+Louisiana,2023,4,
+Louisiana,2023,5,
+Louisiana,2023,6,
+Louisiana,2023,7,
+Louisiana,2023,8,
+Louisiana,2023,9,
+Louisiana,2023,10,
+Louisiana,2023,11,46.9699147727273
+Louisiana,2023,12,
+Louisiana,2024,1,
+Louisiana,2024,2,
+Louisiana,2024,3,
+Louisiana,2024,4,
+Louisiana,2024,5,
+Louisiana,2024,6,
+Louisiana,2024,7,
+Louisiana,2024,8,
+Louisiana,2024,9,
+Louisiana,2024,10,
+Louisiana,2024,11,
+Louisiana,2024,12,
+Maine,2020,1,
+Maine,2020,2,
+Maine,2020,3,
+Maine,2020,4,
+Maine,2020,5,
+Maine,2020,6,
+Maine,2020,7,
+Maine,2020,8,
+Maine,2020,9,
+Maine,2020,10,
+Maine,2020,11,
+Maine,2020,12,
+Maine,2021,1,
+Maine,2021,2,
+Maine,2021,3,
+Maine,2021,4,
+Maine,2021,5,
+Maine,2021,6,
+Maine,2021,7,
+Maine,2021,8,
+Maine,2021,9,
+Maine,2021,10,
+Maine,2021,11,
+Maine,2021,12,
+Maine,2022,1,
+Maine,2022,2,
+Maine,2022,3,
+Maine,2022,4,
+Maine,2022,5,
+Maine,2022,6,
+Maine,2022,7,
+Maine,2022,8,
+Maine,2022,9,49.477279245283
+Maine,2022,10,
+Maine,2022,11,50.3432416851441
+Maine,2022,12,
+Maine,2023,1,50.1169476309227
+Maine,2023,2,
+Maine,2023,3,
+Maine,2023,4,
+Maine,2023,5,47.9958540145985
+Maine,2023,6,50.0456219660194
+Maine,2023,7,50.2722735042735
+Maine,2023,8,
+Maine,2023,9,49.0699718026183
+Maine,2023,10,
+Maine,2023,11,51.8148739612188
+Maine,2023,12,49.2026258503401
+Maine,2024,1,
+Maine,2024,2,
+Maine,2024,3,
+Maine,2024,4,
+Maine,2024,5,
+Maine,2024,6,
+Maine,2024,7,
+Maine,2024,8,
+Maine,2024,9,
+Maine,2024,10,
+Maine,2024,11,
+Maine,2024,12,
+Maryland,2020,1,
+Maryland,2020,2,
+Maryland,2020,3,
+Maryland,2020,4,
+Maryland,2020,5,
+Maryland,2020,6,
+Maryland,2020,7,
+Maryland,2020,8,
+Maryland,2020,9,
+Maryland,2020,10,
+Maryland,2020,11,
+Maryland,2020,12,
+Maryland,2021,1,
+Maryland,2021,2,
+Maryland,2021,3,
+Maryland,2021,4,
+Maryland,2021,5,
+Maryland,2021,6,
+Maryland,2021,7,
+Maryland,2021,8,
+Maryland,2021,9,
+Maryland,2021,10,
+Maryland,2021,11,
+Maryland,2021,12,
+Maryland,2022,1,
+Maryland,2022,2,
+Maryland,2022,3,
+Maryland,2022,4,
+Maryland,2022,5,
+Maryland,2022,6,
+Maryland,2022,7,
+Maryland,2022,8,
+Maryland,2022,9,
+Maryland,2022,10,
+Maryland,2022,11,
+Maryland,2022,12,51.1633211009174
+Maryland,2023,1,51.2078096385542
+Maryland,2023,2,
+Maryland,2023,3,
+Maryland,2023,4,
+Maryland,2023,5,
+Maryland,2023,6,
+Maryland,2023,7,
+Maryland,2023,8,
+Maryland,2023,9,
+Maryland,2023,10,
+Maryland,2023,11,52.4751931818182
+Maryland,2023,12,55.4708860759494
+Maryland,2024,1,
+Maryland,2024,2,
+Maryland,2024,3,
+Maryland,2024,4,
+Maryland,2024,5,
+Maryland,2024,6,
+Maryland,2024,7,
+Maryland,2024,8,
+Maryland,2024,9,
+Maryland,2024,10,
+Maryland,2024,11,
+Maryland,2024,12,
+Massachusetts,2020,1,
+Massachusetts,2020,2,
+Massachusetts,2020,3,
+Massachusetts,2020,4,
+Massachusetts,2020,5,
+Massachusetts,2020,6,
+Massachusetts,2020,7,
+Massachusetts,2020,8,
+Massachusetts,2020,9,
+Massachusetts,2020,10,
+Massachusetts,2020,11,
+Massachusetts,2020,12,
+Massachusetts,2021,1,
+Massachusetts,2021,2,
+Massachusetts,2021,3,
+Massachusetts,2021,4,
+Massachusetts,2021,5,
+Massachusetts,2021,6,
+Massachusetts,2021,7,
+Massachusetts,2021,8,
+Massachusetts,2021,9,
+Massachusetts,2021,10,
+Massachusetts,2021,11,
+Massachusetts,2021,12,
+Massachusetts,2022,1,
+Massachusetts,2022,2,
+Massachusetts,2022,3,
+Massachusetts,2022,4,
+Massachusetts,2022,5,
+Massachusetts,2022,6,
+Massachusetts,2022,7,
+Massachusetts,2022,8,
+Massachusetts,2022,9,
+Massachusetts,2022,10,
+Massachusetts,2022,11,
+Massachusetts,2022,12,49.754897260274
+Massachusetts,2023,1,
+Massachusetts,2023,2,51.2782742382272
+Massachusetts,2023,3,
+Massachusetts,2023,4,
+Massachusetts,2023,5,
+Massachusetts,2023,6,49.930579218107
+Massachusetts,2023,7,
+Massachusetts,2023,8,
+Massachusetts,2023,9,
+Massachusetts,2023,10,
+Massachusetts,2023,11,
+Massachusetts,2023,12,51.5865639097744
+Massachusetts,2024,1,
+Massachusetts,2024,2,
+Massachusetts,2024,3,
+Massachusetts,2024,4,
+Massachusetts,2024,5,
+Massachusetts,2024,6,
+Massachusetts,2024,7,
+Massachusetts,2024,8,
+Massachusetts,2024,9,
+Massachusetts,2024,10,
+Massachusetts,2024,11,
+Massachusetts,2024,12,
+Michigan,2020,1,
+Michigan,2020,2,
+Michigan,2020,3,
+Michigan,2020,4,
+Michigan,2020,5,
+Michigan,2020,6,
+Michigan,2020,7,
+Michigan,2020,8,
+Michigan,2020,9,
+Michigan,2020,10,
+Michigan,2020,11,
+Michigan,2020,12,
+Michigan,2021,1,
+Michigan,2021,2,
+Michigan,2021,3,
+Michigan,2021,4,
+Michigan,2021,5,46.376374456184
+Michigan,2021,6,51.1281091370558
+Michigan,2021,7,49.9945256859913
+Michigan,2021,8,49.3589265864786
+Michigan,2021,9,50.6707103960396
+Michigan,2021,10,50.1136570453135
+Michigan,2021,11,
+Michigan,2021,12,
+Michigan,2022,1,50.5504041450777
+Michigan,2022,2,
+Michigan,2022,3,50.02773491457
+Michigan,2022,4,50.0035466666667
+Michigan,2022,5,49.4110585557987
+Michigan,2022,6,49.974600660066
+Michigan,2022,7,
+Michigan,2022,8,44.5537965777193
+Michigan,2022,9,51.3002937743191
+Michigan,2022,10,51.4867031578947
+Michigan,2022,11,
+Michigan,2022,12,50.9382213759214
+Michigan,2023,1,49.697567357513
+Michigan,2023,2,50.5632126436782
+Michigan,2023,3,
+Michigan,2023,4,50.9538922056385
+Michigan,2023,5,
+Michigan,2023,6,
+Michigan,2023,7,54.5161914893617
+Michigan,2023,8,
+Michigan,2023,9,
+Michigan,2023,10,
+Michigan,2023,11,
+Michigan,2023,12,
+Michigan,2024,1,
+Michigan,2024,2,
+Michigan,2024,3,
+Michigan,2024,4,
+Michigan,2024,5,
+Michigan,2024,6,
+Michigan,2024,7,
+Michigan,2024,8,
+Michigan,2024,9,
+Michigan,2024,10,
+Michigan,2024,11,
+Michigan,2024,12,
+Minnesota,2020,1,
+Minnesota,2020,2,
+Minnesota,2020,3,
+Minnesota,2020,4,
+Minnesota,2020,5,
+Minnesota,2020,6,
+Minnesota,2020,7,
+Minnesota,2020,8,
+Minnesota,2020,9,
+Minnesota,2020,10,
+Minnesota,2020,11,
+Minnesota,2020,12,
+Minnesota,2021,1,
+Minnesota,2021,2,
+Minnesota,2021,3,
+Minnesota,2021,4,
+Minnesota,2021,5,
+Minnesota,2021,6,
+Minnesota,2021,7,
+Minnesota,2021,8,
+Minnesota,2021,9,
+Minnesota,2021,10,
+Minnesota,2021,11,
+Minnesota,2021,12,
+Minnesota,2022,1,
+Minnesota,2022,2,
+Minnesota,2022,3,
+Minnesota,2022,4,47.7549023749179
+Minnesota,2022,5,
+Minnesota,2022,6,
+Minnesota,2022,7,
+Minnesota,2022,8,50.5740607734807
+Minnesota,2022,9,
+Minnesota,2022,10,
+Minnesota,2022,11,50.1200945378151
+Minnesota,2022,12,
+Minnesota,2023,1,
+Minnesota,2023,2,
+Minnesota,2023,3,
+Minnesota,2023,4,50.1216134969325
+Minnesota,2023,5,49.6445257731959
+Minnesota,2023,6,
+Minnesota,2023,7,
+Minnesota,2023,8,
+Minnesota,2023,9,
+Minnesota,2023,10,
+Minnesota,2023,11,
+Minnesota,2023,12,
+Minnesota,2024,1,
+Minnesota,2024,2,
+Minnesota,2024,3,
+Minnesota,2024,4,
+Minnesota,2024,5,
+Minnesota,2024,6,
+Minnesota,2024,7,
+Minnesota,2024,8,
+Minnesota,2024,9,
+Minnesota,2024,10,
+Minnesota,2024,11,
+Minnesota,2024,12,
+Mississippi,2020,1,
+Mississippi,2020,2,
+Mississippi,2020,3,
+Mississippi,2020,4,
+Mississippi,2020,5,
+Mississippi,2020,6,
+Mississippi,2020,7,
+Mississippi,2020,8,
+Mississippi,2020,9,
+Mississippi,2020,10,
+Mississippi,2020,11,
+Mississippi,2020,12,
+Mississippi,2021,1,
+Mississippi,2021,2,
+Mississippi,2021,3,
+Mississippi,2021,4,
+Mississippi,2021,5,
+Mississippi,2021,6,
+Mississippi,2021,7,
+Mississippi,2021,8,
+Mississippi,2021,9,
+Mississippi,2021,10,
+Mississippi,2021,11,
+Mississippi,2021,12,
+Mississippi,2022,1,
+Mississippi,2022,2,
+Mississippi,2022,3,
+Mississippi,2022,4,
+Mississippi,2022,5,
+Mississippi,2022,6,
+Mississippi,2022,7,
+Mississippi,2022,8,
+Mississippi,2022,9,
+Mississippi,2022,10,
+Mississippi,2022,11,
+Mississippi,2022,12,
+Mississippi,2023,1,
+Mississippi,2023,2,
+Mississippi,2023,3,
+Mississippi,2023,4,
+Mississippi,2023,5,
+Mississippi,2023,6,
+Mississippi,2023,7,
+Mississippi,2023,8,
+Mississippi,2023,9,
+Mississippi,2023,10,
+Mississippi,2023,11,48.4550097560976
+Mississippi,2023,12,
+Mississippi,2024,1,
+Mississippi,2024,2,
+Mississippi,2024,3,
+Mississippi,2024,4,
+Mississippi,2024,5,
+Mississippi,2024,6,
+Mississippi,2024,7,
+Mississippi,2024,8,
+Mississippi,2024,9,
+Mississippi,2024,10,
+Mississippi,2024,11,
+Mississippi,2024,12,
+Missouri,2020,1,
+Missouri,2020,2,
+Missouri,2020,3,
+Missouri,2020,4,
+Missouri,2020,5,
+Missouri,2020,6,
+Missouri,2020,7,50.1924366349842
+Missouri,2020,8,50.4597159726538
+Missouri,2020,9,
+Missouri,2020,10,
+Missouri,2020,11,
+Missouri,2020,12,
+Missouri,2021,1,
+Missouri,2021,2,
+Missouri,2021,3,50.5694539160537
+Missouri,2021,4,50.5054127127852
+Missouri,2021,5,51.2117164179105
+Missouri,2021,6,50.9280608221477
+Missouri,2021,7,
+Missouri,2021,8,50.3428226210351
+Missouri,2021,9,
+Missouri,2021,10,
+Missouri,2021,11,
+Missouri,2021,12,
+Missouri,2022,1,43.777243902439
+Missouri,2022,2,50.8035142469471
+Missouri,2022,3,
+Missouri,2022,4,
+Missouri,2022,5,
+Missouri,2022,6,
+Missouri,2022,7,
+Missouri,2022,8,
+Missouri,2022,9,
+Missouri,2022,10,
+Missouri,2022,11,
+Missouri,2022,12,
+Missouri,2023,1,
+Missouri,2023,2,
+Missouri,2023,3,
+Missouri,2023,4,
+Missouri,2023,5,
+Missouri,2023,6,
+Missouri,2023,7,
+Missouri,2023,8,
+Missouri,2023,9,
+Missouri,2023,10,
+Missouri,2023,11,
+Missouri,2023,12,
+Missouri,2024,1,
+Missouri,2024,2,
+Missouri,2024,3,
+Missouri,2024,4,
+Missouri,2024,5,
+Missouri,2024,6,
+Missouri,2024,7,
+Missouri,2024,8,
+Missouri,2024,9,
+Missouri,2024,10,
+Missouri,2024,11,
+Missouri,2024,12,
+Montana,2020,1,
+Montana,2020,2,
+Montana,2020,3,
+Montana,2020,4,
+Montana,2020,5,
+Montana,2020,6,
+Montana,2020,7,
+Montana,2020,8,50.5148729863693
+Montana,2020,9,
+Montana,2020,10,
+Montana,2020,11,
+Montana,2020,12,
+Montana,2021,1,
+Montana,2021,2,
+Montana,2021,3,
+Montana,2021,4,
+Montana,2021,5,
+Montana,2021,6,
+Montana,2021,7,
+Montana,2021,8,
+Montana,2021,9,
+Montana,2021,10,
+Montana,2021,11,
+Montana,2021,12,
+Montana,2022,1,
+Montana,2022,2,
+Montana,2022,3,
+Montana,2022,4,
+Montana,2022,5,
+Montana,2022,6,
+Montana,2022,7,
+Montana,2022,8,
+Montana,2022,9,55.6589867549669
+Montana,2022,10,
+Montana,2022,11,
+Montana,2022,12,
+Montana,2023,1,
+Montana,2023,2,
+Montana,2023,3,
+Montana,2023,4,
+Montana,2023,5,
+Montana,2023,6,
+Montana,2023,7,
+Montana,2023,8,
+Montana,2023,9,
+Montana,2023,10,
+Montana,2023,11,
+Montana,2023,12,
+Montana,2024,1,
+Montana,2024,2,
+Montana,2024,3,
+Montana,2024,4,
+Montana,2024,5,
+Montana,2024,6,
+Montana,2024,7,
+Montana,2024,8,
+Montana,2024,9,
+Montana,2024,10,
+Montana,2024,11,
+Montana,2024,12,
+Nebraska,2020,1,
+Nebraska,2020,2,
+Nebraska,2020,3,
+Nebraska,2020,4,
+Nebraska,2020,5,
+Nebraska,2020,6,
+Nebraska,2020,7,
+Nebraska,2020,8,
+Nebraska,2020,9,
+Nebraska,2020,10,
+Nebraska,2020,11,
+Nebraska,2020,12,
+Nebraska,2021,1,
+Nebraska,2021,2,
+Nebraska,2021,3,
+Nebraska,2021,4,
+Nebraska,2021,5,
+Nebraska,2021,6,
+Nebraska,2021,7,
+Nebraska,2021,8,
+Nebraska,2021,9,
+Nebraska,2021,10,
+Nebraska,2021,11,
+Nebraska,2021,12,
+Nebraska,2022,1,
+Nebraska,2022,2,
+Nebraska,2022,3,
+Nebraska,2022,4,
+Nebraska,2022,5,
+Nebraska,2022,6,
+Nebraska,2022,7,
+Nebraska,2022,8,
+Nebraska,2022,9,
+Nebraska,2022,10,
+Nebraska,2022,11,
+Nebraska,2022,12,
+Nebraska,2023,1,
+Nebraska,2023,2,
+Nebraska,2023,3,
+Nebraska,2023,4,
+Nebraska,2023,5,49.7876073338426
+Nebraska,2023,6,49.4910164609054
+Nebraska,2023,7,
+Nebraska,2023,8,49.0567245901639
+Nebraska,2023,9,
+Nebraska,2023,10,
+Nebraska,2023,11,
+Nebraska,2023,12,
+Nebraska,2024,1,
+Nebraska,2024,2,
+Nebraska,2024,3,
+Nebraska,2024,4,
+Nebraska,2024,5,
+Nebraska,2024,6,
+Nebraska,2024,7,
+Nebraska,2024,8,
+Nebraska,2024,9,
+Nebraska,2024,10,
+Nebraska,2024,11,
+Nebraska,2024,12,
+Nevada,2020,1,
+Nevada,2020,2,
+Nevada,2020,3,
+Nevada,2020,4,
+Nevada,2020,5,
+Nevada,2020,6,
+Nevada,2020,7,
+Nevada,2020,8,
+Nevada,2020,9,
+Nevada,2020,10,
+Nevada,2020,11,
+Nevada,2020,12,
+Nevada,2021,1,
+Nevada,2021,2,
+Nevada,2021,3,
+Nevada,2021,4,
+Nevada,2021,5,
+Nevada,2021,6,
+Nevada,2021,7,
+Nevada,2021,8,
+Nevada,2021,9,
+Nevada,2021,10,
+Nevada,2021,11,
+Nevada,2021,12,
+Nevada,2022,1,
+Nevada,2022,2,
+Nevada,2022,3,
+Nevada,2022,4,
+Nevada,2022,5,
+Nevada,2022,6,
+Nevada,2022,7,
+Nevada,2022,8,
+Nevada,2022,9,
+Nevada,2022,10,
+Nevada,2022,11,
+Nevada,2022,12,
+Nevada,2023,1,
+Nevada,2023,2,
+Nevada,2023,3,49.8336876876877
+Nevada,2023,4,
+Nevada,2023,5,
+Nevada,2023,6,
+Nevada,2023,7,
+Nevada,2023,8,
+Nevada,2023,9,
+Nevada,2023,10,
+Nevada,2023,11,53.5575681818182
+Nevada,2023,12,
+Nevada,2024,1,
+Nevada,2024,2,
+Nevada,2024,3,
+Nevada,2024,4,
+Nevada,2024,5,
+Nevada,2024,6,
+Nevada,2024,7,
+Nevada,2024,8,
+Nevada,2024,9,
+Nevada,2024,10,
+Nevada,2024,11,
+Nevada,2024,12,
+New Hampshire,2020,1,
+New Hampshire,2020,2,
+New Hampshire,2020,3,
+New Hampshire,2020,4,
+New Hampshire,2020,5,
+New Hampshire,2020,6,
+New Hampshire,2020,7,
+New Hampshire,2020,8,
+New Hampshire,2020,9,
+New Hampshire,2020,10,
+New Hampshire,2020,11,
+New Hampshire,2020,12,
+New Hampshire,2021,1,
+New Hampshire,2021,2,
+New Hampshire,2021,3,
+New Hampshire,2021,4,
+New Hampshire,2021,5,
+New Hampshire,2021,6,
+New Hampshire,2021,7,
+New Hampshire,2021,8,
+New Hampshire,2021,9,
+New Hampshire,2021,10,
+New Hampshire,2021,11,
+New Hampshire,2021,12,
+New Hampshire,2022,1,
+New Hampshire,2022,2,
+New Hampshire,2022,3,
+New Hampshire,2022,4,
+New Hampshire,2022,5,
+New Hampshire,2022,6,
+New Hampshire,2022,7,
+New Hampshire,2022,8,
+New Hampshire,2022,9,
+New Hampshire,2022,10,50.2773486973948
+New Hampshire,2022,11,51.1205110619469
+New Hampshire,2022,12,50.2709235261402
+New Hampshire,2023,1,50.2494764705882
+New Hampshire,2023,2,
+New Hampshire,2023,3,
+New Hampshire,2023,4,
+New Hampshire,2023,5,
+New Hampshire,2023,6,
+New Hampshire,2023,7,
+New Hampshire,2023,8,
+New Hampshire,2023,9,
+New Hampshire,2023,10,
+New Hampshire,2023,11,54.6937272727273
+New Hampshire,2023,12,52.3520625
+New Hampshire,2024,1,
+New Hampshire,2024,2,
+New Hampshire,2024,3,
+New Hampshire,2024,4,
+New Hampshire,2024,5,
+New Hampshire,2024,6,
+New Hampshire,2024,7,
+New Hampshire,2024,8,
+New Hampshire,2024,9,
+New Hampshire,2024,10,
+New Hampshire,2024,11,
+New Hampshire,2024,12,
+New Jersey,2020,1,
+New Jersey,2020,2,
+New Jersey,2020,3,
+New Jersey,2020,4,
+New Jersey,2020,5,
+New Jersey,2020,6,
+New Jersey,2020,7,
+New Jersey,2020,8,
+New Jersey,2020,9,
+New Jersey,2020,10,
+New Jersey,2020,11,
+New Jersey,2020,12,
+New Jersey,2021,1,
+New Jersey,2021,2,
+New Jersey,2021,3,
+New Jersey,2021,4,
+New Jersey,2021,5,
+New Jersey,2021,6,
+New Jersey,2021,7,
+New Jersey,2021,8,
+New Jersey,2021,9,
+New Jersey,2021,10,
+New Jersey,2021,11,
+New Jersey,2021,12,
+New Jersey,2022,1,
+New Jersey,2022,2,
+New Jersey,2022,3,
+New Jersey,2022,4,
+New Jersey,2022,5,
+New Jersey,2022,6,
+New Jersey,2022,7,
+New Jersey,2022,8,50.4592398589065
+New Jersey,2022,9,
+New Jersey,2022,10,
+New Jersey,2022,11,
+New Jersey,2022,12,50.1350719101124
+New Jersey,2023,1,50.9302672737011
+New Jersey,2023,2,50.9919212880143
+New Jersey,2023,3,51.1526389684814
+New Jersey,2023,4,49.2519353796446
+New Jersey,2023,5,49.3441509872242
+New Jersey,2023,6,49.0890068965517
+New Jersey,2023,7,48.6873172866521
+New Jersey,2023,8,49.4367626459144
+New Jersey,2023,9,
+New Jersey,2023,10,51.1972836879433
+New Jersey,2023,11,
+New Jersey,2023,12,
+New Jersey,2024,1,
+New Jersey,2024,2,
+New Jersey,2024,3,
+New Jersey,2024,4,
+New Jersey,2024,5,
+New Jersey,2024,6,
+New Jersey,2024,7,
+New Jersey,2024,8,
+New Jersey,2024,9,
+New Jersey,2024,10,
+New Jersey,2024,11,
+New Jersey,2024,12,
+New Mexico,2020,1,
+New Mexico,2020,2,
+New Mexico,2020,3,
+New Mexico,2020,4,
+New Mexico,2020,5,
+New Mexico,2020,6,
+New Mexico,2020,7,
+New Mexico,2020,8,
+New Mexico,2020,9,
+New Mexico,2020,10,
+New Mexico,2020,11,
+New Mexico,2020,12,
+New Mexico,2021,1,
+New Mexico,2021,2,
+New Mexico,2021,3,
+New Mexico,2021,4,
+New Mexico,2021,5,
+New Mexico,2021,6,
+New Mexico,2021,7,
+New Mexico,2021,8,
+New Mexico,2021,9,
+New Mexico,2021,10,
+New Mexico,2021,11,
+New Mexico,2021,12,
+New Mexico,2022,1,
+New Mexico,2022,2,
+New Mexico,2022,3,
+New Mexico,2022,4,
+New Mexico,2022,5,
+New Mexico,2022,6,
+New Mexico,2022,7,
+New Mexico,2022,8,
+New Mexico,2022,9,
+New Mexico,2022,10,
+New Mexico,2022,11,
+New Mexico,2022,12,49.8782406542056
+New Mexico,2023,1,
+New Mexico,2023,2,50.4900724832215
+New Mexico,2023,3,49.5526416184971
+New Mexico,2023,4,
+New Mexico,2023,5,
+New Mexico,2023,6,
+New Mexico,2023,7,
+New Mexico,2023,8,
+New Mexico,2023,9,
+New Mexico,2023,10,
+New Mexico,2023,11,53.0868863636364
+New Mexico,2023,12,
+New Mexico,2024,1,
+New Mexico,2024,2,
+New Mexico,2024,3,
+New Mexico,2024,4,
+New Mexico,2024,5,
+New Mexico,2024,6,
+New Mexico,2024,7,
+New Mexico,2024,8,
+New Mexico,2024,9,
+New Mexico,2024,10,
+New Mexico,2024,11,
+New Mexico,2024,12,
+New York,2020,1,
+New York,2020,2,
+New York,2020,3,
+New York,2020,4,
+New York,2020,5,
+New York,2020,6,
+New York,2020,7,
+New York,2020,8,
+New York,2020,9,
+New York,2020,10,
+New York,2020,11,
+New York,2020,12,
+New York,2021,1,
+New York,2021,2,
+New York,2021,3,
+New York,2021,4,
+New York,2021,5,
+New York,2021,6,
+New York,2021,7,
+New York,2021,8,
+New York,2021,9,
+New York,2021,10,49.8875863883378
+New York,2021,11,
+New York,2021,12,48.5207413793104
+New York,2022,1,49.7185947629158
+New York,2022,2,47.3592195300431
+New York,2022,3,48.9562439807384
+New York,2022,4,49.9262139005393
+New York,2022,5,49.4889444638491
+New York,2022,6,49.8670732484077
+New York,2022,7,50.4783836909871
+New York,2022,8,50.2844513213591
+New York,2022,9,51.5882546201232
+New York,2022,10,
+New York,2022,11,
+New York,2022,12,50.8619962593516
+New York,2023,1,49.8787926652142
+New York,2023,2,49.9959614412137
+New York,2023,3,47.2058175403226
+New York,2023,4,48.6748823082764
+New York,2023,5,44.3345130679534
+New York,2023,6,49.8428697318008
+New York,2023,7,100
+New York,2023,8,52.9582905027933
+New York,2023,9,
+New York,2023,10,
+New York,2023,11,
+New York,2023,12,
+New York,2024,1,
+New York,2024,2,
+New York,2024,3,
+New York,2024,4,
+New York,2024,5,
+New York,2024,6,
+New York,2024,7,
+New York,2024,8,
+New York,2024,9,
+New York,2024,10,
+New York,2024,11,
+New York,2024,12,
+North Carolina,2020,1,
+North Carolina,2020,2,
+North Carolina,2020,3,
+North Carolina,2020,4,
+North Carolina,2020,5,
+North Carolina,2020,6,
+North Carolina,2020,7,
+North Carolina,2020,8,
+North Carolina,2020,9,
+North Carolina,2020,10,
+North Carolina,2020,11,
+North Carolina,2020,12,
+North Carolina,2021,1,
+North Carolina,2021,2,
+North Carolina,2021,3,
+North Carolina,2021,4,
+North Carolina,2021,5,
+North Carolina,2021,6,
+North Carolina,2021,7,
+North Carolina,2021,8,
+North Carolina,2021,9,
+North Carolina,2021,10,
+North Carolina,2021,11,
+North Carolina,2021,12,
+North Carolina,2022,1,
+North Carolina,2022,2,
+North Carolina,2022,3,
+North Carolina,2022,4,
+North Carolina,2022,5,
+North Carolina,2022,6,
+North Carolina,2022,7,
+North Carolina,2022,8,50.9156527272727
+North Carolina,2022,9,50.4009358490566
+North Carolina,2022,10,50.0628430470348
+North Carolina,2022,11,50.6915404255319
+North Carolina,2022,12,50.1041830357143
+North Carolina,2023,1,50.8072613219094
+North Carolina,2023,2,
+North Carolina,2023,3,50.7688760869565
+North Carolina,2023,4,50.6551722822632
+North Carolina,2023,5,
+North Carolina,2023,6,49.0882997668998
+North Carolina,2023,7,49.5086805157593
+North Carolina,2023,8,
+North Carolina,2023,9,49.5428101265823
+North Carolina,2023,10,
+North Carolina,2023,11,
+North Carolina,2023,12,43.4265625
+North Carolina,2024,1,46.6781268656717
+North Carolina,2024,2,
+North Carolina,2024,3,
+North Carolina,2024,4,
+North Carolina,2024,5,
+North Carolina,2024,6,
+North Carolina,2024,7,
+North Carolina,2024,8,
+North Carolina,2024,9,
+North Carolina,2024,10,
+North Carolina,2024,11,
+North Carolina,2024,12,
+North Dakota,2020,1,
+North Dakota,2020,2,
+North Dakota,2020,3,
+North Dakota,2020,4,
+North Dakota,2020,5,
+North Dakota,2020,6,
+North Dakota,2020,7,
+North Dakota,2020,8,
+North Dakota,2020,9,
+North Dakota,2020,10,
+North Dakota,2020,11,
+North Dakota,2020,12,
+North Dakota,2021,1,
+North Dakota,2021,2,
+North Dakota,2021,3,
+North Dakota,2021,4,
+North Dakota,2021,5,
+North Dakota,2021,6,
+North Dakota,2021,7,
+North Dakota,2021,8,
+North Dakota,2021,9,
+North Dakota,2021,10,
+North Dakota,2021,11,
+North Dakota,2021,12,
+North Dakota,2022,1,
+North Dakota,2022,2,
+North Dakota,2022,3,
+North Dakota,2022,4,
+North Dakota,2022,5,
+North Dakota,2022,6,
+North Dakota,2022,7,
+North Dakota,2022,8,
+North Dakota,2022,9,
+North Dakota,2022,10,
+North Dakota,2022,11,
+North Dakota,2022,12,
+North Dakota,2023,1,
+North Dakota,2023,2,
+North Dakota,2023,3,
+North Dakota,2023,4,
+North Dakota,2023,5,
+North Dakota,2023,6,
+North Dakota,2023,7,
+North Dakota,2023,8,
+North Dakota,2023,9,
+North Dakota,2023,10,
+North Dakota,2023,11,
+North Dakota,2023,12,
+North Dakota,2024,1,
+North Dakota,2024,2,
+North Dakota,2024,3,
+North Dakota,2024,4,
+North Dakota,2024,5,
+North Dakota,2024,6,
+North Dakota,2024,7,
+North Dakota,2024,8,
+North Dakota,2024,9,
+North Dakota,2024,10,
+North Dakota,2024,11,
+North Dakota,2024,12,
+Ohio,2020,1,
+Ohio,2020,2,
+Ohio,2020,3,
+Ohio,2020,4,
+Ohio,2020,5,
+Ohio,2020,6,
+Ohio,2020,7,
+Ohio,2020,8,
+Ohio,2020,9,
+Ohio,2020,10,
+Ohio,2020,11,
+Ohio,2020,12,
+Ohio,2021,1,
+Ohio,2021,2,
+Ohio,2021,3,
+Ohio,2021,4,
+Ohio,2021,5,
+Ohio,2021,6,
+Ohio,2021,7,
+Ohio,2021,8,
+Ohio,2021,9,
+Ohio,2021,10,
+Ohio,2021,11,
+Ohio,2021,12,
+Ohio,2022,1,
+Ohio,2022,2,
+Ohio,2022,3,
+Ohio,2022,4,
+Ohio,2022,5,
+Ohio,2022,6,
+Ohio,2022,7,
+Ohio,2022,8,
+Ohio,2022,9,
+Ohio,2022,10,
+Ohio,2022,11,
+Ohio,2022,12,50.7343853211009
+Ohio,2023,1,49.9380338983051
+Ohio,2023,2,
+Ohio,2023,3,
+Ohio,2023,4,
+Ohio,2023,5,
+Ohio,2023,6,
+Ohio,2023,7,
+Ohio,2023,8,
+Ohio,2023,9,50.4205432332522
+Ohio,2023,10,50.4142061068702
+Ohio,2023,11,49.5230454545455
+Ohio,2023,12,
+Ohio,2024,1,
+Ohio,2024,2,
+Ohio,2024,3,
+Ohio,2024,4,
+Ohio,2024,5,
+Ohio,2024,6,
+Ohio,2024,7,
+Ohio,2024,8,
+Ohio,2024,9,
+Ohio,2024,10,
+Ohio,2024,11,
+Ohio,2024,12,
+Oklahoma,2020,1,
+Oklahoma,2020,2,
+Oklahoma,2020,3,
+Oklahoma,2020,4,
+Oklahoma,2020,5,
+Oklahoma,2020,6,
+Oklahoma,2020,7,
+Oklahoma,2020,8,
+Oklahoma,2020,9,
+Oklahoma,2020,10,
+Oklahoma,2020,11,
+Oklahoma,2020,12,
+Oklahoma,2021,1,
+Oklahoma,2021,2,
+Oklahoma,2021,3,
+Oklahoma,2021,4,
+Oklahoma,2021,5,
+Oklahoma,2021,6,
+Oklahoma,2021,7,
+Oklahoma,2021,8,
+Oklahoma,2021,9,
+Oklahoma,2021,10,
+Oklahoma,2021,11,
+Oklahoma,2021,12,
+Oklahoma,2022,1,
+Oklahoma,2022,2,
+Oklahoma,2022,3,
+Oklahoma,2022,4,
+Oklahoma,2022,5,
+Oklahoma,2022,6,
+Oklahoma,2022,7,
+Oklahoma,2022,8,
+Oklahoma,2022,9,
+Oklahoma,2022,10,
+Oklahoma,2022,11,
+Oklahoma,2022,12,
+Oklahoma,2023,1,50.7605333657272
+Oklahoma,2023,2,48.2509162011173
+Oklahoma,2023,3,
+Oklahoma,2023,4,
+Oklahoma,2023,5,
+Oklahoma,2023,6,
+Oklahoma,2023,7,
+Oklahoma,2023,8,
+Oklahoma,2023,9,
+Oklahoma,2023,10,
+Oklahoma,2023,11,
+Oklahoma,2023,12,54.464175
+Oklahoma,2024,1,
+Oklahoma,2024,2,
+Oklahoma,2024,3,
+Oklahoma,2024,4,
+Oklahoma,2024,5,
+Oklahoma,2024,6,
+Oklahoma,2024,7,
+Oklahoma,2024,8,
+Oklahoma,2024,9,
+Oklahoma,2024,10,
+Oklahoma,2024,11,
+Oklahoma,2024,12,
+Oregon,2020,1,
+Oregon,2020,2,
+Oregon,2020,3,
+Oregon,2020,4,
+Oregon,2020,5,
+Oregon,2020,6,
+Oregon,2020,7,
+Oregon,2020,8,
+Oregon,2020,9,48.1954136968085
+Oregon,2020,10,49.3589767388826
+Oregon,2020,11,48.1920322164948
+Oregon,2020,12,47.5606056415929
+Oregon,2021,1,
+Oregon,2021,2,
+Oregon,2021,3,
+Oregon,2021,4,
+Oregon,2021,5,52.3622045929019
+Oregon,2021,6,47.8443874813711
+Oregon,2021,7,
+Oregon,2021,8,
+Oregon,2021,9,
+Oregon,2021,10,
+Oregon,2021,11,
+Oregon,2021,12,
+Oregon,2022,1,
+Oregon,2022,2,
+Oregon,2022,3,
+Oregon,2022,4,
+Oregon,2022,5,
+Oregon,2022,6,
+Oregon,2022,7,
+Oregon,2022,8,
+Oregon,2022,9,
+Oregon,2022,10,
+Oregon,2022,11,
+Oregon,2022,12,
+Oregon,2023,1,
+Oregon,2023,2,
+Oregon,2023,3,
+Oregon,2023,4,
+Oregon,2023,5,45.0750347222222
+Oregon,2023,6,
+Oregon,2023,7,
+Oregon,2023,8,
+Oregon,2023,9,
+Oregon,2023,10,
+Oregon,2023,11,
+Oregon,2023,12,
+Oregon,2024,1,
+Oregon,2024,2,
+Oregon,2024,3,
+Oregon,2024,4,
+Oregon,2024,5,
+Oregon,2024,6,
+Oregon,2024,7,
+Oregon,2024,8,
+Oregon,2024,9,
+Oregon,2024,10,
+Oregon,2024,11,
+Oregon,2024,12,
+Pennsylvania,2020,1,
+Pennsylvania,2020,2,
+Pennsylvania,2020,3,
+Pennsylvania,2020,4,
+Pennsylvania,2020,5,
+Pennsylvania,2020,6,
+Pennsylvania,2020,7,
+Pennsylvania,2020,8,
+Pennsylvania,2020,9,
+Pennsylvania,2020,10,
+Pennsylvania,2020,11,
+Pennsylvania,2020,12,
+Pennsylvania,2021,1,
+Pennsylvania,2021,2,
+Pennsylvania,2021,3,
+Pennsylvania,2021,4,
+Pennsylvania,2021,5,
+Pennsylvania,2021,6,
+Pennsylvania,2021,7,
+Pennsylvania,2021,8,
+Pennsylvania,2021,9,
+Pennsylvania,2021,10,
+Pennsylvania,2021,11,
+Pennsylvania,2021,12,
+Pennsylvania,2022,1,
+Pennsylvania,2022,2,
+Pennsylvania,2022,3,
+Pennsylvania,2022,4,
+Pennsylvania,2022,5,
+Pennsylvania,2022,6,
+Pennsylvania,2022,7,50.7861511587686
+Pennsylvania,2022,8,50.3403947368421
+Pennsylvania,2022,9,
+Pennsylvania,2022,10,50.2511356045424
+Pennsylvania,2022,11,
+Pennsylvania,2022,12,
+Pennsylvania,2023,1,
+Pennsylvania,2023,2,
+Pennsylvania,2023,3,
+Pennsylvania,2023,4,
+Pennsylvania,2023,5,
+Pennsylvania,2023,6,49.0256261488289
+Pennsylvania,2023,7,50.4983690987125
+Pennsylvania,2023,8,49.4433408071749
+Pennsylvania,2023,9,48.6860151515152
+Pennsylvania,2023,10,
+Pennsylvania,2023,11,53.2950681818182
+Pennsylvania,2023,12,50.2018625
+Pennsylvania,2024,1,
+Pennsylvania,2024,2,
+Pennsylvania,2024,3,
+Pennsylvania,2024,4,
+Pennsylvania,2024,5,
+Pennsylvania,2024,6,
+Pennsylvania,2024,7,
+Pennsylvania,2024,8,
+Pennsylvania,2024,9,
+Pennsylvania,2024,10,
+Pennsylvania,2024,11,
+Pennsylvania,2024,12,
+Rhode Island,2020,1,
+Rhode Island,2020,2,
+Rhode Island,2020,3,
+Rhode Island,2020,4,
+Rhode Island,2020,5,
+Rhode Island,2020,6,
+Rhode Island,2020,7,
+Rhode Island,2020,8,
+Rhode Island,2020,9,
+Rhode Island,2020,10,
+Rhode Island,2020,11,
+Rhode Island,2020,12,
+Rhode Island,2021,1,
+Rhode Island,2021,2,
+Rhode Island,2021,3,
+Rhode Island,2021,4,
+Rhode Island,2021,5,
+Rhode Island,2021,6,
+Rhode Island,2021,7,
+Rhode Island,2021,8,
+Rhode Island,2021,9,
+Rhode Island,2021,10,
+Rhode Island,2021,11,
+Rhode Island,2021,12,
+Rhode Island,2022,1,
+Rhode Island,2022,2,
+Rhode Island,2022,3,
+Rhode Island,2022,4,
+Rhode Island,2022,5,
+Rhode Island,2022,6,
+Rhode Island,2022,7,
+Rhode Island,2022,8,
+Rhode Island,2022,9,
+Rhode Island,2022,10,
+Rhode Island,2022,11,
+Rhode Island,2022,12,
+Rhode Island,2023,1,
+Rhode Island,2023,2,
+Rhode Island,2023,3,
+Rhode Island,2023,4,
+Rhode Island,2023,5,
+Rhode Island,2023,6,
+Rhode Island,2023,7,
+Rhode Island,2023,8,
+Rhode Island,2023,9,47.6112012934519
+Rhode Island,2023,10,
+Rhode Island,2023,11,
+Rhode Island,2023,12,
+Rhode Island,2024,1,
+Rhode Island,2024,2,
+Rhode Island,2024,3,
+Rhode Island,2024,4,
+Rhode Island,2024,5,
+Rhode Island,2024,6,
+Rhode Island,2024,7,
+Rhode Island,2024,8,
+Rhode Island,2024,9,
+Rhode Island,2024,10,
+Rhode Island,2024,11,
+Rhode Island,2024,12,
+South Carolina,2020,1,
+South Carolina,2020,2,
+South Carolina,2020,3,
+South Carolina,2020,4,
+South Carolina,2020,5,
+South Carolina,2020,6,
+South Carolina,2020,7,
+South Carolina,2020,8,
+South Carolina,2020,9,
+South Carolina,2020,10,
+South Carolina,2020,11,
+South Carolina,2020,12,
+South Carolina,2021,1,
+South Carolina,2021,2,
+South Carolina,2021,3,
+South Carolina,2021,4,
+South Carolina,2021,5,
+South Carolina,2021,6,
+South Carolina,2021,7,
+South Carolina,2021,8,
+South Carolina,2021,9,
+South Carolina,2021,10,
+South Carolina,2021,11,
+South Carolina,2021,12,
+South Carolina,2022,1,
+South Carolina,2022,2,
+South Carolina,2022,3,
+South Carolina,2022,4,
+South Carolina,2022,5,
+South Carolina,2022,6,50.3855939616253
+South Carolina,2022,7,
+South Carolina,2022,8,
+South Carolina,2022,9,
+South Carolina,2022,10,
+South Carolina,2022,11,
+South Carolina,2022,12,
+South Carolina,2023,1,46.60746875
+South Carolina,2023,2,
+South Carolina,2023,3,
+South Carolina,2023,4,
+South Carolina,2023,5,
+South Carolina,2023,6,
+South Carolina,2023,7,
+South Carolina,2023,8,
+South Carolina,2023,9,
+South Carolina,2023,10,
+South Carolina,2023,11,
+South Carolina,2023,12,
+South Carolina,2024,1,100
+South Carolina,2024,2,
+South Carolina,2024,3,
+South Carolina,2024,4,
+South Carolina,2024,5,
+South Carolina,2024,6,
+South Carolina,2024,7,
+South Carolina,2024,8,
+South Carolina,2024,9,
+South Carolina,2024,10,
+South Carolina,2024,11,
+South Carolina,2024,12,
+South Dakota,2020,1,
+South Dakota,2020,2,
+South Dakota,2020,3,
+South Dakota,2020,4,
+South Dakota,2020,5,
+South Dakota,2020,6,
+South Dakota,2020,7,
+South Dakota,2020,8,
+South Dakota,2020,9,
+South Dakota,2020,10,
+South Dakota,2020,11,
+South Dakota,2020,12,
+South Dakota,2021,1,
+South Dakota,2021,2,
+South Dakota,2021,3,
+South Dakota,2021,4,
+South Dakota,2021,5,
+South Dakota,2021,6,
+South Dakota,2021,7,
+South Dakota,2021,8,
+South Dakota,2021,9,
+South Dakota,2021,10,
+South Dakota,2021,11,
+South Dakota,2021,12,
+South Dakota,2022,1,
+South Dakota,2022,2,
+South Dakota,2022,3,
+South Dakota,2022,4,
+South Dakota,2022,5,
+South Dakota,2022,6,
+South Dakota,2022,7,
+South Dakota,2022,8,
+South Dakota,2022,9,
+South Dakota,2022,10,
+South Dakota,2022,11,
+South Dakota,2022,12,
+South Dakota,2023,1,
+South Dakota,2023,2,
+South Dakota,2023,3,
+South Dakota,2023,4,49.7437861842105
+South Dakota,2023,5,
+South Dakota,2023,6,
+South Dakota,2023,7,
+South Dakota,2023,8,
+South Dakota,2023,9,
+South Dakota,2023,10,
+South Dakota,2023,11,
+South Dakota,2023,12,
+South Dakota,2024,1,61.6553181818182
+South Dakota,2024,2,
+South Dakota,2024,3,
+South Dakota,2024,4,
+South Dakota,2024,5,
+South Dakota,2024,6,
+South Dakota,2024,7,
+South Dakota,2024,8,
+South Dakota,2024,9,
+South Dakota,2024,10,
+South Dakota,2024,11,
+South Dakota,2024,12,
+Tennessee,2020,1,
+Tennessee,2020,2,
+Tennessee,2020,3,
+Tennessee,2020,4,
+Tennessee,2020,5,
+Tennessee,2020,6,
+Tennessee,2020,7,
+Tennessee,2020,8,
+Tennessee,2020,9,
+Tennessee,2020,10,
+Tennessee,2020,11,
+Tennessee,2020,12,
+Tennessee,2021,1,
+Tennessee,2021,2,
+Tennessee,2021,3,
+Tennessee,2021,4,
+Tennessee,2021,5,
+Tennessee,2021,6,
+Tennessee,2021,7,
+Tennessee,2021,8,
+Tennessee,2021,9,
+Tennessee,2021,10,
+Tennessee,2021,11,
+Tennessee,2021,12,
+Tennessee,2022,1,
+Tennessee,2022,2,
+Tennessee,2022,3,
+Tennessee,2022,4,
+Tennessee,2022,5,
+Tennessee,2022,6,
+Tennessee,2022,7,
+Tennessee,2022,8,
+Tennessee,2022,9,
+Tennessee,2022,10,
+Tennessee,2022,11,
+Tennessee,2022,12,
+Tennessee,2023,1,
+Tennessee,2023,2,
+Tennessee,2023,3,
+Tennessee,2023,4,
+Tennessee,2023,5,
+Tennessee,2023,6,50.6677280513919
+Tennessee,2023,7,48.6979471153846
+Tennessee,2023,8,
+Tennessee,2023,9,
+Tennessee,2023,10,
+Tennessee,2023,11,
+Tennessee,2023,12,48.4358024691358
+Tennessee,2024,1,
+Tennessee,2024,2,
+Tennessee,2024,3,
+Tennessee,2024,4,
+Tennessee,2024,5,
+Tennessee,2024,6,
+Tennessee,2024,7,
+Tennessee,2024,8,
+Tennessee,2024,9,
+Tennessee,2024,10,
+Tennessee,2024,11,
+Tennessee,2024,12,
+Texas,2020,1,
+Texas,2020,2,
+Texas,2020,3,
+Texas,2020,4,
+Texas,2020,5,
+Texas,2020,6,
+Texas,2020,7,
+Texas,2020,8,
+Texas,2020,9,
+Texas,2020,10,
+Texas,2020,11,
+Texas,2020,12,
+Texas,2021,1,
+Texas,2021,2,
+Texas,2021,3,
+Texas,2021,4,
+Texas,2021,5,
+Texas,2021,6,49.7102069234368
+Texas,2021,7,
+Texas,2021,8,
+Texas,2021,9,
+Texas,2021,10,
+Texas,2021,11,
+Texas,2021,12,
+Texas,2022,1,
+Texas,2022,2,49.9194918566775
+Texas,2022,3,50.3167019498607
+Texas,2022,4,
+Texas,2022,5,
+Texas,2022,6,
+Texas,2022,7,
+Texas,2022,8,
+Texas,2022,9,
+Texas,2022,10,
+Texas,2022,11,
+Texas,2022,12,51.2267145564822
+Texas,2023,1,
+Texas,2023,2,50.1544972826087
+Texas,2023,3,
+Texas,2023,4,
+Texas,2023,5,
+Texas,2023,6,48.4377464183381
+Texas,2023,7,
+Texas,2023,8,
+Texas,2023,9,
+Texas,2023,10,
+Texas,2023,11,
+Texas,2023,12,48.6848163265306
+Texas,2024,1,
+Texas,2024,2,
+Texas,2024,3,
+Texas,2024,4,
+Texas,2024,5,
+Texas,2024,6,
+Texas,2024,7,
+Texas,2024,8,
+Texas,2024,9,
+Texas,2024,10,
+Texas,2024,11,
+Texas,2024,12,
+Utah,2020,1,
+Utah,2020,2,
+Utah,2020,3,
+Utah,2020,4,
+Utah,2020,5,
+Utah,2020,6,
+Utah,2020,7,
+Utah,2020,8,
+Utah,2020,9,
+Utah,2020,10,
+Utah,2020,11,
+Utah,2020,12,
+Utah,2021,1,
+Utah,2021,2,
+Utah,2021,3,
+Utah,2021,4,
+Utah,2021,5,
+Utah,2021,6,
+Utah,2021,7,
+Utah,2021,8,51.4561975274178
+Utah,2021,9,
+Utah,2021,10,
+Utah,2021,11,
+Utah,2021,12,
+Utah,2022,1,
+Utah,2022,2,
+Utah,2022,3,
+Utah,2022,4,
+Utah,2022,5,50.9054441087613
+Utah,2022,6,
+Utah,2022,7,
+Utah,2022,8,
+Utah,2022,9,49.8301704980843
+Utah,2022,10,50.6148645833333
+Utah,2022,11,
+Utah,2022,12,
+Utah,2023,1,
+Utah,2023,2,
+Utah,2023,3,
+Utah,2023,4,
+Utah,2023,5,
+Utah,2023,6,51.7784822134387
+Utah,2023,7,
+Utah,2023,8,
+Utah,2023,9,
+Utah,2023,10,
+Utah,2023,11,
+Utah,2023,12,
+Utah,2024,1,
+Utah,2024,2,
+Utah,2024,3,
+Utah,2024,4,
+Utah,2024,5,
+Utah,2024,6,
+Utah,2024,7,
+Utah,2024,8,
+Utah,2024,9,
+Utah,2024,10,
+Utah,2024,11,
+Utah,2024,12,
+Vermont,2020,1,
+Vermont,2020,2,
+Vermont,2020,3,
+Vermont,2020,4,
+Vermont,2020,5,
+Vermont,2020,6,
+Vermont,2020,7,
+Vermont,2020,8,
+Vermont,2020,9,
+Vermont,2020,10,
+Vermont,2020,11,
+Vermont,2020,12,
+Vermont,2021,1,
+Vermont,2021,2,
+Vermont,2021,3,
+Vermont,2021,4,
+Vermont,2021,5,
+Vermont,2021,6,
+Vermont,2021,7,
+Vermont,2021,8,
+Vermont,2021,9,
+Vermont,2021,10,
+Vermont,2021,11,
+Vermont,2021,12,
+Vermont,2022,1,
+Vermont,2022,2,
+Vermont,2022,3,
+Vermont,2022,4,
+Vermont,2022,5,
+Vermont,2022,6,
+Vermont,2022,7,
+Vermont,2022,8,
+Vermont,2022,9,
+Vermont,2022,10,
+Vermont,2022,11,
+Vermont,2022,12,
+Vermont,2023,1,
+Vermont,2023,2,
+Vermont,2023,3,49.6466790476191
+Vermont,2023,4,
+Vermont,2023,5,
+Vermont,2023,6,
+Vermont,2023,7,
+Vermont,2023,8,
+Vermont,2023,9,
+Vermont,2023,10,
+Vermont,2023,11,
+Vermont,2023,12,
+Vermont,2024,1,
+Vermont,2024,2,
+Vermont,2024,3,
+Vermont,2024,4,
+Vermont,2024,5,
+Vermont,2024,6,
+Vermont,2024,7,
+Vermont,2024,8,
+Vermont,2024,9,
+Vermont,2024,10,
+Vermont,2024,11,
+Vermont,2024,12,
+Virginia,2020,1,
+Virginia,2020,2,
+Virginia,2020,3,
+Virginia,2020,4,
+Virginia,2020,5,
+Virginia,2020,6,
+Virginia,2020,7,
+Virginia,2020,8,
+Virginia,2020,9,
+Virginia,2020,10,
+Virginia,2020,11,
+Virginia,2020,12,
+Virginia,2021,1,
+Virginia,2021,2,
+Virginia,2021,3,
+Virginia,2021,4,
+Virginia,2021,5,
+Virginia,2021,6,
+Virginia,2021,7,
+Virginia,2021,8,
+Virginia,2021,9,
+Virginia,2021,10,
+Virginia,2021,11,
+Virginia,2021,12,
+Virginia,2022,1,
+Virginia,2022,2,
+Virginia,2022,3,
+Virginia,2022,4,
+Virginia,2022,5,
+Virginia,2022,6,
+Virginia,2022,7,
+Virginia,2022,8,
+Virginia,2022,9,
+Virginia,2022,10,
+Virginia,2022,11,
+Virginia,2022,12,50.4996095890411
+Virginia,2023,1,
+Virginia,2023,2,
+Virginia,2023,3,50.6136935933148
+Virginia,2023,4,48.9916839214889
+Virginia,2023,5,
+Virginia,2023,6,
+Virginia,2023,7,
+Virginia,2023,8,
+Virginia,2023,9,
+Virginia,2023,10,39.8598292682927
+Virginia,2023,11,100
+Virginia,2023,12,
+Virginia,2024,1,
+Virginia,2024,2,
+Virginia,2024,3,
+Virginia,2024,4,
+Virginia,2024,5,
+Virginia,2024,6,
+Virginia,2024,7,
+Virginia,2024,8,
+Virginia,2024,9,
+Virginia,2024,10,
+Virginia,2024,11,
+Virginia,2024,12,
+Washington,2020,1,
+Washington,2020,2,
+Washington,2020,3,
+Washington,2020,4,
+Washington,2020,5,
+Washington,2020,6,
+Washington,2020,7,
+Washington,2020,8,
+Washington,2020,9,
+Washington,2020,10,
+Washington,2020,11,
+Washington,2020,12,
+Washington,2021,1,
+Washington,2021,2,
+Washington,2021,3,
+Washington,2021,4,
+Washington,2021,5,
+Washington,2021,6,
+Washington,2021,7,
+Washington,2021,8,
+Washington,2021,9,
+Washington,2021,10,48.2048669554456
+Washington,2021,11,48.0364088669951
+Washington,2021,12,
+Washington,2022,1,
+Washington,2022,2,
+Washington,2022,3,49.5634903314917
+Washington,2022,4,49.6076221889055
+Washington,2022,5,50.9387145085804
+Washington,2022,6,
+Washington,2022,7,49.287388951522
+Washington,2022,8,
+Washington,2022,9,51.0461509433962
+Washington,2022,10,48.9581424116424
+Washington,2022,11,
+Washington,2022,12,49.906798206278
+Washington,2023,1,
+Washington,2023,2,
+Washington,2023,3,
+Washington,2023,4,50.5315538140021
+Washington,2023,5,
+Washington,2023,6,
+Washington,2023,7,
+Washington,2023,8,
+Washington,2023,9,51.1477611940299
+Washington,2023,10,48.9133236363636
+Washington,2023,11,
+Washington,2023,12,
+Washington,2024,1,
+Washington,2024,2,
+Washington,2024,3,
+Washington,2024,4,
+Washington,2024,5,
+Washington,2024,6,
+Washington,2024,7,
+Washington,2024,8,
+Washington,2024,9,
+Washington,2024,10,
+Washington,2024,11,
+Washington,2024,12,
+West Virginia,2020,1,
+West Virginia,2020,2,
+West Virginia,2020,3,
+West Virginia,2020,4,
+West Virginia,2020,5,
+West Virginia,2020,6,
+West Virginia,2020,7,
+West Virginia,2020,8,
+West Virginia,2020,9,
+West Virginia,2020,10,
+West Virginia,2020,11,49.5803078817734
+West Virginia,2020,12,
+West Virginia,2021,1,
+West Virginia,2021,2,
+West Virginia,2021,3,
+West Virginia,2021,4,
+West Virginia,2021,5,
+West Virginia,2021,6,
+West Virginia,2021,7,
+West Virginia,2021,8,
+West Virginia,2021,9,50.3715243445693
+West Virginia,2021,10,
+West Virginia,2021,11,51.1580103626943
+West Virginia,2021,12,51.0070800894855
+West Virginia,2022,1,50.8936919282511
+West Virginia,2022,2,51.6074195068891
+West Virginia,2022,3,50.2692103232031
+West Virginia,2022,4,
+West Virginia,2022,5,48.8201435185185
+West Virginia,2022,6,51.6211012658228
+West Virginia,2022,7,52.6352562620424
+West Virginia,2022,8,
+West Virginia,2022,9,
+West Virginia,2022,10,49.8395443877551
+West Virginia,2022,11,
+West Virginia,2022,12,
+West Virginia,2023,1,
+West Virginia,2023,2,
+West Virginia,2023,3,51.1888787878788
+West Virginia,2023,4,49.2256771159875
+West Virginia,2023,5,
+West Virginia,2023,6,
+West Virginia,2023,7,
+West Virginia,2023,8,56.8402450980392
+West Virginia,2023,9,
+West Virginia,2023,10,
+West Virginia,2023,11,
+West Virginia,2023,12,
+West Virginia,2024,1,
+West Virginia,2024,2,
+West Virginia,2024,3,
+West Virginia,2024,4,
+West Virginia,2024,5,
+West Virginia,2024,6,
+West Virginia,2024,7,
+West Virginia,2024,8,
+West Virginia,2024,9,
+West Virginia,2024,10,
+West Virginia,2024,11,
+West Virginia,2024,12,
+Wisconsin,2020,1,
+Wisconsin,2020,2,
+Wisconsin,2020,3,
+Wisconsin,2020,4,
+Wisconsin,2020,5,
+Wisconsin,2020,6,
+Wisconsin,2020,7,
+Wisconsin,2020,8,
+Wisconsin,2020,9,
+Wisconsin,2020,10,
+Wisconsin,2020,11,
+Wisconsin,2020,12,
+Wisconsin,2021,1,
+Wisconsin,2021,2,
+Wisconsin,2021,3,
+Wisconsin,2021,4,
+Wisconsin,2021,5,
+Wisconsin,2021,6,
+Wisconsin,2021,7,
+Wisconsin,2021,8,
+Wisconsin,2021,9,
+Wisconsin,2021,10,
+Wisconsin,2021,11,
+Wisconsin,2021,12,
+Wisconsin,2022,1,50.0799562922768
+Wisconsin,2022,2,50.0620499432463
+Wisconsin,2022,3,
+Wisconsin,2022,4,
+Wisconsin,2022,5,
+Wisconsin,2022,6,
+Wisconsin,2022,7,
+Wisconsin,2022,8,
+Wisconsin,2022,9,49.8816676616915
+Wisconsin,2022,10,49.755887063655
+Wisconsin,2022,11,50.7056663157895
+Wisconsin,2022,12,
+Wisconsin,2023,1,
+Wisconsin,2023,2,
+Wisconsin,2023,3,
+Wisconsin,2023,4,
+Wisconsin,2023,5,
+Wisconsin,2023,6,46.8311035856574
+Wisconsin,2023,7,
+Wisconsin,2023,8,
+Wisconsin,2023,9,
+Wisconsin,2023,10,48.6067482517483
+Wisconsin,2023,11,
+Wisconsin,2023,12,
+Wisconsin,2024,1,54.6407555555556
+Wisconsin,2024,2,
+Wisconsin,2024,3,
+Wisconsin,2024,4,
+Wisconsin,2024,5,
+Wisconsin,2024,6,
+Wisconsin,2024,7,
+Wisconsin,2024,8,
+Wisconsin,2024,9,
+Wisconsin,2024,10,
+Wisconsin,2024,11,
+Wisconsin,2024,12,
+Wyoming,2020,1,
+Wyoming,2020,2,
+Wyoming,2020,3,
+Wyoming,2020,4,
+Wyoming,2020,5,
+Wyoming,2020,6,
+Wyoming,2020,7,
+Wyoming,2020,8,
+Wyoming,2020,9,
+Wyoming,2020,10,
+Wyoming,2020,11,
+Wyoming,2020,12,
+Wyoming,2021,1,
+Wyoming,2021,2,
+Wyoming,2021,3,
+Wyoming,2021,4,
+Wyoming,2021,5,
+Wyoming,2021,6,
+Wyoming,2021,7,
+Wyoming,2021,8,
+Wyoming,2021,9,
+Wyoming,2021,10,
+Wyoming,2021,11,
+Wyoming,2021,12,
+Wyoming,2022,1,
+Wyoming,2022,2,
+Wyoming,2022,3,
+Wyoming,2022,4,
+Wyoming,2022,5,
+Wyoming,2022,6,
+Wyoming,2022,7,
+Wyoming,2022,8,
+Wyoming,2022,9,
+Wyoming,2022,10,
+Wyoming,2022,11,
+Wyoming,2022,12,
+Wyoming,2023,1,54.4882371794872
+Wyoming,2023,2,
+Wyoming,2023,3,
+Wyoming,2023,4,
+Wyoming,2023,5,
+Wyoming,2023,6,
+Wyoming,2023,7,
+Wyoming,2023,8,51.288040201005
+Wyoming,2023,9,
+Wyoming,2023,10,53.957676
+Wyoming,2023,11,100
+Wyoming,2023,12,
+Wyoming,2024,1,
+Wyoming,2024,2,
+Wyoming,2024,3,
+Wyoming,2024,4,
+Wyoming,2024,5,
+Wyoming,2024,6,
+Wyoming,2024,7,
+Wyoming,2024,8,
+Wyoming,2024,9,
+Wyoming,2024,10,
+Wyoming,2024,11,
+Wyoming,2024,12,

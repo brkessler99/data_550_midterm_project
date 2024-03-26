@@ -1,14 +1,14 @@
 here::i_am("midterm_project/code/coder_1/01_clean_data.R")
 pacman::p_load(tidyverse,rio,lubridate)
-wastewater <- import(here::here("midterm_project/raw_data/wastewater_feb25.csv")) %>% 
+wastewater <- import(here::here("midterm_project/raw_data/wastewater_feb25.csv.zip")) %>% 
   janitor::clean_names() 
 
 # import data -------------------------------------------------------------
 
 wastewater_state <- wastewater %>% 
   select(wwtp_jurisdiction,county_names,county_fips,population_served,first_sample_date,percentile) %>% 
-  mutate(month=month(wastewater_state$first_sample_date)) %>% 
-  mutate(year=year(wastewater_state$first_sample_date))
+  mutate(month=month(wastewater$first_sample_date)) %>% 
+  mutate(year=year(wastewater$first_sample_date))
 
 # create a function to calculate state mean by month ----------------------
 
@@ -79,8 +79,16 @@ state_region <- function(state) {
   }
 }
 
-state_month_percentile_mean <- state_month_percentile_mean %>% mutate(region=lapply(state,state_region))
+state_month_percentile_mean <- state_month_percentile_mean %>% 
+  mutate(region=lapply(state,state_region)) 
+
+state_month_percentile_mean_clean <- state_month_percentile_mean %>%
+  mutate(mean_percentile=case_when(
+    mean_percentile==999 ~ NaN,
+    mean_percentile>=100 ~ 100,
+    TRUE ~ mean_percentile
+  ))
 
 # export clean data -------------------------------------------------------
 
-export(state_month_percentile_mean,here::here("midterm_project/clean_data/wastewater_clean.csv"))
+export(state_month_percentile_mean_clean,here::here("midterm_project/clean_data/wastewater_clean.csv"))
