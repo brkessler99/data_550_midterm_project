@@ -1,6 +1,6 @@
-here::i_am("midterm_project/code/coder_1/01_clean_data.R")
+here::i_am("code/coder_1/01_clean_data.R")
 pacman::p_load(tidyverse,rio,lubridate)
-wastewater <- import(here::here("midterm_project/raw_data/wastewater_feb25.csv.zip")) %>% 
+wastewater <- import(here::here("raw_data/wastewater_feb25.csv.zip")) %>% 
   janitor::clean_names() 
 
 # import data -------------------------------------------------------------
@@ -91,4 +91,5 @@ state_month_percentile_mean_clean <- state_month_percentile_mean %>%
 
 # export clean data -------------------------------------------------------
 
-export(state_month_percentile_mean_clean,here::here("midterm_project/clean_data/wastewater_clean.csv"))
+export(state_month_percentile_mean_clean,here::here("clean_data/wastewater_clean.csv"))
+
