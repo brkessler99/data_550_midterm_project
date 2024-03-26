@@ -3,11 +3,18 @@ title: "SARS-CoV-2 Wastewater Surveillance by US Region, March 2020 - December 2
 document: html_document
 ---
 
+```{r, include=FALSE}
+
+knitr::opts_chunk$set(echo=FALSE)
+here::i_am("midterm_project_report.rmd")
+
+```
+
 **Table 1.**  SARS-CoV-2 virus level mean percentile by US region from 2020-2023.
 
 ```{r, table_1}
 
-
+readRDS(here::here("output/desc_table.Rds"))
 
 ```
 
