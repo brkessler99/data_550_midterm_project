@@ -3,14 +3,7 @@ absolute_path_to_data <- here::here("clean_data/wastewater_clean.csv")
 data <- read.csv(absolute_path_to_data, header = TRUE)
 
 
-
-
-library (ggplot2)
-library(janitor)
-library(tidyr)
-library(graphics)
-
-
+pacman::p_load(ggplot2, janitor, tidyr, graphics)
 
 
 barplot<- ggplot(data, aes(x = region, y= mean_percentile,fill = factor(year))) +

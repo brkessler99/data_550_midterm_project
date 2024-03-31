@@ -1,9 +1,7 @@
 # Change in total US and user-specified region(s) wastewater prevalence from 2020-2023
 # By Jiawen Shi
 
-library(ggplot2)
-library(dplyr)
-library(lubridate)
+pacman::p_load(ggplot2, dplyr, lubridate)
 
 here::i_am("code/coder_2/01_line_graph.R")
 

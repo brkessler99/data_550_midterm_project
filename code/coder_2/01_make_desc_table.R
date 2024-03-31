@@ -2,7 +2,7 @@ here::i_am("code/coder_2/01_make_desc_table.R")
 absolute_path_to_data <- here::here("clean_data/wastewater_clean.csv")
 data <- read.csv(absolute_path_to_data, header = TRUE)
 
-library(kableExtra, dplyr)
+pacman::p_load(kableExtra, dplyr)
 
 #mean percentile avg per year by region
 mean_percentile_year_region <- data |>
