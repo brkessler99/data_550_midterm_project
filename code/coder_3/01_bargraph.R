@@ -1,4 +1,4 @@
-here::i_am("code/coder_3/02_bargraph.R")
+here::i_am("code/coder_3/01_bargraph.R")
 absolute_path_to_data <- here::here("clean_data/wastewater_clean.csv")
 data <- read.csv(absolute_path_to_data, header = TRUE)
 

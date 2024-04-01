@@ -1,0 +1,5 @@
+default:
+  Midwest: true
+  Northeast: true
+  South: false
+  West: true

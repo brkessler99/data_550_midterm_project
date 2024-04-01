@@ -89,7 +89,24 @@ state_month_percentile_mean_clean <- state_month_percentile_mean %>%
     TRUE ~ mean_percentile
   ))
 
+# user selected regions ---------------------------------------------------
+
+config_list <- config::get()
+region_list <- c("Midwest", "Northeast", "South", "West")
+regions_to_include <- NULL
+
+for (i in 1:4) {
+  if (config_list[[i]] == TRUE) {
+    regions_to_include[i] <- region_list[[i]]
+  }
+  else {
+    next
+  }
+}
+
+custom_regions <- state_month_percentile_mean_clean %>% filter(region %in% regions_to_include)
+
 # export clean data -------------------------------------------------------
 
-export(state_month_percentile_mean_clean,here::here("clean_data/wastewater_clean.csv"))
+export(custom_regions,here::here("clean_data/wastewater_clean.csv"))
 
