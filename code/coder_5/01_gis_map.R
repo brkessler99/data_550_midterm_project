@@ -2,7 +2,6 @@ here::i_am("code/coder_5/gis_map.R")
 direct_data_path<-here::here("clean_data/wastewater_clean.csv")
 data<-read.csv(direct_data_path, header=T)
 
-
 #Load required libraries
 pacman::p_load(dplyr, usmap, ggplot2, gridExtra)
 
@@ -20,8 +19,6 @@ us_plot <- plot_usmap(data = state_means, values = "mean_percentile", lines = "w
   theme(legend.title = element_text(margin = margin(b = 10)),  # Adjust legend title position
         plot.title = element_text(hjust = 0.5)) +  # Center the plot title
   ggtitle("2023 Prevalence of COVID-19 Virus in Wastewater by State")  # Add plot title
-
-us_plot #show plot
 
 #save plot
 ggsave(

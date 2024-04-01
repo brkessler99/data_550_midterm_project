@@ -13,8 +13,8 @@ output/bargraph.png: code/coder_3/02_bargraph.R clean_data/wastewater_clean.csv
 output/figure_three.png: code/coder_4/01_line_graph.R clean_data/wastewater_clean.csv
 	Rscript code/coder_4/01_line_graph.R
 
-output/us_plot.png: code/coder_5/gis_map.R clean_data/wastewater_clean.csv
-	Rscript code/coder_5/gis_map.R
+output/us_plot.png: code/coder_5/01_gis_map.R clean_data/wastewater_clean.csv
+	Rscript code/coder_5/01_gis_map.R
 
 .PHONY: clean
 clean:
