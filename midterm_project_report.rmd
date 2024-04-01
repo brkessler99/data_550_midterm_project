@@ -1,7 +1,13 @@
 ---
 title: "SARS-CoV-2 Wastewater Surveillance by US Region, March 2020 - December 2023"
+author: Ben Kessler, Jiawen Shi, Natnael Kassahun, Steph Ponce, Suprithi Pingle
 document: html_document
 ---
+# **Introduction**
+This dataset contains information about the complete timeline of SARS-CoV-2 concentrations in waste water (as of February 25, 2024)
+
+# **Aim**
+The primary objective of this analysis is to report the descriptive epidemiology of the waste water prevalence of COVID-19 by user-specified region(s) of the US.
 
 ```{r, include=FALSE}
 
@@ -21,7 +27,9 @@ readRDS(here::here("output/desc_table.Rds"))
 **Figure 1.**  SARS-Cov-2 virus level mean percentile by state in 2023.  
 
 ```{r, figure_1}
-
+knitr::include_graphics(
+  here::here("output/us_plot.png")
+  )
 ```
 
 **Figure 2.**  Comparison of US region and total US SARS-Cov-2 virus level mean percentile for 2023.
@@ -32,14 +40,12 @@ readRDS(here::here("output/desc_table.Rds"))
 knitr::include_graphics(
   here::here("output/bargraph.png")
   )
-
-
 ```
 
 **Figure 3.** Change in SARS-Cov-2 virus level mean percentile by US region from 2020-2023.
 
 ```{r, figure_3}
-
-
-
+knitr::include_graphics(
+  here::here("output/figure_three.png")
+  )
 ```
