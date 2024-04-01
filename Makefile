@@ -7,8 +7,8 @@ clean_data/wastewater_clean.csv: code/coder_1/01_clean_data.R raw_data/wastewate
 output/desc_table.Rds: code/coder_2/01_make_desc_table.R clean_data/wastewater_clean.csv
 	Rscript code/coder_2/01_make_desc_table.R
 	
-output/bargraph.png: code/coder_3/02_bargraph.R clean_data/wastewater_clean.csv
-	Rscript code/coder_3/02_bargraph.R
+output/bargraph.png: code/coder_3/01_bargraph.R clean_data/wastewater_clean.csv
+	Rscript code/coder_3/01_bargraph.R
 	
 output/figure_three.png: code/coder_4/01_line_graph.R clean_data/wastewater_clean.csv
 	Rscript code/coder_4/01_line_graph.R
