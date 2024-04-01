@@ -3,9 +3,9 @@ direct_data_path<-here::here("clean_data/wastewater_clean.csv")
 data<-read.csv(direct_data_path, header=T)
 
 
-# Load required libraries
+#Load required libraries
+#install ggplot2, usmap, gridExtra if needed
 library(dplyr)
-library(ggplot2)
 library(usmap)
 library(ggplot2)
 library(gridExtra)
@@ -17,7 +17,7 @@ data_2023 <- data %>%
 #Find the average percentile for the whole year
 state_means <- aggregate(mean_percentile ~ state, data = data_2023, FUN = mean)
 
-# Plot US map with states average mean_percentile for 2023
+#Plot US map with states average mean_percentile for 2023
 us_plot <- plot_usmap(data = state_means, values = "mean_percentile", lines = "white") +
   scale_fill_continuous(name = NULL,  # Remove legend title
                         label = scales::percent_format(scale = 1)) +
