@@ -3,14 +3,15 @@ README
 
 This repository contains the files needed to render
 `midterm_project_report.html`. It contains a hierarchically ordered set
-of `code` folders, a folder wit hthe raw data set
+of `code` folders, a folder with the raw data set
 `wastewater_feb25.csv.zip`, a folder with the clean data set
 `wastewater_clean.csv`, a folder with the code output, the RMarkdown
 file `midterm_project_report.Rmd` and its associated .html file, a
-.gitignore file, and a Makefile that contains GNU Make commands for
-rendering the report and its components. Briefly, this analysis provides
-the descriptive epidemiology of SARS-CoV-2 surveillance in the United
-States by US region from 2020-2024.
+.gitignore file, a Makefile that contains GNU Make commands for
+rendering the report and its components, and a config file that allows
+the user to customize the report. Briefly, this analysis provides the
+descriptive epidemiology of SARS-CoV-2 surveillance in the United States
+by US region from 2020-2024.
 
 # Instructions for generating the report
 
@@ -30,6 +31,12 @@ intended.
     output folder with the command make clean.
 
 # Customization
+
+The `config.yml` file contains four parameters that correspond to the
+four US regions that are possible to feature in this report: Midwest,
+Northeast, South, and West. To include a region in the rendered report,
+set the associated Boolean value to `TRUE`. Conversely, set the Boolean
+value to `FALSE` to exclude a region.
 
 # Code directory
 
