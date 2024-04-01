@@ -4,11 +4,7 @@ data<-read.csv(direct_data_path, header=T)
 
 
 #Load required libraries
-#install ggplot2, usmap, gridExtra if needed
-library(dplyr)
-library(usmap)
-library(ggplot2)
-library(gridExtra)
+pacman::p_load(dplyr, usmap, ggplot2, gridExtra)
 
 #Filter data to only 2023
 data_2023 <- data %>%
