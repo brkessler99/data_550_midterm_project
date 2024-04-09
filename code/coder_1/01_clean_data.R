@@ -7,8 +7,7 @@ config_list <- config::get("original_data")
 if (config_list[[1]] == TRUE) {
   wastewater <- import(here::here("raw_data/wastewater_feb25.csv.zip")) %>% 
     janitor::clean_names() 
-}
-else if (config_list[[1]] == FALSE) {
+} else if (config_list[[1]] == FALSE) {
   wastewater <- import(here::here("test_raw_data/wastewater_feb25.csv.zip")) %>% 
     janitor::clean_names() 
 }
