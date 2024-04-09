@@ -36,7 +36,13 @@ The `config.yml` file contains four parameters that correspond to the
 four US regions that are possible to feature in this report: Midwest,
 Northeast, South, and West. To include a region in the rendered report,
 set the associated Boolean value to `TRUE`. Conversely, set the Boolean
-value to `FALSE` to exclude a region.
+value to `FALSE` to exclude a region.  
+Additional CDC SArs-CoV-2 surveillance data through April 2024 became
+available. These data are found at
+`test_raw_data/wastewater_feb25.csv.zip` in the GitHub directory. To
+change the data source from the original data to the updated data in
+this report, set the associated Boolean value for `original_data` to
+`FALSE`.
 
 # Code directory
 
