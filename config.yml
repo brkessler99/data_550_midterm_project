@@ -1,5 +1,5 @@
 default:
   Midwest: true
-  Northeast: true
+  Northeast: false
   South: false
-  West: true
+  West: false
