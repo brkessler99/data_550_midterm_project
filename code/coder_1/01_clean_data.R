@@ -1,7 +1,17 @@
 here::i_am("code/coder_1/01_clean_data.R")
-pacman::p_load(tidyverse,rio,lubridate)
-wastewater <- import(here::here("raw_data/wastewater_feb25.csv.zip")) %>% 
-  janitor::clean_names() 
+pacman::p_load(tidyverse,rio,lubridate,config)
+
+Sys.setenv(R_CONFIG_ACTIVE = "data_source")
+config_list <- config::get("original_data")
+
+if (config_list[[1]] == TRUE) {
+  wastewater <- import(here::here("raw_data/wastewater_feb25.csv.zip")) %>% 
+    janitor::clean_names() 
+}
+else if (config_list[[1]] == FALSE) {
+  wastewater <- import(here::here("test_raw_data/wastewater_feb25.csv.zip")) %>% 
+    janitor::clean_names() 
+}
 
 # import data -------------------------------------------------------------
 
@@ -91,6 +101,7 @@ state_month_percentile_mean_clean <- state_month_percentile_mean %>%
 
 # user selected regions ---------------------------------------------------
 
+Sys.setenv(R_CONFIG_ACTIVE = "default")
 config_list <- config::get()
 region_list <- c("Midwest", "Northeast", "South", "West")
 regions_to_include <- NULL
@@ -109,4 +120,3 @@ custom_regions <- state_month_percentile_mean_clean %>% filter(region %in% regio
 # export clean data -------------------------------------------------------
 
 export(custom_regions,here::here("clean_data/wastewater_clean.csv"))
-

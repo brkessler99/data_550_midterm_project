@@ -13,6 +13,41 @@ The primary objective of this analysis is to report the descriptive epidemiology
 
 knitr::opts_chunk$set(echo=FALSE)
 here::i_am("midterm_project_report.rmd")
+pacman::p_load(config)
+
+```
+
+```{r, data_source_parameter}
+
+#data source
+Sys.setenv(R_CONFIG_ACTIVE = "data_source")
+config_list <- config::get("original_data")
+data_source <- ifelse(config_list[[1]] == TRUE, "original", "updated")
+
+```
+
+These data come from the `r data_source` data set.
+
+The following regions were included in this analysis:
+
+```{r, region_paramter}
+
+#US regions to include
+Sys.setenv(R_CONFIG_ACTIVE = "default")
+config_list <- config::get()
+region_list <- c("Midwest", "Northeast", "South", "West")
+regions_to_include <- NULL
+
+for (i in 1:4) {
+  if (config_list[[i]] == TRUE) {
+    regions_to_include[i] <- region_list[[i]]
+  }
+  else {
+    next
+  }
+}
+
+print(regions_to_include)
 
 ```
 
