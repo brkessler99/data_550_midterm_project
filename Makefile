@@ -18,4 +18,8 @@ output/us_plot.png: code/coder_5/01_gis_map.R clean_data/wastewater_clean.csv
 
 .PHONY: clean
 clean:
-	rm -f output/* && rm -f report.html
+	rm -f output/* && rm -f report.html && rm -f clean_data/wastewater_clean.csv
+	
+.PHONY: install
+install:
+	Rscript -e "renv::restore(prompt=FALSE)"
