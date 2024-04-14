@@ -4,10 +4,21 @@ author: Ben Kessler, Jiawen Shi, Natnael Kassahun, Steph Ponce, Suprithi Pingle
 document: html_document
 ---
 # **Introduction**
-This dataset contains information about the complete timeline of SARS-CoV-2 concentrations in waste water (as of February 25, 2024)
+This dataset contains information about the complete timeline of SARS-CoV-2 concentrations in waste water (as of February 25, 2024). The data was provided the National Wastewater Surveillance System (NWSS), which was launched in September 2020, to organize and enhance the nation's ability to monitor the occurrence of SARS-CoV-2, the virus responsible for COVID-19, in wastewater samples gathered nationwide. 
+
+NWSS collaborates with health departments to:
+
+* Track the levels of SARS-CoV-2 in wastewater.
+* Detect the virus shed by both symptomatic and asymptomatic individuals through wastewater surveillance.
+* Serve as an early alert system for the spread of COVID-19 within communities.
+
+This approach allows for timely public health interventions, providing essential data on the community-wide prevalence of COVID-19.
 
 # **Aim**
-The primary objective of this analysis is to report the descriptive epidemiology of the waste water prevalence of COVID-19 by user-specified region(s) of the US.
+The primary objective of this analysis is to report the descriptive epidemiology of the wastewater prevalence of COVID-19 by user-specified region(s) of the US. Through this analysis, we analyzed prevalence trends:
+
+1. Between the different regions of the country
+2. Between the different states
 
 ```{r, include=FALSE}
 
@@ -28,9 +39,7 @@ data_source <- ifelse(config_list[[1]] == TRUE, "original", "updated")
 
 These data come from the `r data_source` data set.
 
-The following regions were included in this analysis:
-
-```{r, region_paramter}
+```{r, region_paramter,include=FALSE}
 
 #US regions to include
 Sys.setenv(R_CONFIG_ACTIVE = "default")
@@ -51,25 +60,22 @@ print(regions_to_include)
 
 ```
 
-**Table 1.**  SARS-CoV-2 virus level mean percentile by US region from 2020-2023.
+# **Analysis**
+
+## Regional Analysis
 
 ```{r, table_1}
-
 readRDS(here::here("output/desc_table.Rds"))
-
 ```
 
-**Figure 1.**  SARS-Cov-2 virus level mean percentile by state in 2023.  
 
-```{r, figure_1}
+```{r, figure_1,fig.cap="Figure 1: Change in SARS-Cov-2 virus level mean percentile by US region from 2020-2023",out.width="70%"}
 knitr::include_graphics(
-  here::here("output/us_plot.png")
+  here::here("output/figure_three.png")
   )
 ```
 
-**Figure 2.**  Comparison of US region and total US SARS-Cov-2 virus level mean percentile for 2023.
-
-```{r, figure_2}
+```{r, figure_2, fig.cap="Figure 2: Comparison of US region and total US SARS-Cov-2 virus level mean percentile for 2023", out.width="70%"}
 #| fig.align = "center",
 #| out.width = "600px"
 knitr::include_graphics(
@@ -77,10 +83,10 @@ knitr::include_graphics(
   )
 ```
 
-**Figure 3.** Change in SARS-Cov-2 virus level mean percentile by US region from 2020-2023.
+## State Analysis
 
-```{r, figure_3}
+```{r, figure_3, fig.cap=" Figure 3: SARS-Cov-2 virus level mean percentile by state in 2023",out.width="70%"}
 knitr::include_graphics(
-  here::here("output/figure_three.png")
+  here::here("output/us_plot.png")
   )
 ```
