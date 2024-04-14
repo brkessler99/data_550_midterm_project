@@ -1,8 +1,13 @@
 ---
-title: "SARS-CoV-2 Wastewater Surveillance by US Region, March 2020 - December 2023"
-author: Ben Kessler, Jiawen Shi, Natnael Kassahun, Steph Ponce, Suprithi Pingle
-document: html_document
+title: "SARS-CoV-2 Wastewater Surveillance by US Region, March 2020 - Feburary 2024"
+author: "Ben Kessler, Jiawen Shi, Natnael Kassahun, Steph Ponce, Suprithi Pingle"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 4
+    number_sections: true
 ---
+
 # **Introduction**
 This dataset contains information about the complete timeline of SARS-CoV-2 concentrations in waste water (as of February 25, 2024). The data was provided the National Wastewater Surveillance System (NWSS), which was launched in September 2020, to organize and enhance the nation's ability to monitor the occurrence of SARS-CoV-2, the virus responsible for COVID-19, in wastewater samples gathered nationwide. 
 
@@ -15,10 +20,10 @@ NWSS collaborates with health departments to:
 This approach allows for timely public health interventions, providing essential data on the community-wide prevalence of COVID-19.
 
 # **Aim**
-The primary objective of this analysis is to report the descriptive epidemiology of the wastewater prevalence of COVID-19 by user-specified region(s) of the US. Through this analysis, we analyzed prevalence trends:
+The primary objective of this analysis is to report the descriptive epidemiology of the wastewater prevalence of COVID-19 by user-specified region(s) of the US over. Through this analysis, we analyzed prevalence trends:
 
-1. Between the different regions of the country
-2. Between the different states
+1. Between the different regions of the country over the years
+2. Between the different states in 2023
 
 ```{r, include=FALSE}
 
@@ -64,20 +69,22 @@ print(regions_to_include)
 
 ## Regional Analysis
 
+We can see that over the time period 2020-2024, the prevalence of SARS-CoV-2 increased in the overall country's waterwaster system over the years, with 2024 having the highest presence of it (Table 1). Within each region, the Midwest seemed to be able to control the virus the best, as they had the lowest rates of growth over the years compared to the other regions. From 2020-2023, their mean percentile of viral level only grew marginally above 50% while the remaining regions had almost double the percentile (Figure 2).
+
+Limitations of our analysis include missing data at multiple time points for each region, as seen in Figure 1 with breaks in the line data. In addition,Northeast region is missing data for years 2020 and 2024, preventing us from making an accurate comparison of their handle of COVID-19 compared to the remaining regions (Figure 2).
+
+
 ```{r, table_1}
 readRDS(here::here("output/desc_table.Rds"))
 ```
 
-
-```{r, figure_1,fig.cap="Figure 1: Change in SARS-Cov-2 virus level mean percentile by US region from 2020-2023",out.width="70%"}
+```{r, figure_1,fig.cap="Figure 1: Change in SARS-Cov-2 virus level mean percentile by US region from 2020-2023",out.width= "70%"}
 knitr::include_graphics(
   here::here("output/figure_three.png")
   )
 ```
 
-```{r, figure_2, fig.cap="Figure 2: Comparison of US region and total US SARS-Cov-2 virus level mean percentile for 2023", out.width="70%"}
-#| fig.align = "center",
-#| out.width = "600px"
+```{r, figure_2, fig.cap="Figure 2: Comparison of US region and total US SARS-Cov-2 virus level mean percentile for 2023", out.width="50%"}
 knitr::include_graphics(
   here::here("output/bargraph.png")
   )
@@ -85,8 +92,24 @@ knitr::include_graphics(
 
 ## State Analysis
 
-```{r, figure_3, fig.cap=" Figure 3: SARS-Cov-2 virus level mean percentile by state in 2023",out.width="70%"}
+Figure 3 breaks down the prevalence of SARS-CoV-2 virus in wastewater by state, with the increasing prevalence indicated by a darker blue. We can see that from the available data in 2023, Washington, Louisiana, and North Carolina were among the few states that had some of the highest prevalence of the virus. Conversely, Wyoming had the least presence of the virus. 
+
+Similarly to the limitations in the regional analysis, data is missing for the following states in 2023:
+
+* Georgia
+* Kentucky
+* Missouri
+* Montana
+* North Dakota
+
+```{r, figure_3, fig.cap=" Figure 3: SARS-CoV-2 virus level mean percentile by state in 2023",out.width= "70%"}
 knitr::include_graphics(
   here::here("output/us_plot.png")
   )
 ```
+
+# **Conclusion**
+
+The National Wastewater Surveillance System (NWSS) has proven to be a vital asset in tracking the spread of the SARS-CoV-2 virus across the United States. By consistently monitoring wastewater samples, the NWSS provides crucial data that enables local health departments to execute timely and effective intervention strategies. This system's capability to detect viral presence in wastewater not only reflects the broader trends of COVID-19 transmission within communities but also highlights the increasing viral loads over recent years, underscoring the persistent challenge posed by this virus.
+
+However, the surveillance system is not without its limitations. Notably, there are significant gaps in data collection that hinder our ability to draw comprehensive and accurate conclusions. These gaps, particularly in the Northeast region during critical periods such as 2020 and 2024 and in certain states, impede robust comparative analysis between different regions. To enhance the effectiveness of the NWSS and ensure more reliable data for public health decision-making, it is imperative that efforts are intensified to address these data shortcomings. Enhancing data completeness will not only refine the accuracy of our current analyses but also strengthen the overall capacity of health authorities to anticipate and respond to future public health threats.
