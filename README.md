@@ -42,7 +42,8 @@ available. These data are found at
 `test_raw_data/wastewater_feb25.csv.zip` in the GitHub directory. To
 change the data source from the original data to the updated data in
 this report, set the associated Boolean value for `original_data` to
-`FALSE`.
+`FALSE`. **You will need to run the make clean command after changing
+any parameters to see the changes reflected in the compiled report.**
 
 # Code directory
 
